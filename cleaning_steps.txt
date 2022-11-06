@@ -1,0 +1,6 @@
+# cleaning_steps
+These are the guidelines and principles I used to clean and remove irrellevant lines.
+
+1. In the "full_uncleaned_PELIC..." file, I temporarily saved it as an xlsx file and converted it to a table for easier sorting.
+
+
