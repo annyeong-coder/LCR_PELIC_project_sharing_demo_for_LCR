@@ -1,0 +1,79 @@
+readme for R and Coll.analysis 4.0 (best viewed with a non-proportional font such as Lucida Console or Courier New)
+
+(i) download R and install it;
+(ii) start R and enter the following line into R and press ENTER:
+
+source("https://www.stgries.info/teaching/groningen/coll.analysis.r")
+
+Then, to run the program, you can enter "coll.analysis()", and press ENTER. Note that while the script is generally much faster now, due to the new ability to provide exact results even for very large row and column totals for FYE tests, the script can take a long time to run for FYE results (with large sample sizes and many words) - how long depends on your row and colum totals, the number of words you're looking at, and your hardware. Also, you should have the packages Rmpfr and doParallel installed. If you then want to run the program again after an analysis has been finished, just press CTRL+L again, enter "coll.analysis()", and press ENTER. Lastly, it has been pointed out to me that certain Unicode characters (e.g., "打", "被", or "和") may sometimes not be rendered properly in the plots that the script now generates; thanks for Lei Liu (Shanghai International Studies University) for letting me know. I myself was not able to replicate the problem on Windoze and Linux machines, but if you have that problem, inserting the following two lines somewhere at the beginning of the coll.analysis script (e.g. lines 5-6) can help:
+
+library(showtext)
+showtext_auto()
+
+If you use the program, PLEASE QUOTE IT as follows:
+Gries, Stefan Th. 2022. Coll.analysis 4.0. A script for R to compute perform collostructional analyses. <https://www.stgries.info/teaching/groningen/index.html>.
+
+The instructions below should help to execute Coll.analysis 4.0. The figures to be entered are mainly from samples drawn from complete data sets discussed in Stefanowitsch & Gries (2003, 2005) and Gries & Stefanowitsch (2004a, b).
+
+
+
+----------------------------------
+COLLOCATIONAL / COLLEXEME ANALYSIS
+
+Data to be entered:
+- analysis you want to perform: 1
+- word/construction you're investigating: ditransitive
+- corpus size ICE-GB: 138664
+- do want the results of (two-tailed!) Fisher-Yates exact tests: yes (I don't recommend that, I only exemplify it here for 'software-didactic reasons')
+- load the tab-delimited input file: <1.csv> (example input file for a collexeme analysis of a few verbs and the ditransitive in the ICE-GB)
+output file I generated for this example: <1_out.csv>
+plus the script generates a plot with what I think are the most useful results that can be computed given the limited input - ideally, one would include dispersion and uncertainty intervals as discussed in Gries (2019c, 2022c, d, in progress e)
+
+
+
+-----------------------------------------------------
+(MULTIPLE) DISTINCTIVE COLLOCATE / COLLEXEME ANALYSIS
+
+Data to be entered:
+- analysis you want to perform: 2
+- distinctive categories: 1 (for "2 alternatives")
+- input format: 1 (raw list of all cooccurrences)
+- do want the results of (two-tailed!) Fisher-Yates exact tests: no
+- load the tab-delimited input file: <2a.csv> (example input file for a distinctive collexeme analysis of a few verbs and the ditransitive vs. the prepositional dative in the ICE-GB
+output file: <2a_out.csv>
+plus the script generates a plot with what I think are the most useful results that can be computed given the limited input - ideally, one would include dispersion and uncertainty intervals as discussed in Gries (2019c, 2022c, d, in progress e)
+
+   or
+
+Data to be entered:
+- analysis you want to perform: 2
+- distinctive categories: 1 (for "2 alternatives")
+- input format: 2 (frequency table)
+- do want the results of (two-tailed!) Fisher-Yates exact tests: no
+- load the tab-delimited input file: <2b.csv> (example input file for a distinctive collexeme analysis of a few verbs and the ditransitive vs. the prepositional dative in the ICE-GB)
+output file: <2b_out.csv>
+plus the script generates a plot with what I think are the most useful results that can be computed given the limited input - ideally, one would include dispersion and uncertainty intervals as discussed in Gries (2019c, 2022c, d, in progress e)
+
+   or
+
+Data to be entered:
+- analysis you want to perform: 2
+- distinctive categories: 2 (for "3+ alternatives")
+- load the tab-delimited input file: <2c.csv> (example input file for a multiple distinctive collexeme analysis of a few words and four near-synonymous adjectives in the BNC)
+output file: <2c_out.csv>
+
+
+
+------------------------------------------
+(ITEM-BASED) CO-VARYING COLLEXEME ANALYSIS
+
+Data to be entered:
+- analysis you want to perform: 3
+- load the tab-delimited input file: <3.csv> (example input file for a co-varying collexeme analysis of a few verbs and the into-causative in the Guardian)
+output file: <3_out.csv>
+
+
+
+----------------------------------------
+(c) 2022 Stefan Th .Gries
+https://www.stgries.info
