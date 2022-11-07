@@ -3,4 +3,20 @@ These are the guidelines and principles I used to clean and remove irrellevant l
 
 1. In the "full_uncleaned_PELIC..." file, I temporarily saved it as an xlsx file and converted it to a table for easier sorting.
 
+# Agressive cleaning
+Removed all responses of length 0 or 1. (3954 rows)
+Removed all responses of lenght 2. (941 rows)
+Using 'find and replace' then 'CNTRL+J' (from here: https://www.exceldemy.com/remove-line-breaks-in-excel/) to replace all the line breaks... still need to check for other types of breaks, like carriage returns.
+Using 'find and replace, removed all commas, as this is an "CSV - comma separated values file" (althought, I'm going to change it to tabs, because I will use \t in R.)
+Using 'find and replace, removed all equal signs, minus signs, plus signs, colons, semi-colons double spaces. (replaced all with a single space)
 
+## Need to think of other possible things that will cause problems in R or Excel. Maybe double-quotes, maybe other things.
+
+## !!! Currently sorted by: anon.id > ques.id > version  (This is the first step to finding duplicate responses; I don't know how to procede in order to efficiently remove the 1st and 2nd versions... or the second versions of ones that only have two answers.  I probably have to remove the '2 answers' version first, then handle the '3 answers' versions.)
+
+Removed 
+Removed 
+Removed 
+Removed 
+Removed 
+Removed 
