@@ -12,7 +12,32 @@ Using 'find and replace, removed all equal signs, minus signs, plus signs, colon
 
 ## Need to think of other possible things that will cause problems in R or Excel. Maybe double-quotes, maybe other things.
 
-## !!! Currently sorted by: anon.id > ques.id > version  (This is the first step to finding duplicate responses; I don't know how to procede in order to efficiently remove the 1st and 2nd versions... or the second versions of ones that only have two answers.  I probably have to remove the '2 answers' version first, then handle the '3 answers' versions.)
+## Remove selected answers.  (Selected vs. constructed answers.)
+## Remove fill-in-the-blank (etc.) types of answers.
+
+
+
+# Multiple ansers
+In order to delete all of the duplicates, I need to display ONLY the answers that have third version.
+	Find out which participants gave multiple responses. (Or opposite? Single responses?)
+	Find out which multi-reponse answers have a 3rd version.
+	Show ONLY the responses that have 1st, 2nd, 3rd versions.
+	Hide all answers that have only 1 or two versions. 
+	Hide the 3rd versions.
+	Highlight/select the 1st and 2nd versions (of those above). Delete.
+
+## !!! I NEED TO GET RID OF THE 'ALMOST DUPLICATES'
+### Currently sorted by: anon.id > ques.id > version  (This is the first step to finding duplicate responses; I don't know how to procede in order to efficiently remove the 1st and 2nd versions... or the second versions of ones that only have two answers.  I probably have to remove the '2 answers' version first, then handle the '3 answers' versions.)
+
+
+### Numbers of 3s 555
+### Numbers of 2s 3798
+### Numbers of 1s 36956
+
+So, I need to remove at least 555 number 2s and 1s.
+So, I need to remove at least 3243 number 1s.  (after removing 555s)
+
+
 
 Removed 
 Removed 
