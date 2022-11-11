@@ -3,18 +3,28 @@ These are the guidelines and principles I used to clean and remove irrellevant l
 
 1. In the "full_uncleaned_PELIC..." file, I temporarily saved it as an xlsx file and converted it to a table for easier sorting.
 
-# Agressive cleaning
+# Aggressive cleaning
+
 Removed all responses of length 0 or 1. (3954 rows)
+
 Removed all responses of lenght 2. (941 rows)
+
 Using 'find and replace' then 'CNTRL+J' (from here: https://www.exceldemy.com/remove-line-breaks-in-excel/) to replace all the line breaks... still need to check for other types of breaks, like carriage returns.
+
 Using 'find and replace, removed all commas, as this is an "CSV - comma separated values file" (althought, I'm going to change it to tabs, because I will use \t in R.)
+
 Using 'find and replace, removed all equal signs, minus signs, plus signs, colons, semi-colons double spaces. (replaced all with a single space)
+
 CORRECTING Q.TYPE.ID - Went through mislabled q.type.id values (ones that weren't categorized between 1-10 as described in the guide). This included the incorrectly labeled q.type.id values of 3178, 3212, 3173, 3178, and 4273.  
   Removed rows where the text was either empty or spurious (e.g. task instructions written by teachers.)
   Revised the q.type.id values according to response (e.g. labeled paragraphs responses as "1" to designate it as a paragraph). 
+
 CORRECTING RES.TYPE - Focused on "0" values, which should have indicated selected response (such as multiple choice) as only constructed responses were to be analyzed.  However, found 362 texts.  Some seemed to be mislabeled.  Treated them in the following way.
   First, deleted all of the ones that seemed correctly labeled as selected responses.  (e.g. closely matching answers from different unique anon.id values on different dates, as would occur if they were selected phrase or sentences answers from a reading comprehension task)
   Second, found duplicated entries that seemed constructed yet were multiple versions of the same task and deleted duplicates with earlier response date values, leaving only the most recent version of the duplicated responses.
+
+
+
 
 -------------------------------------------------------
 #######################################################
