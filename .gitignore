@@ -1,4 +1,12 @@
+# auto-generated ignores
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+
+
+# Local backup directories # these will tend to be largefiles or files that won't ever change
+_000 OFFICIAL Rproject FOLDER.md
+0_bg_research/
+0_BU_outdated_data/
+
