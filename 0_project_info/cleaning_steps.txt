@@ -23,8 +23,24 @@ CORRECTING RES.TYPE - Focused on "0" values, which should have indicated selecte
   First, deleted all of the ones that seemed correctly labeled as selected responses.  (e.g. closely matching answers from different unique anon.id values on different dates, as would occur if they were selected phrase or sentences answers from a reading comprehension task)
   Second, found duplicated entries that seemed constructed yet were multiple versions of the same task and deleted duplicates with earlier response date values, leaving only the most recent version of the duplicated responses.
 
+1.0 WORKING ON DUPLICATES (currently 41,247 responses)
+Saved csv file as xlsx file for following processes. Concatenated all "anon.id" and "ques.id" to create a new column. After concatenation, converted concatenated formula answers into value answers. Then, Using conditional formatting, colored all unique responses as green backgrounds and all duplicated values as red backgrounds.  Copied this version's tab into two unique tabs in Excel: "temp_PELIC_ones", "temp_PELIC_threes", "temp_PELIC_twos"
 
+  1.1 ISOLATING UNIQUE RESPONSES (33,553 responses)
+  On the "temp_PELIC_ones" tab, filtered to show only red (non-unique) values for the "anon.id & ques.id" column. Then deleted them all.  This left 33 553 rows of data.
 
+  1.2 ISOLATING THREE RESPONSES (541 responses)
+  On the "temp_PELIC_threes" tab, filtered to show only green (unique) values for the "anon.id & ques.id" column. Then delted all unique values, leaving only (red) duplicates.  Filtered "version column for all '1' values and deleted them."  This left only the 2s and 3s values in the version column. Copied the resulting "temp_PELIC_threes" tab (which only includes responses that have multiple versions) into "temp_PELIC_twos." Then, filtered so that all responses with ONLY two versions appeared and deleted all of those rows, leaving only the final answers with only the third version.
+  
+  1.3 ISOLATING TWO RESPONSES (2954 responses)
+  On the "temp_PELIC_twos" tab, In order to isolate response that have both "two" and "three" versions (in other words, in order to prepare two find all of the two values that ONLY occured with threes, but not by themselves), I filtered for all duplicated 'anon.id & ques.id' responses and deleted them.  This left me with all of the unique twos (i.e. 2nd versions that )
+  (This penultimate step, 1.3, was the most tricky one. Finding all of the responses with only one version ended up being easy, as I just deleted any duplicate anon.id/ques.id responses.  Once this was done, the 3-version items was even easier - on a new tab, delete anything that wasn't the third response.  The ones with two versions was most difficult because I needed to remove all of their first versions, then verify that I only kept twos that didn't have a third version.)
+  1.4 RECOMBINING THE NARROWED RESPONSES (37,048 responses)
+  As the title implies, all the (now unique) data from the ones, twos, and threes was combined on a single table.  A backup was first saved as 'PELIC_221112 1617 (all unique responses).xlsx', then all extra sheets were deleted and the 'PELIC_221112 1617 (all unique responses).csv' (non-backup version) was converted and saved as a csv file.
+  
+
+MORE CLEANING - Non-English responses.
+Sorted the 'text' column of 'PELIC_221112 1617 (all unique responses).csv' into alphabetical order, and deleted any remaining entries that contained only non-English or non-UTF-8 encoded characters. Removed 258 rows with non-encoded characters and 38 rows with #NAME from formula characters that didn't convert properly between xlsx and csv files (likely a source of error on my part).
 
 -------------------------------------------------------
 #######################################################
