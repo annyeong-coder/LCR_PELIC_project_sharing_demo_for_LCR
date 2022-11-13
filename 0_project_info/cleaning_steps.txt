@@ -42,6 +42,13 @@ Saved csv file as xlsx file for following processes. Concatenated all "anon.id" 
 MORE CLEANING - Non-English responses.
 Sorted the 'text' column of 'PELIC_221112 1617 (all unique responses).csv' into alphabetical order, and deleted any remaining entries that contained only non-English or non-UTF-8 encoded characters. Removed 258 rows with non-encoded characters and 38 rows with #NAME from formula characters that didn't convert properly between xlsx and csv files (likely a source of error on my part).
 
+
+CREATED TWO FINAL VERSIONS (of four)
+  "PELIC.minimal.untagged.all.metadata.221112.1752.csv""
+  "PELIC.minimal.untagged.justlanguage.221112.1752.csv""
+  Exported "PELIC.minimal.untagged.justlanguage.221112.1752.csv" to tab-delimited "PELIC.minimal.untagged.justlanguage.221112.1752.txt"
+
+
 -------------------------------------------------------
 #######################################################
 -------------------------------------------------------
