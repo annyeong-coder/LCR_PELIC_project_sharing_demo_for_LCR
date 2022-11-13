@@ -1,0 +1,20 @@
+n a Replace dialog window (Ctrl+H), use a negated character class in the Find What field:
+
+[^a-zA-Z0-9\s]+
+
+Here, [^ starts a negated character class that matches any character other than the one that belongs to the character set(s)/range(s) defined in it. So, the whole matches 1 or more chars other than ASCII letters, digits, and any whitespace.
+
+Or, to make the expression Unicode-aware,
+
+[^[:alnum:][:space:]]+
+
+Here, [:alnum:] matches all alphanumeric chars and [:space:] matches all whitespace.
+
+
+####################################
+
+What is the best way to remove non alphanumeric characters from a text file using notepad++?
+
+I only want to keep numbers and letters, Is there a built in feature to help or should I go the regex route?
+
+I am trying to use this to keep them as well as spaces [a-zA-Z0-9 ]. It is working but I need to do the opposite!
