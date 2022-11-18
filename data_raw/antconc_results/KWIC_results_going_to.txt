@@ -1,0 +1,1218 @@
+File	Left Context	Hit	Right Context
+96_tagged.txt	MC 06_MC Descriptive_JJ paragraph_NN1 Today_RT I_PPIS1 	am_VBM going_VVGK to_TO describe_VVI 	one_MC1 
+159_tagged.txt	I_PPIS1 visited_VVD to_II Japanese_NN1 ._. I_PPIS1 	am_VBM going_VVGK to_TO visit_VVI 	other_JJ 
+657_tagged.txt	important_JJ thing_NN1 is_VBZ that_CST I_PPIS1 	am_VBM going_VVGK to_TO take_VVI 	that_DD1 
+659_tagged.txt	since_CS or_CC computer_NN1 programming_NN1 ._. I_PPIS1 	am_VBM going_VVGK to_TO study_VVI 	at_II 
+667_tagged.txt	have_VHI idea_NN1 about_II what_DDQ I_PPIS1 	am_VBM going_VVGK to_TO fix_VVI ._. 	Then_RT 
+915_tagged.txt	laptop_NN1 ._. In_II this_DD1 letter_NN1 I_PPIS1 	am_VBM going_VVGK to_TO compare_VVI 	between_II 
+924_tagged.txt	October16_FO 2006_MC Dear_JJ Dad_NP1 I_PPIS1 	am_VBM going_VVGK to_TO get_VVI 	a_AT1 
+1071_tagged.txt	October23_FO 2006_MC Dear_JJ Dad_NP1 I_PPIS1 	am_VBM going_VVGK to_TO get_VVI 	a_AT1 
+1127_tagged.txt	laptop_NN1 ._. In_II this_DD1 letter_NN1 I_PPIS1 	am_VBM going_VVGK to_TO compare_VVI 	between_II 
+1203_tagged.txt	of_IO my_APPGE father_NN1 ._. Hopefully_RR I_PPIS1 	am_VBM going_VVGK to_TO buy_VVI 	a_AT1 
+1209_tagged.txt	want_VV0 to_TO tell_VVI you_PPY I_PPIS1 	am_VBM going_VVGK to_TO buy_VVI 	used_JJ 
+1218_tagged.txt	want_VV0 to_TO tell_VVI you_PPY I_PPIS1 	am_VBM going_VVGK to_TO buy_VVI 	used_JJ 
+1424_tagged.txt	a_AT1 president_NN1 of_IO ELI_NN2 I_PPIS1 	am_VBM going_VVGK to_TO change_VVI 	the_AT 
+1669_tagged.txt	habits_NN2 and_RR31 so_RR32 on_RR33 ._. I_PPIS1 	am_VBM going_VVGK to_TO make_VVI 	analogies_NN2 
+1750_tagged.txt	things_NN2 these_DD2 days_NNT2 but_CCB I_PPIS1 	am_VBM going_VVGK to_TO discuss_VVI 	only_JJ 
+1794_tagged.txt	I_PPIS1 	am_VBM going_VVGK to_TO buy_VVI 	new_JJ 
+1794_tagged.txt	to_TO buy_VVI new_JJ desks_NN2 ._. I_PPIS1 	am_VBM going_VVGK to_TO buy_VVI 	new_JJ 
+1794_tagged.txt	will_VM change_VVI the_AT restaurant_NN1 ._. I_PPIS1 	am_VBM going_VVGK to_TO change_VVI 	rest_NN1 
+1794_tagged.txt	will_VM repair_VVI the_AT building_NN1 ._. I_PPIS1 	am_VBM going_VVGK to_TO buy_VVI 	books_NN2 
+1830_tagged.txt	things_NN2 these_DD2 days_NNT2 but_CCB I_PPIS1 	am_VBM going_VVGK to_TO write_VVI 	only_JJ 
+1918_tagged.txt	enjoy_VVI sunbathing_VVG for_IF hours_NNT2 ._. I_PPIS1 	am_VBM going_VVGK to_TO drink_VVI 	different_JJ 
+1918_tagged.txt	stand_VVI more_RRR ._. Every_AT1 night_NNT1 I_PPIS1 	am_VBM going_VVGK to_TO eat_VVI 	in_II 
+1970_tagged.txt	crazy_JJ and_CC colorful_JJ festival_NN1 I_PPIS1 	am_VBM going_VVGK to_TO go_VVI 	into_II 
+2224_tagged.txt	I_PPIS1 	am_VBM going_VVGK to_TO introduce_VVI 	myself_PPX1 ._. 
+2422_tagged.txt	moment_NN1 ._. But_CCB i_MC1 hope_NN1 i_ZZ1 	am_VBM going_VVGK to_TO decide_VVI 	what_DDQ 
+3039_tagged.txt	this_DD1 piece_NN1 of_IO paper_NN1 I_PPIS1 	am_VBM going_VVGK to_TO explain_VVI 	what_DDQ 
+3211_tagged.txt	a_AT1 piece_NN1 of_IO jewelry_NN1 ._. I_PPIS1 	am_VBM going_VVGK to_TO tell_VVI 	you_PPY 
+3211_tagged.txt	a_AT1 good_JJ time_NNT1 and_CC I_PPIS1 	am_VBM going_VVGK to_TO enjoy_VVI 	my_APPGE 
+3218_tagged.txt	in_II good_JJ way_NN1 ._. So_RR I_PPIS1 	am_VBM going_VVGK to_TO buy_VVI 	something_PN1 
+3623_tagged.txt	NN2 Dear_JJ ANON_JJ NAME_NN1 0_MC I_PPIS1 	am_VBM going_VVGK to_TO buy_VVI 	a_AT1 
+3678_tagged.txt	brother_NN1 h_ZZ1 i_ZZ1 brother_NN1 I_PPIS1 	am_VBM going_VVGK to_TO bay_VVI 	a_AT1 
+3816_tagged.txt	Balance_NN1 Of_IO Life_NN1 I_PPIS1 	am_VBM going_VVGK to_TO try_VVI 	to_TO 
+4092_tagged.txt	south_ND1 of_IO Saudi_NP1 Arabia_NP1 ._. I_PPIS1 	am_VBM going_VVGK to_TO talk_VVI 	about_II 
+4671_tagged.txt	i_MC1 	am_VBM going_VVGK to_TO make_VVI 	a_AT1 
+4671_tagged.txt	for_IF the_AT weekend_NNT1 ._. First_MD i_ZZ1 	am_VBM going_VVGK to_TO leave_VVI 	my_APPGE 
+4671_tagged.txt	the_AT sun_NN1 comes_VVZ up_RP i_MC1 	am_VBM going_VVGK to_TO go_VVI 	to_II 
+4752_tagged.txt	I_PPIS1 just_RR accept_VV0 it_PPH1 ._. I_PPIS1 	am_VBM going_VVGK to_TO continue_VVI 	my_APPGE 
+4774_tagged.txt	the_AT South_ND1 side_NN1 theater_NN1 ._. I_PPIS1 	am_VBM going_VVGK to_TO go_VVI 	back_RP 
+4795_tagged.txt	start_VVI my_APPGE academic_JJ ._. Finally_RR I_PPIS1 	am_VBM going_VVGK to_TO study_VVI 	computer_NN1 
+5085_tagged.txt	languages_NN2 in_II our_APPGE world_NN1 ._. I_PPIS1 	am_VBM going_VVGK to_TO discuss_VVI 	English_NN1 
+5264_tagged.txt	I_PPIS1 	am_VBM going_VVGK to_TO make_VVI 	a_AT1 
+5264_tagged.txt	rid_VVN of_IO stress_NN1 ._. First_MD I_PPIS1 	am_VBM going_VVGK to_TO leave_VVI 	my_APPGE 
+5264_tagged.txt	the_AT sun_NN1 comes_VVZ up_RP I_PPIS1 	am_VBM going_VVGK to_TO go_VVI 	to_II 
+5297_tagged.txt	him_PPHO1 as_CSA my_APPGE model_NN1 ._. I_PPIS1 	am_VBM going_VVGK to_TO study_VVI 	hime_NN1 
+5487_tagged.txt	class_NN1 ._. Instead_CS21% of_CS22 that_CST I_PPIS1 	am_VBM going_VVGK to_TO take_VVI 	a_AT1 
+5561_tagged.txt	year_NNT1 I_PPIS1 visited_VVD Japan_NP1 ._. I_PPIS1 	am_VBM going_VVGK to_TO visit_VVI 	another_DD1 
+5651_tagged.txt	from_II Saudi_NP1 Arabia_NP1 ._. Today_RT I_PPIS1 	am_VBM going_VVGK to_TO talk_VVI 	about_II 
+5663_tagged.txt	after_CS i_MC1 will_NN1@ graduated_VVD i_MC1 	am_VBM going_VVGK to_TO take_VVI 	a_AT1 
+5664_tagged.txt	that_CST after_CS i_ZZ1 graduated_JJ i_ZZ1 	am_VBM going_VVGK to_TO take_VVI 	a_AT1 
+5665_tagged.txt	after_CS i_MC1 will_NN1@ graduated_VVD i_MC1 	am_VBM going_VVGK to_TO take_VVI 	a_AT1 
+5666_tagged.txt	that_CST after_CS I_PPIS1 graduated_VVD I_PPIS1 	am_VBM going_VVGK to_TO take_VVI 	a_AT1 
+5669_tagged.txt	after_CS I_PPIS1 will_VM graduate_VVI I_PPIS1 	am_VBM going_VVGK to_TO take_VVI 	a_AT1 
+5670_tagged.txt	that_CST after_CS I_PPIS1 graduate_VV0 I_PPIS1 	am_VBM going_VVGK to_TO take_VVI 	a_AT1 
+5672_tagged.txt	after_CS I_PPIS1 will_VM graduate_VVI I_PPIS1 	am_VBM going_VVGK to_TO take_VVI 	a_AT1 
+5676_tagged.txt	after_CS I_PPIS1 will_VM graduate_VVI I_PPIS1 	am_VBM going_VVGK to_TO take_VVI 	a_AT1 
+5677_tagged.txt	that_CST after_CS I_PPIS1 graduate_VV0 I_PPIS1 	am_VBM going_VVGK to_TO take_VVI 	a_AT1 
+5690_tagged.txt	NN1 is_VBZ ANON_JJ NAME_NN1 0_MC ._. I_PPIS1 	am_VBM going_VVGK to_TO introduce_VVI 	my_APPGE 
+5693_tagged.txt	after_CS I_PPIS1 will_VM graduate_VVI I_PPIS1 	am_VBM going_VVGK to_TO take_VVI 	a_AT1 
+5694_tagged.txt	that_CST after_CS I_PPIS1 graduate_VV0 I_PPIS1 	am_VBM going_VVGK to_TO take_VVI 	a_AT1 
+5701_tagged.txt	after_CS I_PPIS1 will_VM graduate_VVI I_PPIS1 	am_VBM going_VVGK to_TO take_VVI 	a_AT1 
+5702_tagged.txt	that_CST after_CS I_PPIS1 graduate_VV0 I_PPIS1 	am_VBM going_VVGK to_TO take_VVI 	a_AT1 
+5707_tagged.txt	after_CS I_PPIS1 will_VM graduate_VVI I_PPIS1 	am_VBM going_VVGK to_TO take_VVI 	a_AT1 
+5708_tagged.txt	that_CST after_CS I_PPIS1 graduate_VV0 I_PPIS1 	am_VBM going_VVGK to_TO take_VVI 	a_AT1 
+5725_tagged.txt	after_CS I_PPIS1 will_VM graduate_VVI I_PPIS1 	am_VBM going_VVGK to_TO take_VVI 	a_AT1 
+5726_tagged.txt	that_CST after_CS I_PPIS1 graduate_VV0 I_PPIS1 	am_VBM going_VVGK to_TO take_VVI 	a_AT1 
+5729_tagged.txt	the_AT school_NN1 ?_? She_PPHS1 said_VVD I_PPIS1 	am_VBM going_VVGK to_TO get_VVI 	a_AT1 
+5729_tagged.txt	a_AT1 job_NN1 ?_? She_PPHS1 said_VVD I_PPIS1 	am_VBM going_VVGK to_TO buy_VVI 	a_AT1 
+5737_tagged.txt	after_CS I_PPIS1 will_VM graduate_VVI I_PPIS1 	am_VBM going_VVGK to_TO make_VVI 	a_AT1 
+5738_tagged.txt	that_CST after_CS l_ZZ1 graduate_VV0 I_PPIS1 	am_VBM going_VVGK to_TO make_VVI 	a_AT1 
+5738_tagged.txt	I_PPIS1 learn_VV0 word_NN1 processing_NN1 I_PPIS1 	am_VBM going_VVGK to_TO look_VVI 	for_IF 
+5750_tagged.txt	I_PPIS1 	am_VBM going_VVGK to_TO buy_VVI 	a_AT1 
+5762_tagged.txt	I_PPIS1 	am_VBM going_VVGK to_TO buy_VVI 	some_DD 
+5765_tagged.txt	I_PPIS1 	am_VBM going_VVGK to_TO clean_VVI 	my_APPGE 
+5805_tagged.txt	I_PPIS1 	am_VBM going_VVGK to_TO cross_VVI 	the_AT 
+5831_tagged.txt	I_PPIS1 	am_VBM going_VVGK to_TO clean_VVI 	my_APPGE 
+5852_tagged.txt	I_PPIS1 	am_VBM going_VVGK to_TO watch_VVI 	television_NN1 
+5909_tagged.txt	i_MC1 	am_VBM going_VVGK to_TO watch_VVI 	television_NN1 
+5913_tagged.txt	i_MC1 	am_VBM going_VVGK to_TO take_VVI 	a_AT1 
+5942_tagged.txt	I_PPIS1 	am_VBM going_VVGK to_TO play_VVI 	footpool_NN1 
+6403_tagged.txt	I_PPIS1 	am_VBM going_VVGK to_TO go_VVI 	home_RL 
+6872_tagged.txt	world_NN1 ._. The_AT students_NN2 who_PNQS I_PPIS1 	am_VBM going_VVGK to_TO study_VVI 	with_IW 
+7698_tagged.txt	world_NN1 ._. The_AT students_NN2 who_PNQS I_PPIS1 	am_VBM going_VVGK to_TO study_VVI 	with_IW 
+7713_tagged.txt	I_PPIS1 	am_VBM going_VVGK to_TO finish_VVI 	my_APPGE 
+7738_tagged.txt	lot_NN1 of_IO things_NN2 ._. First_MD I_PPIS1 	am_VBM going_VVGK to_TO finish_VVI 	my_APPGE 
+8368_tagged.txt	these_DD2 two_MC countries_NN2 ._. But_CCB I_PPIS1 	am_VBM going_VVGK to_TO enjoy_VVI 	it_PPH1 ._. 
+8394_tagged.txt	for_IF me_PPIO1 especially_RR because_CS I_PPIS1 	am_VBM going_VVGK to_TO study_VVI 	acadimic_JJ 
+8435_tagged.txt	this_DD1 is_VBZ an_AT1 essay_NN1 I_PPIS1 	am_VBM going_VVGK to_TO continue_VVI 	to_TO 
+8589_tagged.txt	I_PPIS1 	am_VBM going_VVGK to_TO write_VVI 	about_II 
+8785_tagged.txt	swimming_VVG this_DD1 summer_NNT1 and_CC I_PPIS1 	am_VBM going_VVGK to_TO go_VVI 	skiing_VVG@ 
+8906_tagged.txt	assistant_JJ teacher_NN1 said_VVD me_PPIO1 I_PPIS1 	am_VBM going_VVGK to_TO give_VVI 	you_PPY '
+9060_tagged.txt	assistant_JJ teacher_NN1 said_VVD me_PPIO1 I_PPIS1 	am_VBM going_VVGK to_TO give_VVI 	you_PPY '
+9060_tagged.txt	who_PNQS prepared_VVD@ laboratory_NN1 work_NN1 ._. I_PPIS1 	am_VBM going_VVGK to_TO ask_VVI 	my_APPGE 
+9080_tagged.txt	swimming_VVG this_DD1 summer_NNT1 and_CC I_PPIS1 	am_VBM going_VVGK to_TO go_VVI 	skiing_VVG@ 
+9332_tagged.txt	and_CC I_PPIS1 thought_VVD that_CST I_PPIS1 	am_VBM going_VVGK to_TO get_VVI 	the_AT 
+9412_tagged.txt	cold_JJ last_MD winter_NNT1 ._. So_RR I_PPIS1 	am_VBM going_VVGK to_TO take_VVI 	down_RP 
+9693_tagged.txt	assistant_JJ teacher_NN1 said_VVD me_PPIO1 I_PPIS1 	am_VBM going_VVGK to_TO give_VVI 	you_PPY 
+9693_tagged.txt	who_PNQS prepared_VVD@ laboratory_NN1 work_NN1 ._. I_PPIS1 	am_VBM going_VVGK to_TO ask_VVI 	my_APPGE 
+9723_tagged.txt	great_JJ time_NNT1 and_CC also_RR I_PPIS1 	am_VBM going_VVGK to_TO visit_VVI 	her_PPHO1 
+10476_tagged.txt	the_AT U._NP1 S._NP1 First_MD I_PPIS1 	am_VBM going_VVGK to_TO talk_VVI 	about_II 
+10476_tagged.txt	eat_VVI a_AT1 lot_NN1 ._. Second_NNT1 I_PPIS1 	am_VBM going_VVGK to_TO talk_VVI 	about_II 
+10488_tagged.txt	have_VHI good_JJ breakfast_NN1 ?_? Today_RT I_PPIS1 	am_VBM going_VVGK to_TO share_VVI 	with_IW 
+10505_tagged.txt	Then_RT after_CS this_DD1 semester_NN1 I_PPIS1 	am_VBM going_VVGK to_TO go_VVI 	back_RP 
+10529_tagged.txt	summer_NNT1 semester_NN1 in_II Pitt_NP1 I_PPIS1 	am_VBM going_VVGK to_TO return_VVI 	my_APPGE 
+10529_tagged.txt	English_NN1 in_II the_AT future_NN1 ._. I_PPIS1 	am_VBM going_VVGK to_TO study_VVI 	English_NN1 
+10529_tagged.txt	I_PPIS1 come_VVI back_RP US_NP1 ?_? I_PPIS1 	am_VBM going_VVGK to_TO visit_VVI 	here_RL 
+10562_tagged.txt	go_VVI to_II night_NNT1 clubs_NN2 ._. I_PPIS1 	am_VBM going_VVGK to_TO ride_VVI 	a_AT1 
+10562_tagged.txt	front_NN1 of_IO the_AT beach_NN1 ._. I_PPIS1 	am_VBM going_VVGK to_TO get_VVI 	drunk_JJ ._. 
+10571_tagged.txt	This_DD1 summer_NNT1 I_PPIS1 	am_VBM going_VVGK to_TO travel_VVI 	to_II 
+10571_tagged.txt	Angeles_NP1 and_CC San_NP1 Diego_NP1 ._. I_PPIS1 	am_VBM going_VVGK to_TO see_VVI 	the_AT 
+10571_tagged.txt	for_IF the_AT next_MD semester_NN1 ._. I_PPIS1 	am_VBM going_VVGK to_TO improve_VVI 	my_APPGE 
+10594_tagged.txt	I_PPIS1 	am_VBM going_VVGK to_TO return_VVI 	to_II 
+10594_tagged.txt	enjoy_VVI and_CC be_VBI relaxed_VVN@ ._. I_PPIS1 	am_VBM going_VVGK to_TO research_VVI 	about_II 
+10594_tagged.txt	on_II the_AT Net_NN1 ._. And_CC I_PPIS1 	am_VBM going_VVGK to_TO plan_VVI 	in_II 
+10611_tagged.txt	If_CS I_PPIS1 got_VVD that_DD1 I_PPIS1 	am_VBM going_VVGK to_TO visit_VVI 	my_APPGE 
+10611_tagged.txt	complete_VV0 The_AT language_NN1 study_NN1 I_PPIS1 	am_VBM going_VVGK to_TO take_VVI 	the_AT 
+10611_tagged.txt	the_AT tofal_JJ exam_NN1 and_CC I_PPIS1 	am_VBM going_VVGK to_TO request_VVI 	in_II 
+10611_tagged.txt	in_II the_AT academic_JJ study_NN1 ._. I_PPIS1 	am_VBM going_VVGK to_TO study_VVI 	Math_NN1 ._. 
+10617_tagged.txt	have_VHI the_AT spring_NN1 vacation_NN1 ._. I_PPIS1 	am_VBM going_VVGK to_TO travel_VVI 	to_II 
+10617_tagged.txt	Vegas_NP1 is_VBZ fantastic_JJ city_NN1 ._. I_PPIS1 	am_VBM going_VVGK to_TO tarvel_VVI 	to_II 
+10648_tagged.txt	I_PPIS1 	am_VBM going_VVGK to_TO go_VVI 	on_II 
+10648_tagged.txt	Journey_NN1 to_II other_JJ state_NN1 ._. I_PPIS1 	am_VBM going_VVGK to_TO study_VVI 	in_II 
+10648_tagged.txt	study_VVI in_II my_APPGE major_JJ ._. I_PPIS1 	am_VBM going_VVGK to_TO meet_VVI 	American_JJ ._. 
+10648_tagged.txt	going_VVGK to_TO meet_VVI American_JJ ._. I_PPIS1 	am_VBM going_VVGK to_TO volunteer_VVI 	to_II 
+10648_tagged.txt	to_TO volunteer_VVI to_II nursing_NN1 ._. I_PPIS1 	am_VBM going_VVGK to_TO get_VVI 	a_AT1 
+10648_tagged.txt	get_VVI a_AT1 drive_NN1 license_NN1 ._. I_PPIS1 	am_VBM going_VVGK to_TO study_VVI 	computer_NN1 ._. 
+10648_tagged.txt	going_VVGK to_TO study_VVI computer_NN1 ._. I_PPIS1 	am_VBM going_VVGK to_TO learn_VVI 	how_RRQ 
+10648_tagged.txt	learn_VVI how_RRQ to_TO swim_VVI ._. I_PPIS1 	am_VBM going_VVGK to_TO go_VVI 	to_II 
+10671_tagged.txt	When_CS decided_VVN which_DDQ school_VV0% I_PPIS1 	am_VBM going_VVGK to_TO apply_VVI 	University_NN1 
+10675_tagged.txt	I_PPIS1 	am_VBM going_VVGK to_TO visit_VVI 	Washington_NP1 
+10675_tagged.txt	will_VM prepare_VVI something_PN1 ._. First_MD I_PPIS1 	am_VBM going_VVGK to_TO buy_VVI 	a_AT1 
+10675_tagged.txt	When_CS I_PPIS1 am_VBM ready_JJ I_PPIS1 	am_VBM going_VVGK to_TO leave_VVI ._. 	In_II 
+10675_tagged.txt	leave_VVI ._. In_II Washington_NP1 DC_NP1 I_PPIS1 	am_VBM going_VVGK to_TO visit_VVI 	White_NP1 
+10755_tagged.txt	I_ZZ1@ always_RR answer_VV0 that_CST I_PPIS1 	am_VBM going_VVGK to_TO go_VVI 	to_II 
+10775_tagged.txt	I_PPIS1 	am_VBM going_VVGK to_TO arrive_VVI 	the_AT 
+10983_tagged.txt	i_MC1 	am_VBM going_VVGK to_TO buy_VVI 	a_AT1 
+11480_tagged.txt	is_VBZ very_RG dark_JJ but_CCB I_PPIS1 	am_VBM going_VVGK to_TO buy_VVI 	a_AT1 
+11490_tagged.txt	out_RP my_APPGE room_NN1 ._. Also_RR I_PPIS1 	am_VBM going_VVGK to_TO buy_VVI 	some_DD 
+12231_tagged.txt	week_NNT1 is_VBZ Spring_NN1 Break_NN1 ._. I_PPIS1 	am_VBM going_VVGK to_TO go_VVI 	on_II 
+12231_tagged.txt	Ohio_NP1 state_NN1 ._. After_CS that_CST I_PPIS1 	am_VBM going_VVGK to_TO plan_VVI 	to_II 
+12231_tagged.txt	friends_NN2 in_II Pittsburgh_NP1 ._. And_CC I_PPIS1 	am_VBM going_VVGK to_TO bay_VVI 	a_AT1 
+12231_tagged.txt	the_AT zoos_NN2 ._. After_CS that_CST I_PPIS1 	am_VBM going_VVGK to_TO review_VVI 	the_AT 
+12233_tagged.txt	This_DD1 spring_NN1 break_VV0 I_PPIS1 	am_VBM going_VVGK to_TO go_VVI 	to_II 
+12233_tagged.txt	ticket_NN1 was_VBDZ very_RG expensive_JJ ._. I_PPIS1 	am_VBM going_VVGK to_TO wait_VVI 	for_IF 
+12698_tagged.txt	If_CS I_PPIS1 	am_VBM going_VVGK to_TO start_VVI 	a_AT1 
+12894_tagged.txt	the_AT human_JJ body_NN1 and_CC I_PPIS1 	am_VBM going_VVGK to_TO explain_VVI 	how_RRQ 
+12894_tagged.txt	propagation_NN1 of_IO a_AT1 wave_NN1 I_PPIS1 	am_VBM going_VVGK to_TO explain_VVI 	the_AT 
+12956_tagged.txt	Writing_NN1 4_MC 5_MC 23_MC 2008_MC Today_RT I_PPIS1 	am_VBM going_VVGK to_TO talk_VVI 	about_II 
+13043_tagged.txt	to_TO make_VVI Kabab_NP1 sandwich_NN1 I_PPIS1 	am_VBM going_VVGK to_TO introduce_VVI 	how_RRQ 
+13046_tagged.txt	make_VVI friends_NN2 easily_RR ._. Here_RL I_PPIS1 	am_VBM going_VVGK to_TO illustrate_VVI 	how_RRQ 
+13047_tagged.txt	I_PPIS1 cooked_VVD this_DD1 ._. Now_RT I_PPIS1 	am_VBM going_VVGK to_TO tell_VVI 	you_PPY 
+13048_tagged.txt	I_PPIS1 	am_VBM going_VVGK to_TO introduce_VVI 	how_RRQ 
+13129_tagged.txt	language_NN1 ._. Especially_RR listening_VVG ._. But_CCB I_PPIS1 	am_VBM going_VVGK to_TO try_VVI 	to_TO 
+13144_tagged.txt	live_VV0 in_II Pittsburgh_NP1 ._. So_RR I_PPIS1 	am_VBM going_VVGK to_TO compare_VVI 	Gunsan_JJ 
+13155_tagged.txt	similarities_NN2 and_CC differences_NN2 ._. So_RR I_PPIS1 	am_VBM going_VVGK to_TO compare_VVI 	Gunsan_JJ 
+13293_tagged.txt	USA_NP1 ._. But_CCB before_RT@ that_CST I_PPIS1 	am_VBM going_VVGK to_TO buy_VVI 	a_AT1 
+13299_tagged.txt	semester_NN1 at_II the_AT ELI_NN1 i_ZZ1 	am_VBM going_VVGK to_TO study_VVI 	toefl._NNU 
+13299_tagged.txt	for_IF travel_NN1 anywhere_RL because_CS i_ZZ1 	am_VBM going_VVGK to_TO study_VVI 	for_IF 
+13299_tagged.txt	for_IF toefl_NN1 and_CC Gmat._NP1 i_ZZ1 	am_VBM going_VVGK to_TO plan_VVI 	for_IF 
+13302_tagged.txt	I_PPIS1 am_VBM sure_JJ that_CST I_PPIS1 	am_VBM going_VVGK to_TO attend_VVI 	ELI_JJ 
+13302_tagged.txt	university_NN1 of_IO Pittsburgh_NP1 ._. And_CC I_PPIS1 	am_VBM going_VVGK to_TO study_VVI 	hard_RR 
+13317_tagged.txt	between_II each_PPX221 other_PPX222 ._. What_DDQ I_PPIS1 	am_VBM going_VVGK to_TO say_VVI 	is_VBZ 
+13324_tagged.txt	NN1 on_II Aug_NPM1 2_MC ._. Then_RT I_PPIS1 	am_VBM going_VVGK to_TO travel_VVI 	for_IF 
+13324_tagged.txt	travel_VVI for_IF two_MC weeks_NNT2 ._. I_PPIS1 	am_VBM going_VVGK to_TO go_VVI 	to_II 
+13343_tagged.txt	university_NN1 of_IO Pittsburgh_NP1 ._. Then_RT I_PPIS1 	am_VBM going_VVGK to_TO take_VVI 	vacation_NN1 
+13343_tagged.txt	I_PPIS1 get_VV0 the_AT Toefl_NN1 I_PPIS1 	am_VBM going_VVGK to_TO improve_VVI 	my_APPGE 
+13343_tagged.txt	any_DD of_IO those_DD2 things_NN2 I_PPIS1 	am_VBM going_VVGK to_TO take_VVI 	two_MC 
+13667_tagged.txt	not_XX come_VVI to_II class_NN1 ._. I_PPIS1 	am_VBM going_VVGK to_TO study_VVI 	tomorrow_RT ._. 
+13667_tagged.txt	I_PPIS1 copy_VV0 your_APPGE note_NN1 ?_? I_PPIS1 	am_VBM going_VVGK to_TO pay_VVI 	for_IF 
+13716_tagged.txt	two_MC days_NNT2 off_RP because_CS I_PPIS1 	am_VBM going_VVGK to_TO extract_VVI 	my_APPGE 
+14048_tagged.txt	been_VBN L._NP1 A._NP1 So_RR I_PPIS1 	am_VBM going_VVGK to_TO go_VVI 	L._NP1 
+14114_tagged.txt	world_NN1 has_VHZ problems_NN2 ._. Today_RT I_PPIS1 	am_VBM going_VVGK to_TO talk_VVI 	about_II 
+14459_tagged.txt	my_APPGE wife_NN1 ._. (_( not_XX me_PPIO1 )_) I_PPIS1 	am_VBM going_VVGK to_TO try_VVI 	make_VV0 
+14461_tagged.txt	graduate_VVI my_APPGE school_NN1 ._. Then_RT I_PPIS1 	am_VBM going_VVGK to_TO go_VVI 	a_AT1 
+14461_tagged.txt	life_NN1 with_IW my_APPGE family_NN1 ._. I_PPIS1 	am_VBM going_VVGK to_TO travel_VVI 	round_II 
+14464_tagged.txt	the_AT morning_NNT1 to_II afternoon_NNT1 I_PPIS1 	am_VBM going_VVGK to_TO attend_VVI 	the_AT 
+14477_tagged.txt	at_II the_AT ELI_NN1 but_CCB I_PPIS1 	am_VBM going_VVGK to_TO learn_VVI 	other_JJ 
+14556_tagged.txt	I_PPIS1 	am_VBM going_VVGK to_TO talk_VVI 	about_II 
+14564_tagged.txt	I_PPIS1 	am_VBM going_VVGK to_TO talk_VVI 	about_II 
+14582_tagged.txt	in_II my_APPGE major_JJ ._. Today_RT I_PPIS1 	am_VBM going_VVGK to_TO apply_VVI 	for_IF 
+14948_tagged.txt	a_AT1 letter_NN1 to_II you_PPY ._. I_PPIS1 	am_VBM going_VVGK to_TO tell_VVI 	you_PPY 
+15067_tagged.txt	friends_NN2 ._. First_MD of_IO all_DB I_PPIS1 	am_VBM going_VVGK to_TO bring_VVI 	with_IW 
+15186_tagged.txt	I_PPIS1 	am_VBM going_VVGK to_TO write_VVI 	about_II 
+15274_tagged.txt	new_JJ policy_NN1 about_II Internet_NP1 ._. I_PPIS1 	am_VBM going_VVGK to_TO write_VVI 	why_RRQ 
+15274_tagged.txt	policy_NN1 that_CST is_VBZ why_RRQ I_PPIS1 	am_VBM going_VVGK to_TO write_VVI 1_	MC1 paragraph_
+15278_tagged.txt	I_PPIS1 	am_VBM going_VVGK to_TO write_VVI 	down_RP 
+15290_tagged.txt	I_PPIS1 	am_VBM going_VVGK to_TO talk_VVI 	about_II 
+15584_tagged.txt	After_CS After_CS he_PPHS1 comes_VVZ I_PPIS1 	am_VBM going_VVGK to_TO go_VVI 	to_II 
+15812_tagged.txt	NP1@ Do_VD0 n't_XX worry_VVI ._. I_PPIS1 	am_VBM going_VVGK to_TO bring_VVI 	some_DD 
+15861_tagged.txt	and_CC get_VV0 the_AT exams_NN2 I_PPIS1 	am_VBM going_VVGK to_TO move_VVI 	to_II 
+15861_tagged.txt	in_II the_AT United_NP1 States_NP1 I_PPIS1 	am_VBM going_VVGK to_TO visit_VVI 	many_DA2 
+15874_tagged.txt	I_PPIS1 	am_VBM going_VVGK to_TO go_VVI 	back_RP 
+15886_tagged.txt	objective_NN1 ._. When_CS I_PPIS1 said_VVD I_PPIS1 	am_VBM going_VVGK to_TO go_VVI 	US._NP1 
+15894_tagged.txt	plans_NN2 First_MD of_IO all_DB I_PPIS1 	am_VBM going_VVGK to_TO register_VVI 	in_II 
+15903_tagged.txt	the_AT beginning_NN1 of_IO December_NPM1 I_PPIS1 	am_VBM going_VVGK to_TO visit_VVI 	my_APPGE 
+15935_tagged.txt	I_PPIS1 	am_VBM going_VVGK to_TO write_VVI 	about_II 
+16144_tagged.txt	graduate_NN1 school_NN1 in_II Geology_NN1 ._. I_PPIS1 	am_VBM going_VVGK to_TO study_VVI 	in_II 
+16144_tagged.txt	in_II University_NN1 of_IO Pittsburgh_NP1 ._. I_PPIS1 	am_VBM going_VVGK to_TO start_VVI 	in_II 
+16151_tagged.txt	II Pittsburgh_NP1 5_MC months_NNT2 ago_RA ._. I_PPIS1 	am_VBM going_VVGK to_TO apply_VVI 	to_II 
+16168_tagged.txt	buy_VVI some_DD food_NN1 ._. Next_MD I_PPIS1 	am_VBM going_VVGK to_TO attend_VVI 	worship_NN1 ._. 
+16171_tagged.txt	NNT1 until_CS 1_MC1 pm_RA ._. Than_CSN I_PPIS1 	am_VBM going_VVGK to_TO go_VVI 	to_II 
+16176_tagged.txt	But_CCB in_II this_DD1 weekend_NNT1 I_PPIS1 	am_VBM going_VVGK to_TO change_VVI 	my_APPGE 
+16176_tagged.txt	change_VVI my_APPGE schedule_NN1 ._. First_MD I_PPIS1 	am_VBM going_VVGK to_TO go_VVI 	to_II 
+16176_tagged.txt	afford_VVI winter_NNT1 jacket_NN1 ._. Next_MD I_PPIS1 	am_VBM going_VVGK to_TO clean_VVI 	my_APPGE 
+16176_tagged.txt	self_NN1 from_II now_RT ._. Last_VV0@ I_PPIS1 	am_VBM going_VVGK to_TO go_VVI 	to_II 
+16200_tagged.txt	workout_NN1 and_CC since_CS tomorrow_RT I_PPIS1 	am_VBM going_VVGK to_TO go_VVI 	the_AT 
+16615_tagged.txt	Today_RT I_PPIS1 	am_VBM going_VVGK to_TO talk_VVI 	about_II 
+16616_tagged.txt	worker_NN1 ._. At_II first_MD glance_NN1 I_PPIS1 	am_VBM going_VVGK to_TO write_VVI 	about_II 
+16991_tagged.txt	with_IW beautiful_JJ clothes_NN2 ._. And_CC I_PPIS1 	am_VBM going_VVGK to_TO take_VVI 	the_AT 
+17041_tagged.txt	I_PPIS1 	am_VBM going_VVGK to_TO introduce_VVI 	my_APPGE 
+17079_tagged.txt	fix_VVI the_AT room_NN1 up_RP ._. I_PPIS1 	am_VBM going_VVGK to_TO buy_VVI 	a_AT1 
+17079_tagged.txt	corner_NN1 of_IO the_AT room_NN1 ._. I_PPIS1 	am_VBM going_VVGK to_TO pick_VVI 	up_RP 
+17105_tagged.txt	I_PPIS1 	am_VBM going_VVGK to_TO introduce_VVI 	my_APPGE 
+17550_tagged.txt	can_VM study_VVI in_II ELI_NP1 ._. I_PPIS1 	am_VBM going_VVGK to_TO compare_VVI 	about_II 
+17556_tagged.txt	about_II imaginative_JJ thoughts_NN2 ._. First_MD I_PPIS1 	am_VBM going_VVGK to_TO talk_VVI 	about_II 
+17732_tagged.txt	trip_NN1 presentation_NN1 attentively_RR because_CS I_PPIS1 	am_VBM going_VVGK to_TO attend_VVI ._. 	
+18042_tagged.txt	I_PPIS1 	am_VBM going_VVGK to_TO write_VVI 	a_AT1 
+18228_tagged.txt	I_PPIS1 	am_VBM going_VVGK to_TO write_VVI 	about_II 
+18397_tagged.txt	graduate_NN1 school_NN1 in_II MBA_NN1 ._. I_PPIS1 	am_VBM going_VVGK to_TO study_VVI 	in_II 
+18397_tagged.txt	in_II University_NN1 of_IO Pittsburgh_NP1 ._. I_PPIS1 	am_VBM going_VVGK to_TO start_VVI 	in_II 
+18573_tagged.txt	that_CST after_CS I_PPIS1 graduate_VV0 I_PPIS1 	am_VBM going_VVGK to_TO take_VVI 	a_AT1 
+18574_tagged.txt	that_CST after_CS I_PPIS1 graduate_VV0 I_PPIS1 	am_VBM going_VVGK to_TO take_VVI 	a_AT1 
+18575_tagged.txt	that_CST after_CS I_PPIS1 graduate_VV0 I_PPIS1 	am_VBM going_VVGK to_TO take_VVI 	a_AT1 
+18576_tagged.txt	when_CS I_ZZ1% ll_NNU graduate_VV0 I_PPIS1 	am_VBM going_VVGK to_TO take_VVI 	a_AT1 
+18578_tagged.txt	that_CST after_CS i_ZZ1 graduate_VV0 I_PPIS1 	am_VBM going_VVGK to_TO take_VVI 	a_AT1 
+18603_tagged.txt	I_PPIS1 finish_VV0 this_DD1 class_NN1 I_PPIS1 	am_VBM going_VVGK to_TO study_VVI 	in_II 
+18636_tagged.txt	these_DD2 following_VVG humble_JJ lines_NN2 I_PPIS1 	am_VBM going_VVGK to_TO demonstrate_VVI 	a_AT1 
+18724_tagged.txt	I_PPIS1 figure_VV0@ out_RP that_CST I_PPIS1 	am_VBM going_VVGK to_TO buy_VVI 	a_AT1 
+18724_tagged.txt	corner_NN1 of_IO the_AT room_NN1 ._. I_PPIS1 	am_VBM going_VVGK to_TO pick_VVI 	up_RP 
+18833_tagged.txt	t_XX like_VVI so_RG probable_JJ I_PPIS1 	am_VBM going_VVGK to_TO take_VVI 	it_PPH1 
+18879_tagged.txt	in_II all_DB countries_NN2 civilization_NN1 ._. I_PPIS1 	am_VBM going_VVGK to_TO highlight_VVI 	on_II 
+19249_tagged.txt	I_PPIS1 	am_VBM going_VVGK to_TO locate_VVI 	and_CC 
+19249_tagged.txt	people_NN in_II my_APPGE party_NN1 ._. I_PPIS1 	am_VBM going_VVGK to_TO start_VVI 	from_II 
+19249_tagged.txt	him_PPHO1 so_RG much_DA1 ._. Now_RT I_PPIS1 	am_VBM going_VVGK to_TO locate_VVI 	my_APPGE 
+19249_tagged.txt	much_DA1 ._. The_AT last_MD thing_NN1 I_PPIS1 	am_VBM going_VVGK to_TO talk_VVI 	about_II 
+19434_tagged.txt	in_II all_DB countries_NN2 civilizations_NN2 ._. I_PPIS1 	am_VBM going_VVGK to_TO highlight_VVI 	some_DD 
+19617_tagged.txt	four_MC years_NNT2 and_CC then_RT I_PPIS1 	am_VBM going_VVGK to_TO apply_VVI 	the_AT 
+19858_tagged.txt	job_NN1 in_II another_DD1 city_NN1 I_PPIS1 	am_VBM going_VVGK to_TO stay_VVI 	in_II 
+19868_tagged.txt	I_PPIS1 	am_VBM going_VVGK to_TO stay_VVI 	in_II 
+19917_tagged.txt	I_PPIS1 	am_VBM going_VVGK to_TO stay_VVI 	in_II 
+20299_tagged.txt	still_RR in_II Pittsburgh_NP1 because_CS I_PPIS1 	am_VBM going_VVGK to_TO study_VVI 	here_RL 
+20299_tagged.txt	to_TO@ work_VVI on_II it_PPH1 ._. I_PPIS1 	am_VBM going_VVGK to_TO buy_VVI 	some_DD 
+20304_tagged.txt	After_CS this_DD1 summer_NNT1 semester_NN1 I_PPIS1 	am_VBM going_VVGK to_TO prepare_VVI 	my_APPGE 
+20304_tagged.txt	my_APPGE TOEFL_NN1 exam_NN1 ._. Actually_RR I_PPIS1 	am_VBM going_VVGK to_TO apply_VVI 	to_II 
+20304_tagged.txt	U._NP1 S._NP1 And_CC then_RT I_PPIS1 	am_VBM going_VVGK to_TO continue_VVI 	studying_VVG 
+20490_tagged.txt	have_VH0 big_JJ money_NN1 !_! )_) ._. Lastly_RR I_PPIS1 	am_VBM going_VVGK to_TO see_VVI 	the_AT 
+20617_tagged.txt	motivation_NN1 ._. The_AT second_MD step_NN1 I_PPIS1 	am_VBM going_VVGK to_TO tell_VVI 	about_II 
+20628_tagged.txt	Today_RT I_PPIS1 	am_VBM going_VVGK to_TO tell_VVI 	about_II 
+20886_tagged.txt	motivation_NN1 ._. The_AT second_MD step_NN1 I_PPIS1 	am_VBM going_VVGK to_TO tell_VVI 	about_RP@ 
+20887_tagged.txt	there_RL I_PPIS1 told_VVD them_PPHO2 I_PPIS1 	am_VBM going_VVGK to_TO ASSESS_VVI 	the_AT 
+20996_tagged.txt	I_PPIS1 	am_VBM going_VVGK to_TO write_VVI 	about_II 
+21319_tagged.txt	China_NP1 ._. In_II this_DD1 article_NN1 I_PPIS1 	am_VBM going_VVGK to_TO introduce_VVI 	Yangzhou_NN1 
+21352_tagged.txt	have_VHI meal_NN1 here_RL ._. Now_RT I_PPIS1 	am_VBM going_VVGK to_TO contrast_VVI 	food_NN1 
+21353_tagged.txt	it_PPH1 was_VBDZ really_RR cozy_JJ ._. I_PPIS1 	am_VBM going_VVGK to_TO compare_VVI 	vacationing_VVG 
+21354_tagged.txt	event_NN1 as_II a_AT1 momentum_NN1 ._. I_PPIS1 	am_VBM going_VVGK to_TO discuss_VVI 	popular_JJ 
+21354_tagged.txt	and_CC field_NN1 and_CC track_NN1 ._. I_PPIS1 	am_VBM going_VVGK to_TO compare_VVI 	with_IW 
+21569_tagged.txt	he_PPHS1 she_PPHS1 meet_VV0 others_NN2 ._. I_PPIS1 	am_VBM going_VVGK to_TO clarify_VVI 	why_RRQ 
+21623_tagged.txt	facing_VVG the_AT east_ND1 ._. So_RR I_PPIS1 	am_VBM going_VVGK to_TO move_VVI 	around_II 
+21863_tagged.txt	fresh_JJ water_NN1 has_VHZ important_JJ ._. I_PPIS1 	am_VBM going_VVGK to_TO take_VVI 	enough_DD 
+21872_tagged.txt	water_NN1 but_CCB any_DD chocolate_NN1 ._. I_PPIS1 	am_VBM going_VVGK to_TO go_VVI 	next_MD 
+22138_tagged.txt	heating_NN1 and_CC cooking_VVG food_NN1 ._. I_PPIS1 	am_VBM going_VVGK to_TO take_VVI 	some_DD 
+22138_tagged.txt	to_TO find_VVI some_DD time_NNT1 ._. I_PPIS1 	am_VBM going_VVGK to_TO pick_VVI 	up_RP 
+22728_tagged.txt	speaking_VVG I_PPIS1 think_VV0 what_DDQ I_PPIS1 	am_VBM going_VVGK to_TO say_VVI ._. 	Sometimes_RT 
+22879_tagged.txt	I_PPIS1 	am_VBM going_VVGK to_TO describe_VVI 	my_APPGE 
+22902_tagged.txt	in_II another_DD1 city_NN1 However_RRQV I_PPIS1 	am_VBM going_VVGK to_TO stay_VVI 	in_II 
+22908_tagged.txt	I_PPIS1 	am_VBM going_VVGK to_TO stay_VVI 	in_II 
+22957_tagged.txt	Although_CS I_PPIS1 	am_VBM going_VVGK to_TO stay_VVI 	in_II 
+23151_tagged.txt	family_NN1 influenced_VVD@ me_PPIO1 and_CC I_PPIS1 	am_VBM going_VVGK to_TO give_VVI 	it_PPH1 
+23572_tagged.txt	at_II ELI_NP1 ?_? He_PPHS1 said_VVD I_PPIS1 	am_VBM going_VVGK to_TO study_VVI 	in_II 
+23787_tagged.txt	First_MD i_ZZ1 	am_VBM going_VVGK to_TO memorize_VVI 	words_NN2 
+23787_tagged.txt	to_TO memorize_VVI words_NN2 then_RT i_MC1 	am_VBM going_VVGK to_TO ask_VVI 	my_APPGE 
+23902_tagged.txt	has_VHZ many_DA2 activities_NN2 and_CC I_PPIS1 	am_VBM going_VVGK to_TO write_VVI 	about_II 
+24003_tagged.txt	going_VVGK to_TO be_VBI flexible_JJ ._. I_PPIS1 	am_VBM going_VVGK to_TO meet_VVI 	my_APPGE 
+24165_tagged.txt	take_VVI with_IW me_PPIO1 If_CS I_PPIS1 	am_VBM going_VVGK to_TO live_VVI 	alone_RR 
+24414_tagged.txt	like_VV0 are_VBR recent_JJ movie_NN1 ._. I_PPIS1 	am_VBM going_VVGK to_TO write_VVI 	about_II 
+24422_tagged.txt	successful_JJ in_II your_APPGE life_NN1 ._. I_PPIS1 	am_VBM going_VVGK to_TO write_VVI 	about_II 
+24754_tagged.txt	getting_VVG dirty_JJ ._. After_CS that_DD1 i_MC1 	am_VBM going_VVGK to_TO straighten_VVI 	up_RP 
+24754_tagged.txt	old_JJ newspapers_NN2 ._. At_II night_NNT1 i_ZZ1 	am_VBM going_VVGK to_TO ask_VVI 	ANON_JJ 
+24754_tagged.txt	dinner_NN1 and_CC after_II finishing_VVG i_MC1 	am_VBM going_VVGK to_TO drop_VVI 	him_PPHO1 
+25010_tagged.txt	and_CC the_AT story_NN1 lines_NN2 ._. I_PPIS1 	am_VBM going_VVGK to_TO compare_VVI 	and_CC 
+25553_tagged.txt	eighteen_MC ._. In_II this_DD1 essay_NN1 I_PPIS1 	am_VBM going_VVGK to_TO explain_VVI 	the_AT 
+25711_tagged.txt	of_IO many_DA2 chapters_NN2 however_RRQV I_PPIS1 	am_VBM going_VVGK to_TO discuss_VVI 	only_JJ 
+26680_tagged.txt	legalized_VVN@ ._. In_II this_DD1 essay_NN1 I_PPIS1 	am_VBM going_VVGK to_TO persuade_VVI 	you_PPY 
+26926_tagged.txt	If_CS i_ZZ1 	am_VBM going_VVGK to_TO live_VVI 	alone_RR 
+27510_tagged.txt	NN1 institutes or_CC schools_NN2 ._. Therefore_RR I_PPIS1 	am_VBM going_VVGK to_TO write_VVI 	about_II 
+28063_tagged.txt	to_TO worry_VVI about_RP@ where_CS I_PPIS1 	am_VBM going_VVGK to_TO live_VVI 	what_DDQ 
+28063_tagged.txt	going_VVGK to_TO live_VVI what_DDQ I_PPIS1 	am_VBM going_VVGK to_TO eat_VVI 	or_CC 
+28689_tagged.txt	I_PPIS1 	am_VBM going_VVGK to_TO talk_VVI 	about_II 
+28802_tagged.txt	I_PPIS1 thought_VVD that_CST yes_UH I_PPIS1 	am_VBM going_VVGK to_TO study_VVI 	English_JJ 
+28925_tagged.txt	years_NNT2 and_CC this_DD1 year_NNT1 i_ZZ1 	am_VBM going_VVGK to_TO study_VVI 	master_NN1 
+29136_tagged.txt	I_PPIS1 	am_VBM going_VVGK to_TO live_VVI 	alone_RR 
+29144_tagged.txt	If_CS I_PPIS1 	am_VBM going_VVGK to_TO live_VVI 	alone_RR 
+29601_tagged.txt	Mexican_JJ food_NN1 yet_RR but_CCB I_PPIS1 	am_VBM going_VVGK to_TO try_VVI 	it_PPH1 
+29610_tagged.txt	Mexican_JJ food_NN1 yet_RR but_CCB I_PPIS1 	am_VBM going_VVGK to_TO try_VVI 	it_PPH1 
+29624_tagged.txt	I_PPIS1 	am_VBM going_VVGK to_TO make_VVI 	Bulgogi_NN1 
+29627_tagged.txt	Mexican_JJ food_NN1 yet_RR but_CCB I_PPIS1 	am_VBM going_VVGK to_TO try_VVI 	it_PPH1 
+29777_tagged.txt	in_II different_JJ ways_NN2 ._. Therefore_RR I_PPIS1 	am_VBM going_VVGK to_TO consider_VVI 	where_RRQ 
+31908_tagged.txt	I_PPIS1 	am_VBM going_VVGK to_TO describe_VVI 	a_AT1 
+32337_tagged.txt	I_PPIS1 	am_VBM going_VVGK to_TO write_VVI 	about_II 
+32372_tagged.txt	Because_CS I_PPIS1 love_VV0 management_NN1 I_PPIS1 	am_VBM going_VVGK to_TO specialize_VVI 	in_II 
+32557_tagged.txt	well_RR22 ._. To_TO begin_VVI with_IW I_PPIS1 	am_VBM going_VVGK to_TO claim_VVI 	that_CST 
+33154_tagged.txt	prefering_VVG this_DD1 days_NNT2 First_MD I_PPIS1 	am_VBM going_VVGK to_TO talk_VVI 	about_II 
+33336_tagged.txt	privilege_NN1 for_IF human_NN1 ._. So_RR I_PPIS1 	am_VBM going_VVGK to_TO talk_VVI 	about_II 
+33464_tagged.txt	cities_NN2 ._. First_MD of_IO all_DB I_PPIS1 	am_VBM going_VVGK to_TO talk_VVI 	about_II 
+33464_tagged.txt	cup_NN1 of_IO tea_NN1 ._. Second_NNT1 I_PPIS1 	am_VBM going_VVGK to_TO discuss_VVI 	the_AT 
+33551_tagged.txt	I_PPIS1 	am_VBM going_VVGK to_TO visit_VVI 	my_APPGE 
+33794_tagged.txt	studying_VVG for_RR21 long_RR22 time_NNT1 I_PPIS1 	am_VBM going_VVGK to_TO study_VVI 	at_II 
+33899_tagged.txt	finishing_JJ master_NN1 's_GE degree_NN1 I_PPIS1 	am_VBM going_VVGK to_TO try_VVI 	to_TO 
+34497_tagged.txt	attention_NN1 by_II people_NN ._. Today_RT I_PPIS1 	am_VBM going_VVGK to_TO talk_VVI 	about_II 
+35057_tagged.txt	introduce_VVI for_IF you_PPY ._. What_DDQ I_PPIS1 	am_VBM going_VVGK to_TO introduce_VVI 	is_VBZ 
+35409_tagged.txt	time_NNT1 ._. To_TO reduce_VVI time_NNT1 I_PPIS1 	am_VBM going_VVGK to_TO think_VVI 	about_II 
+35448_tagged.txt	or_CC CNN_NP1 every_AT1 day_NNT1 ._. I_PPIS1 	am_VBM going_VVGK to_TO read_VVI 	this_DD1 
+35472_tagged.txt	TOEFL_NN1 test_NN1 ._. After_CS that_CST I_PPIS1 	am_VBM going_VVGK to_TO look_VVI 	for_IF 
+35499_tagged.txt	house_NN1 at_II Squirrel_NN1 hill_NN1 ._. I_PPIS1 	am_VBM going_VVGK to_TO graduate_VVI 	school_NN1 
+35504_tagged.txt	studies_NN2 at_II the_AT ELI_NN1 I_PPIS1 	am_VBM going_VVGK to_TO apply_VVI 	for_IF 
+35548_tagged.txt	APPGE apartment_NN1 ._. At_II 2_MC pm_RA I_PPIS1 	am_VBM going_VVGK to_TO park_VVI ._. 	while_CS 
+35754_tagged.txt	is_VBZ choose_VV0 witch_NN1 major_NN1@ I_PPIS1 	am_VBM going_VVGK to_TO study_VVI 	in_II 
+36006_tagged.txt	negative_JJ aspects_NN2 in_II which_DDQ I_PPIS1 	am_VBM going_VVGK to_TO focus_VVI 	isolation_NN1 
+36284_tagged.txt	My_APPGE Best_JJT Friend_NN1 I_PPIS1 	am_VBM going_VVGK to_TO introduce_VVI 	a_AT1 
+36434_tagged.txt	university_NN1 ._. I_PPIS1 hope_VV0 that_CST I_PPIS1 	am_VBM going_VVGK to_TO study_VVI 	hard_RR 
+187_tagged.txt	many_DA2 kinds_NN2 of_IO steak_NN1 ._. I_PPIS1 '	m_VBM going_VVGK to_TO try_VVI 	another_DD1 
+693_tagged.txt	at_II 10_MC 00_MC A._NNU M._NN1 I_PPIS1 '	m_VBM going_VVGK to_TO keep_VVI 	on_RP 
+872_tagged.txt	by_II your_APPGE advice_NN1 ._. Soon_RR I_PPIS1 '	m_VBM going_VVGK to_TO call_VVI 	you_PPY 
+1187_tagged.txt	a_AT1 few_DA2 months_NNT2 ._. So_RR I_PPIS1 '	m_VBM going_VVGK to_TO wait_VVI 	for_IF 
+1222_tagged.txt	make_VVI my_APPGE apartment_NN1 intresting_VVG I_PPIS1 '	m_VBM going_VVGK to_TO pick_VVI 	up_RP 
+1372_tagged.txt	of_IO the_AT Kalahari_NP1 Desert_NN1 ._. I_PPIS1 '	m_VBM going_VVGK to_TO compare_VVI 	the_AT !_! 
+1372_tagged.txt	cuisine_NN1 is_VBZ versatile_JJ ._. Then_RT I_PPIS1 '	m_VBM going_VVGK to_TO compare_VVI 	how_RGQ@ 
+1523_tagged.txt	make_VVI my_APPGE house_NN1 interesting_JJ I_PPIS1 '	m_VBM going_VVGK to_TO pick_VVI 	up_RP 
+1742_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO spend_VVI 	money_NN1 
+1742_tagged.txt	money_NN1 to_II activity_NN1 ._. Next_MD I_PPIS1 '	m_VBM going_VVGK to_TO buy_VVI 	new_JJ 
+1812_tagged.txt	brief_JJ introduction_NN1 of_IO what_DDQ I_PPIS1 '	m_VBM going_VVGK to_TO write_VVI 	about_II ._. 
+1940_tagged.txt	complex_JJ I_PPIS1 '	m_VBM going_VVGK to_TO go_VVI 	back_RP 
+1969_tagged.txt	castle_NN1 and_CC Manchester_NP1 where_CS I_PPIS1 '	m_VBM going_VVGK to_TO see_VVI 	Manchester_NP1 
+2125_tagged.txt	arrive_VV0 in_II my_APPGE country_NN1 I_PPIS1 '	m_VBM going_VVGK to_TO take_VVI 	the_AT 
+2143_tagged.txt	I_PPIS1 can_VM write_VVI about_II ._. I_PPIS1 '	m_VBM going_VVGK to_TO write_VVI 	about_II 
+2145_tagged.txt	another_DD1 ._. In_II this_DD1 paragraph_NN1 I_PPIS1 '	m_VBM going_VVGK to_TO write_VVI 	about_II 
+2283_tagged.txt	the_AT Pregnant_JJ Women_NN2 and_CC I_PPIS1 '	m_VBM going_VVGK to_TO talk_VVI 	about_II 
+2350_tagged.txt	when_CS you_PPY see_VV0 them_PPHO2 ._. I_PPIS1 '	m_VBM going_VVGK to_TO upload_VVI 	more_DAR 
+2442_tagged.txt	Time_NNT1 since_II yesterday_RT night_NNT1 ._. I_PPIS1 '	m_VBM going_VVGK to_TO see_VVI 	it_PPH1 
+2764_tagged.txt	to_TO fail_VVI a_AT1 test_NN1 ._. I_PPIS1 '	m_VBM going_VVGK to_TO write_VVI 	about_II 
+2770_tagged.txt	better_RRR ._. For_REX21 example_REX22 before_CS I_PPIS1 '	m_VBM going_VVGK to_TO study_VVI 	I_PPIS1 
+2948_tagged.txt	me_PPIO1 to_TO cheer_VVI up_RP ._. I_PPIS1 '	m_VBM going_VVGK to_TO clear_VVI 	up_RP 
+3072_tagged.txt	completely_RR afraid_JJ about_II what_DDQ I_PPIS1 '	m_VBM going_VVGK to_TO see_VVI 	there_RL 
+3203_tagged.txt	Not_XX at_RR21 all_RR22 and_CC I_PPIS1 '	m_VBM going_VVGK to_TO meet_VVI 	you_PPY 
+3473_tagged.txt	crucial_JJ for_IF me_PPIO1 because_CS I_PPIS1 '	m_VBM going_VVGK to_TO go_VVI 	to_II 
+3543_tagged.txt	Recently_RR I_PPIS1 think_VV0 that_CST I_PPIS1 '	m_VBM going_VVGK to_TO buy_VVI 	video_NN1 
+3568_tagged.txt	computers_NN2 ._. In_II this_DD1 essay_NN1 I_PPIS1 '	m_VBM going_VVGK to_TO discuss_VVI 	some_DD 
+3587_tagged.txt	broke_VVD because_II21 of_II22 that_CST I_PPIS1 '	m_VBM going_VVGK to_TO buy_VVI 	a_AT1 
+3622_tagged.txt	to_TO manage_VVI time_NNT1 so_CS@ I_PPIS1 '	m_VBM going_VVGK to_TO introduce_VVI 	to_II 
+3806_tagged.txt	friend_NN1 parents_NN2 etc_RA ._. So_RR I_PPIS1 '	m_VBM going_VVGK to_TO present_VVI 	respect_NN1 
+4694_tagged.txt	First_MD active_JJ that_CST is_VBZ I_PPIS1 '	m_VBM going_VVGK to_TO visit_VVI 	my_APPGE 
+4719_tagged.txt	happy_JJ and_CC relax_VV0 ._. As_CSA i_ZZ1 '	m_VBM going_VVGK to_TO learn_VVI 	some_DD 
+4747_tagged.txt	Univ_NN1 ._. of_IO Pittsburgh_NP1 ._. However_RRQV I_PPIS1 '	m_VBM going_VVGK to_TO go_VVI 	back_RP 
+5077_tagged.txt	many_DA2 activities_NN2 there_RL ._. First_MD I_PPIS1 '	m_VBM going_VVGK to_TO visit_VVI 	my_APPGE 
+5077_tagged.txt	he_PPHS1 has_VHZ party_NN1 ._. Second_NNT1 I_PPIS1 '	m_VBM going_VVGK to_TO visit_VVI 	some_DD 
+5457_tagged.txt	The_AT topic_NN1 that_CST i_ZZ1 '	m_VBM going_VVGK to_TO take_VVI 	is_VBZ 
+5484_tagged.txt	tell_VVI my_APPGE friend_NN1 that_CST I_PPIS1 '	m_VBM going_VVGK to_TO leave_VVI ._. 	In_RR21 
+6128_tagged.txt	and_CC I_PPIS1 '	m_VBM going_VVGK to_TO buy_VVI 	two_MC 
+6287_tagged.txt	our_APPGE things_NN2 right_RR and_CC I_PPIS1 '	m_VBM going_VVGK to_TO talk_VVI 	about_II 
+6556_tagged.txt	with_IW their_APPGE meals_NN2 ._. Today_RT I_PPIS1 '	m_VBM going_VVGK to_TO introduce_VVI 	how_RRQ 
+6673_tagged.txt	because_CS I_PPIS1 feel_VV0 like_CS% I_PPIS1 '	m_VBM going_VVGK to_TO throw_VVI 	up_RP 
+6746_tagged.txt	with_IW their_APPGE meals_NN2 ._. Today_RT I_PPIS1 '	m_VBM going_VVGK to_TO introduce_VVI 	how_RRQ 
+6843_tagged.txt	with_IW their_APPGE meals_NN2 ._. Today_RT I_PPIS1 '	m_VBM going_VVGK to_TO introduce_VVI 	how_RRQ 
+7705_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO go_VVI 	to_II 
+7712_tagged.txt	everyday_JJ for_IF me_PPIO1 ._. Finally_RR I_PPIS1 '	m_VBM going_VVGK to_TO buy_VVI 	air_NN1 
+7719_tagged.txt	in_II LA_NP1 ._. After_II then_RT I_PPIS1 '	m_VBM going_VVGK to_TO go_VVI 	back_RP 
+7725_tagged.txt	Pittsburgh_NP1 ._. The_AT next_MD month_NNT1 I_PPIS1 '	m_VBM going_VVGK to_TO visit_VVI 	him_PPHO1 
+7733_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO stay_VVI 	in_II 
+7733_tagged.txt	on_II business_NN1 trip_NN1 ._. So_RR I_PPIS1 '	m_VBM going_VVGK to_TO study_VVI 	English_NN1 
+7742_tagged.txt	time_NNT1 for_IF these_DD2 reason_VV0@ I_PPIS1 '	m_VBM going_VVGK to_TO call_VVI 	my_APPGE 
+7767_tagged.txt	be_VBI a_AT1 friend_NN1 ._. And_CC I_PPIS1 '	m_VBM going_VVGK to_TO explain_VVI 	why_RRQ 
+7793_tagged.txt	IF lever_NN1 5_MC in_II ELI_NP1 ._. I_PPIS1 '	m_VBM going_VVGK to_TO visit_VVI 	my_APPGE 
+7801_tagged.txt	yard_NN1 ._. The_AT next_MD year_NNT1 I_PPIS1 '	m_VBM going_VVGK to_TO move_VVI 	to_II 
+7887_tagged.txt	there_EX are_VBR differences_NN2 and_CC I_PPIS1 '	m_VBM going_VVGK to_TO explain_VVI 	three_MC 
+7903_tagged.txt	all_DB of_IO them_PPHO2 ._. First_MD I_PPIS1 '	m_VBM going_VVGK to_TO study_VVI 	in_II 
+7903_tagged.txt	lot_NN1 of_IO money_NN1 ._. Finally_RR I_PPIS1 '	m_VBM going_VVGK to_TO buy_VVI 	a_AT1 
+7936_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO bring_VVI 	apples_NN2 
+7937_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO bring_VVI 	a_AT1 
+7938_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO bring_VVI 	drink_NN1 
+7939_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO bring_VVI 	flowers_NN2 
+7940_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO bring_VVI 	glasses_NN2 
+7941_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO bring_VVI 	bananas_NN2 
+7942_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO bring_VVI 	eggs_NN2 
+7943_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO bring_VVI 	a_AT1 
+7984_tagged.txt	bagels_NN2 which_DDQ I_PPIS1 '	m_VBM going_VVGK to_TO buy_VVI 	from_II 
+8018_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO bring_VVI 	an_AT1 
+8018_tagged.txt	went_VVD to_II Niagara_NP1 Falls_NN2 ._. I_PPIS1 '	m_VBM going_VVGK to_TO bring_VVI 	an_AT1 
+8018_tagged.txt	went_VVD to_II Niagara_NP1 Falls_NN2 ._. I_PPIS1 '	m_VBM going_VVGK to_TO bring_VVI 	an_AT1 
+8018_tagged.txt	went_VVD to_II Niagara_NP1 Falls_NN2 I_PPIS1 '	m_VBM going_VVGK to_TO bring_VVI 	an_AT1 
+8019_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO bring_VVI 	breads_NN2 
+8020_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO bring_VVI 	some_DD 
+8021_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO bring_VVI 	some_DD 
+8022_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO bring_VVI 	my_APPGE 
+8023_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO bring_VVI 	a_AT1 
+8024_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO bring_VVI 	a_AT1 
+8025_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO bring_VVI 	a_AT1 
+8071_tagged.txt	study_VVI the_AT university_NN1 and_CC I_PPIS1 '	m_VBM going_VVGK to_TO live_VVI 	with_IW 
+8347_tagged.txt	there_EX are_VBR differences_NN2 and_CC I_PPIS1 '	m_VBM going_VVGK to_TO explain_VVI 	three_MC 
+8563_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO try_VVI 	to_TO 
+8617_tagged.txt	At_RR21 first_RR22 I_PPIS1 '	m_VBM going_VVGK to_TO tell_VVI 	her_PPHO1 
+9517_tagged.txt	type_NN1 of_IO students_NN2 which_DDQ I_PPIS1 '	m_VBM going_VVGK to_TO talk_VVI 	about_II 
+9847_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO visit_VVI 	the_AT 2500
+10497_tagged.txt	Hello_UH Everyone_PN1 ._. I_PPIS1 '	m_VBM going_VVGK to_TO introduce_VVI 	myself_PPX1 
+10510_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO talk_VVI 	about_II 
+10551_tagged.txt	Maybe_RR i_MC1 '	m_VBM going_VVGK to_TO register_VVI 	next_MD 
+10551_tagged.txt	in_II NEWYORK_NP1 city_NN1 ._. And_CC i_ZZ1 '	m_VBM going_VVGK to_TO meet_VVI 	my_APPGE 
+10551_tagged.txt	VM always_RR study_VVI english and_CC i_ZZ1 '	m_VBM going_VVGK to_TO try_VVI 	use_NN1 
+10572_tagged.txt	When_CS i_ZZ1 come_VV0 back_RP i_MC1 '	m_VBM going_VVGK to_TO pack_VVI 	my_APPGE 
+10572_tagged.txt	to_II the_AT beach_NN1 and_CC i_ZZ1 '	m_VBM going_VVGK to_TO attend_VVI 	many_DA2 
+10572_tagged.txt	to_II Pittsburgh_NP1 and_CC hopefully_RR i_MC1 '	m_VBM going_VVGK to_TO attend_VVI 	classes_NN2 
+10600_tagged.txt	plans_NN2 ._. First_MD of_IO all_DB I_PPIS1 '	m_VBM going_VVGK to_TO buy_VVI 	a_AT1 
+10600_tagged.txt	the_AT Toronto_NP1 Cannada_NP1 ._. Second_NNT1 I_PPIS1 '	m_VBM going_VVGK to_TO find_VVI 	out_RP 
+10600_tagged.txt	a_AT1 great_JJ homestay_NN1 ._. Now_RT I_PPIS1 '	m_VBM going_VVGK to_TO call_VVI 	my_APPGE 
+10600_tagged.txt	call_VVI my_APPGE friend_NN1 ._. Finally_RR I_PPIS1 '	m_VBM going_VVGK to_TO look_VVI 	for_IF 
+10686_tagged.txt	APPGE parents_NN2 '_GE in_II China_NP1 ._. I_PPIS1 '	m_VBM going_VVGK to_TO discribe_VVI 	their_APPGE 
+10823_tagged.txt	I_PPIS1 finish_VV0 this_DD1 exercise_NN1 I_PPIS1 '	m_VBM going_VVGK to_TO go_VVI 	to_II 
+10908_tagged.txt	I_PPIS1 save_VV0 enough_DD money_NN1 i_ZZ1 '	m_VBM going_VVGK to_TO buy_VVI 	a_AT1 
+10910_tagged.txt	i_MC1 '	m_VBM going_VVGK to_TO buy_VVI 	a_AT1 
+10912_tagged.txt	I_PPIS1 finish_VV0 this_DD1 exercise_NN1 i_ZZ1 '	m_VBM going_VVGK to_TO shower_VVI ._. 	When_CS 
+10912_tagged.txt	I_PPIS1 finish_VV0 this_DD1 exercise_NN1 I_PPIS1 '	m_VBM going_VVGK to_TO meet_VVI 	my_APPGE 
+11461_tagged.txt	straighten_VVI up_RP my_APPGE apartment_NN1 ._. I_PPIS1 '	m_VBM going_VVGK to_TO clean_VVI 	it_PPH1 
+11483_tagged.txt	straighten_VVI up_RP my_APPGE house_NN1 ._. I_PPIS1 '	m_VBM going_VVGK to_TO keep_VVI 	on_RP 
+11877_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO go_VVI 	to_II 
+11929_tagged.txt	Hi_UH Mike_NP1 I_PPIS1 '	m_VBM going_VVGK to_TO see_VVI 	my_APPGE 
+12283_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO talk_VVI 	about_II 
+12367_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO describe_VVI 	a_AT1 
+12697_tagged.txt	If_CS I_PPIS1 '	m_VBM going_VVGK to_TO start_VVI 	a_AT1 
+12869_tagged.txt	situation_NN1 ._. To_II that_DD1 end_NN1 I_PPIS1 '	m_VBM going_VVGK to_TO borrow_VVI 	the_AT 
+13004_tagged.txt	English_NN1 for_IF now_RT then_RT I_PPIS1 '	m_VBM going_VVGK to_TO study_VVI 	Computer_NN1 
+13126_tagged.txt	is_VBZ to_TO learn_VVI English_NN1 ._. I_PPIS1 '	m_VBM going_VVGK to_TO meet_VVI 	my_APPGE 
+13318_tagged.txt	After_CS is_VBZ semester_NN1 I_PPIS1 '	m_VBM going_VVGK to_TO tack_VVI 	TOEFL_NN1 
+13318_tagged.txt	try_VVI one_MC1 more_DAR time_NNT1 ._. I_PPIS1 '	m_VBM going_VVGK to_TO prepare_VVI 	to_TO 
+13321_tagged.txt	one_MC1 and_CC two_MC because_CS I_PPIS1 '	m_VBM going_VVGK to_TO take_VVI 	USMLE_NP1 
+13321_tagged.txt	have_VHI much_DA1 time_NNT1 ._. Third_MD I_PPIS1 '	m_VBM going_VVGK to_TO visit_VVI 	my_APPGE 
+13330_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO travel_VVI 	New_NP1 
+13330_tagged.txt	New_NP1 York_NP1 city_NN1 ._. So_RR I_PPIS1 '	m_VBM going_VVGK to_TO ask_VVI 	her_PPHO1 ._. 
+13330_tagged.txt	me_PPIO1 ?_? Before_CS I_PPIS1 travel_VV0 I_PPIS1 '	m_VBM going_VVGK to_TO study_VVI 	about_II 
+13829_tagged.txt	Today_RT I_PPIS1 '	m_VBM going_VVGK to_TO share_VVI 	with_IW 
+14459_tagged.txt	in_II E._NP1 L._NP1 I_ZZ1% I_PPIS1 '	m_VBM going_VVGK to_TO apply_VVI 	to_II 
+14464_tagged.txt	VVI after_II 3_MC years_NNT2 and_CC I_PPIS1 '	m_VBM going_VVGK to_TO try_VVI 	get_VV0 
+14545_tagged.txt	have_VH0 come_VVN here_RL ._. First_MD I_PPIS1 '	m_VBM going_VVGK to_TO go_VVI 	CCAC_NP1 
+14552_tagged.txt	a_AT1 grass_NN1 of_IO Martini_NN1 I_PPIS1 '	m_VBM going_VVGK to_TO eat_VVI 	it_PPH1 ._. 
+14677_tagged.txt	some_DD different_JJ culture_NN1 ._. So_RR I_PPIS1 '	m_VBM going_VVGK to_TO write_VVI 	about_II 
+14903_tagged.txt	for_IF e._ZZ1 g._NNU if_CS i_ZZ1 '	m_VBM going_VVGK to_TO visit_VVI 	my_APPGE 
+14918_tagged.txt	when_RRQ my_APPGE lunch_NN1 time_NNT1 ._. I_PPIS1 '	m_VBM going_VVGK to_TO keep_VVI 	on_RP 
+14981_tagged.txt	it_PPH1 really_RR hard_JJ but_CCB I_PPIS1 '	m_VBM going_VVGK to_TO keep_VVI 	up_RP 
+14981_tagged.txt	a_AT1 new_JJ book_NN1 which_DDQ I_PPIS1 '	m_VBM going_VVGK to_TO put_VVI 	together_RL 
+15232_tagged.txt	Today_RT is_VBZ Sunday_NPD1 ._. I_PPIS1 '	m_VBM going_VVGK to_TO cook_VVI 	pancakes_NN2 
+15234_tagged.txt	times_NNT2 for_REX21 example_REX22 if_CS I_PPIS1 '	m_VBM going_VVGK to_TO visit_VVI 	my_APPGE 
+15383_tagged.txt	Today_RT is_VBZ Sunday_NPD1 ._. I_PPIS1 '	m_VBM going_VVGK to_TO cook_VVI 	pancakes_NN2 
+15857_tagged.txt	her_APPGE first_MD baby_NN1 so_CS@ I_PPIS1 '	m_VBM going_VVGK to_TO stay_VVI 	with_IW 
+15861_tagged.txt	Next_MD semester_NN1 I_PPIS1 '	m_VBM going_VVGK to_TO complete_VVI 	my_APPGE 
+15882_tagged.txt	to_II my_APPGE country_NN1 and_CC I_PPIS1 '	m_VBM going_VVGK to_TO get_VVI 	married_JJ ._. 
+15893_tagged.txt	in_II the_AT near_JJ@ future_NN1 ._. I_PPIS1 '	m_VBM going_VVGK to_TO go_VVI 	to_II 
+15898_tagged.txt	live_JJ ._. First_MD of_IO all_DB I_PPIS1 '	m_VBM going_VVGK to_TO end_VVI 	all_DB 
+15899_tagged.txt	completely_RR definite_JJ ._. In_II January_NPM1 I_PPIS1 '	m_VBM going_VVGK to_TO start_VVI 	a_AT1 
+16129_tagged.txt	not_XX simple_JJ thing_NN1 ._. Now_RT I_PPIS1 '	m_VBM going_VVGK to_TO talk_VVI 	about_II 
+16143_tagged.txt	see_VVI my_APPGE friends_NN2 ._. Also_RR I_PPIS1 '	m_VBM going_VVGK to_TO go_VVI 	to_II 
+16190_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO write_VVI 	some_DD 
+16388_tagged.txt	Korea_NP1 and_CC Japan_NP1 ._. So_RR I_PPIS1 '	m_VBM going_VVGK to_TO compare_VVI 	Korea_NP1 
+16567_tagged.txt	Korea_NP1 and_CC Japan_NP1 ._. So_RR I_PPIS1 '	m_VBM going_VVGK to_TO compare_VVI 	Korea_NP1 
+18526_tagged.txt	Pressures_NN2 essay_NN1 ._. I_PPIS1 '	m_VBM going_VVGK to_TO talk_VVI 	about_II 
+18526_tagged.txt	and_CC all_DB the_AT experience_NN1 I_PPIS1 '	m_VBM going_VVGK to_TO gett_VVI 	during_II 
+18602_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO continue_VVI 	studying_VVG 
+18635_tagged.txt	1_MC1 ._. I_PPIS1 '	m_VBM going_VVGK to_TO continue_VVI 	studying_VVG 
+18903_tagged.txt	city_NN1 and_CC suburban_JJ city_NN1 ._. I_PPIS1 '	m_VBM going_VVGK to_TO compare_VVI 	two_MC 
+19124_tagged.txt	not_XX interested_JJ in_II it_PPH1 ._. I_PPIS1 '	m_VBM going_VVGK to_TO hang_VVI 	the_AT 
+19527_tagged.txt	I_PPIS1 reach_VV0 the_AT city_NN1 I_PPIS1 '	m_VBM going_VVGK to_TO take_VVI 	a_AT1 
+19821_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO stay_VVI 	in_II 
+19837_tagged.txt	job_NN1 in_II another_DD1 city_NN1 I_PPIS1 '	m_VBM going_VVGK to_TO stay_VVI 	in_II 
+19847_tagged.txt	Since_CS I_PPIS1 '	m_VBM going_VVGK to_TO stay_VVI 	in_II 
+19897_tagged.txt	job_NN1 in_II another_DD1 city_NN1 I_PPIS1 '	m_VBM going_VVGK to_TO stay_VVI 	in_II 
+19907_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO stay_VVI 	in_II 
+19928_tagged.txt	Although_CS I_PPIS1 '	m_VBM going_VVGK to_TO stay_VVI 	in_II 
+19942_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO stay_VVI 	in_II 
+19953_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO stay_VVI 	in_II 
+19970_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO stay_VVI 	in_II 
+19981_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO stay_VVI 	in_II 
+20001_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO stay_VVI 	in_II 
+20024_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO stay_VVI 	in_II 
+20034_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO stay_VVI 	in_II 
+20115_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO stay_VVI 	in_II 
+20304_tagged.txt	PPIS1 wo_VM n't_XX acceptable_JJ I_PPIS1 '	m_VBM going_VVGK to_TO apply_VVI 	to_II 
+20304_tagged.txt	On_II the_AT other_JJ hand_NN1 I_PPIS1 '	m_VBM going_VVGK to_TO get_VVI 	married_JJ 
+20499_tagged.txt	from_II African_JJ Savanna_NP1 now_RT I_PPIS1 '	m_VBM going_VVGK to_TO go_VVI 	some_DD 
+21040_tagged.txt	scenery_NN1 is_VBZ essential_JJ ._. Secondly_RR I_PPIS1 '	m_VBM going_VVGK to_TO buy_VVI 	some_DD 
+21320_tagged.txt	feelings_NN2 with_IW the_AT family_NN1 ._. I_PPIS1 '	m_VBM going_VVGK to_TO discuss_VVI 	the_AT 
+21375_tagged.txt	many_DA2 people_NN criticize_VV0 it_PPH1 ._. I_PPIS1 '	m_VBM going_VVGK to_TO contrast_VVI 	as_II31 
+22834_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO stay_VVI 	in_II 
+22849_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO stay_VVI 	in_II 
+22858_tagged.txt	job_NN1 in_II another_DD1 city_NN1 I_PPIS1 '	m_VBM going_VVGK to_TO stay_VVI 	in_II 
+22881_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO stay_VVI 	in_II 
+22888_tagged.txt	job_NN1 in_II another_DD1 city_NN1 I_PPIS1 '	m_VBM going_VVGK to_TO stay_VVI 	in_II 
+22896_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO stay_VVI 	in_II 
+22917_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO stay_VVI 	in_II 
+22926_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO stay_VVI 	in_II 
+22946_tagged.txt	Although_CS I_PPIS1 '	m_VBM going_VVGK to_TO stay_VVI 	in_II 
+22967_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO stay_VVI 	in_II 
+23055_tagged.txt	Thursday_NPD1 after_CS finishing_JJ classes_NN2 I_PPIS1 '	m_VBM going_VVGK to_TO go_VVI 	to_II 
+23066_tagged.txt	TO study_VVI english at_II ELI_NP1 ._. I_PPIS1 '	m_VBM going_VVGK to_TO study_VVI 	the_AT 
+23255_tagged.txt	is_VBZ a_AT1 Japanese_JJ one_PN1 'I_JJ% '	m_VBM going_VVGK to_TO meet_VVI 	now_RT ._. 
+23781_tagged.txt	VM n't_XX believe_VVI that_CST I_PPIS1 '	m_VBM going_VVGK to_TO miss_VVI 	celebrating_VVG 
+24219_tagged.txt	examine_VVI specific_JJ requirements_NN2 ._. Therefore_RR I_PPIS1 '	m_VBM going_VVGK to_TO give_VVI 	some_DD 
+26869_tagged.txt	bought_VVD many_DA2 things_NN2 that_CST I_PPIS1 '	m_VBM going_VVGK to_TO need_VVI 	for_IF 
+26869_tagged.txt	I_PPIS1 bought_VVD a_AT1 dozen_NNO ._. I_PPIS1 '	m_VBM going_VVGK to_TO need_VVI 	a_AT1 
+26869_tagged.txt	like_VVI greasy_JJ food_NN1 so_CS@ I_PPIS1 '	m_VBM going_VVGK to_TO use_VVI 	just_RR 
+27428_tagged.txt	to_TO change_VVI my_APPGE room_NN1 ._. I_PPIS1 '	m_VBM going_VVGK to_TO take_VVI 	the_AT 
+27441_tagged.txt	a_RR21 little_RR22 messy_JJ so_CS@ I_PPIS1 '	m_VBM going_VVGK to_TO clean_VVI 	up_RP 
+27567_tagged.txt	object_NN1 i_MC1 might_NN1% facing_VVG I_PPIS1 '	m_VBM going_VVGK to_TO take_VVI 	a_AT1 
+28057_tagged.txt	After_II graduating_VVG from_II college_NN1 I_PPIS1 '	m_VBM going_VVGK to_TO get_VVI 	a_AT1 
+28787_tagged.txt	choose_VVI a_AT1 place_NN1 where_RRQ I_PPIS1 '	m_VBM going_VVGK to_TO pursue_VVI 	my_APPGE 
+28804_tagged.txt	really_RR like_VV0 it_PPH1 and_CC I_PPIS1 '	m_VBM going_VVGK to_TO miss_VVI 	it_PPH1 
+28886_tagged.txt	person_NN1 to_II person_NN1 ._. However_RRQV I_PPIS1 '	m_VBM going_VVGK to_TO compare_VVI 	between_II 
+29135_tagged.txt	If_CS I_PPIS1 '	m_VBM going_VVGK to_TO live_VVI 	alone_RR 
+29454_tagged.txt	Mexican_JJ food_NN1 yet_RR but_CCB I_PPIS1 '	m_VBM going_VVGK to_TO try_VVI 	it_PPH1 
+29462_tagged.txt	Mexican_JJ food_NN1 yet_RR but_CCB I_PPIS1 '	m_VBM going_VVGK to_TO try_VVI 	it_PPH1 
+29470_tagged.txt	Mexican_JJ food_NN1 yet_RR but_CCB i_MC1 '	m_VBM going_VVGK to_TO try_VVI 	it_PPH1 
+29523_tagged.txt	day_NNT1 ._. About_II the_AT floor_NN1 I_PPIS1 '	m_VBM going_VVGK to_TO put_VVI 	wood_NN1 
+29525_tagged.txt	the_AT Mexican_JJ food_NN1 however_RRQV I_PPIS1 '	m_VBM going_VVGK to_TO try_VVI 	the_AT 
+29591_tagged.txt	Mexican_JJ food_NN1 yet_RR but_CCB I_PPIS1 '	m_VBM going_VVGK to_TO try_VVI 	it_PPH1 
+29618_tagged.txt	ll_VM throw_VVI it_PPH1 away_RL ._. I_PPIS1 '	m_VBM going_VVGK to_TO pick_VVI 	a_AT1 
+29765_tagged.txt	Mexican_JJ food_NN1 yet_RR but_CCB I_PPIS1 '	m_VBM going_VVGK to_TO try_VVI 	it_PPH1 
+30207_tagged.txt	is_VBZ very_RG long_RR here_RL I_PPIS1 '	m_VBM going_VVGK to_TO say_VVI 	some_DD 
+30810_tagged.txt	VVI a_AT1 master_NN1 degree_NN1 ._. (_( 2_MC )_) I_PPIS1 '	m_VBM going_VVGK to_TO stay_VVI 	at_II 
+30810_tagged.txt	by_II Carnegie_NP1 Mellon_NP1 University_NN1 I_PPIS1 '	m_VBM going_VVGK to_TO pursue_VVI 	a_AT1 
+30810_tagged.txt	II University_NN1 of_IO Pittsburgh_NP1 ._. (_( 4_MC )_) I_PPIS1 '	m_VBM going_VVGK to_TO apply_VVI 	other_JJ 
+30810_tagged.txt	NP1 (_( 6_MC )_) After_CS this_DD1 term_NN1 I_PPIS1 '	m_VBM going_VVGK to_TO travel_VVI 	to_II 
+31273_tagged.txt	party_NN1 every_AT1 year_NNT1 ._. So_RR I_PPIS1 '	m_VBM going_VVGK to_TO attend_VVI 	the_AT 
+31317_tagged.txt	VBI frozen_VVN in_II Pittsburgh_NP1 ._. 4_MC ._. I_PPIS1 '	m_VBM going_VVGK to_TO store_VVI 	some_DD 
+31840_tagged.txt	Hi_UH today_RT I_PPIS1 '	m_VBM going_VVGK to_TO talk_VVI 	about_II 
+31912_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO describe_VVI 	a_AT1 
+31915_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO describe_VVI 	the_AT 
+33354_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO talk_VVI 	about_II 
+33354_tagged.txt	is_VBZ God_NP1 decesion_NN1 ._. Now_RT I_PPIS1 '	m_VBM going_VVGK to_TO talk_VVI 	how_RRQ 
+33401_tagged.txt	outside_JJ vacation_NN1 plan_NN1 what_DDQ I_PPIS1 '	m_VBM going_VVGK to_TO say_VVI 	is_VBZ 
+33908_tagged.txt	outside_JJ vacation_NN1 plan_NN1 what_DDQ I_PPIS1 '	m_VBM going_VVGK to_TO say_VVI 	is_VBZ 
+34393_tagged.txt	around_II me_PPIO1 ._. In_RR21 addition_RR22 I_PPIS1 '	m_VBM going_VVGK to_TO drink_VVI 	a_AT1 
+34807_tagged.txt	are_VBR prohibited_VVN and_CC what_DDQ I_PPIS1 '	m_VBM going_VVGK to_TO find_VVI 	on_II 
+35101_tagged.txt	turn_VVI it_PPH1 around_RP Moreover_RR I_PPIS1 '	m_VBM going_VVGK to_TO put_VVI 	the_AT 
+35471_tagged.txt	my_APPGE goal_NN1 ._. After_CS that_CST I_PPIS1 '	m_VBM going_VVGK to_TO apply_VVI 	for_IF 
+35921_tagged.txt	I_PPIS1 '	m_VBM going_VVGK to_TO put_VVI 	in_II 
+35921_tagged.txt	five_MC different_JJ things_NN2 ._. First_MD I_PPIS1 '	m_VBM going_VVGK to_TO put_VVI 	the_AT 
+35921_tagged.txt	family_NN1 and_CC me_PPIO1 ._. Finally_RR I_PPIS1 '	m_VBM going_VVGK to_TO put_VVI 	the_AT 
+36078_tagged.txt	for_IF citizens_NN2 here_RL so_CS@ I_PPIS1 '	m_VBM going_VVGK to_TO join_VVI 	them_PPHO2 ._. 
+36078_tagged.txt	VVN od_NN1 3_MC steps_NN2 and_CC I_PPIS1 '	m_VBM going_VVGK to_TO take_VVI 	the_AT 
+36414_tagged.txt	s_GE degree_NN1 in_II USA_NP1 ._. I_PPIS1 '	m_VBM going_VVGK to_TO study_VVI 	for_IF 3
+86_tagged.txt	to_TO throw_VVI it_PPH1 ._. While_CS he_PPHS1 	is_VBZ going_VVGK to_TO throw_VVI 	that_CST 
+132_tagged.txt	and_CC big_JJ and_CC no_PN121 one_PN122 	is_VBZ going_VVGK to_TO see_VVI 	you_PPY 
+780_tagged.txt	needs_VVZ because_CS your_APPGE whole_JJ life_NN1 	is_VBZ going_VVGK to_TO depend_VVI 	on_II 
+837_tagged.txt	relatives_NN2 visits_NN2 ._. In_RR21 addition_RR22 she_PPHS1 	is_VBZ going_VVGK to_TO quit_VVI 	her_APPGE 
+949_tagged.txt	like_II his_APPGE eyes_NN2 and_CC it_PPH1 	is_VBZ going_VVGK to_TO make_VVI 	him_PPHO1 
+954_tagged.txt	they_PPHS2 can_VM ._. After_CS that_CST he_PPHS1 	is_VBZ going_VVGK to_TO wait_VVI 	for_IF 
+1072_tagged.txt	everything_PN1 else_RR unless_CS if_CS it_PPH1 	is_VBZ going_VVGK to_TO help_VVI 	you_PPY 
+1076_tagged.txt	to_TO stop_VVI this_DD1 thing_NN1 it_PPH1 	is_VBZ going_VVGK to_TO cost_VVI 	you_PPY 
+1076_tagged.txt	bad_JJ healthy_JJ I_PPIS1 think_VV0 he_PPHS1 	is_VBZ going_VVGK to_TO think_VVI 	in_II 
+1076_tagged.txt	have_VH0 a_AT1 bad_JJ healthy_JJ it_PPH1 	is_VBZ going_VVGK to_TO effect_VVI 	on_II 
+1094_tagged.txt	teach_VVI English_NN1 for_IF 1year_FO ._. She_PPHS1 	is_VBZ going_VVGK to_TO graduate_VVI 	from_II 
+1117_tagged.txt	A_AT1 Wow_UH !_! The_AT contest_NN1 	is_VBZ going_VVGK to_TO start_VVI 	after_II 
+1155_tagged.txt	needs_VVZ because_CS your_APPGE whole_JJ life_NN1 	is_VBZ going_VVGK to_TO depend_VVI 	on_II 
+1212_tagged.txt	person_NN1 ._. she_PPHS1 told_VVD that_CST she_PPHS1 	is_VBZ going_VVGK to_TO leave_VVI 	me. i_
+1847_tagged.txt	school_NN1 ._. In_II the_AT movie_NN1 Sebastian_NP1 	is_VBZ going_VVGK to_TO skip_VVI 	new_JJ 
+1904_tagged.txt	the_AT one_PN1 who_PNQS is_VBZ smoking_VVG 	is_VBZ going_VVGK to_TO kill_VVI 	himself_PPX1 
+1969_tagged.txt	to_TO visit_VVI England_NP1 ._. This_DD1 dream_NN1 	is_VBZ going_VVGK to_TO come_VVI 	true_JJ ._. 
+1969_tagged.txt	to_II my_APPGE country_NN1 ._. My_APPGE mother_NN1 	is_VBZ going_VVGK to_TO visit_VVI 	my_APPGE 
+2295_tagged.txt	to_TO throw_VVI it_PPH1 ._. While_CS he_PPHS1 	is_VBZ going_VVGK to_TO throw_VVI 	that_CST 
+2424_tagged.txt	NN2 ._. In_II June_NPM1 2007_MC the_AT company_NN1 	is_VBZ going_VVGK to_TO launch_VVI 	iPhone_VV0 
+2466_tagged.txt	them_PPHO2 Zaki_NP1 's_GE ._. While_CS he_PPHS1 	is_VBZ going_VVGK to_TO throw_VVI 	that_DD1 
+2509_tagged.txt	looks_VVZ like_II ._. The_AT space_NN1 vehicle_NN1 	is_VBZ going_VVGK to_TO fly_VVI 	tomorrow_RT 
+2604_tagged.txt	specific_JJ in_II what_DDQ the_AT writer_NN1 	is_VBZ going_VVGK to_TO explain_VVI 	about_RP@ ._. 
+2605_tagged.txt	general_JJ statement_NN1 and_CC the_AT writer_NN1 	is_VBZ going_VVGK to_TO describe_VVI 	about_II 
+2606_tagged.txt	what_DDQ they_PPHS2 are_VBR ._. The_AT writer_NN1 	is_VBZ going_VVGK to_TO explain_VVI 	about_II 
+2608_tagged.txt	of_IO friends_NN2 which_DDQ the_AT writer_NN1 	is_VBZ going_VVGK to_TO explain_VVI 	about_RP@ ._. 
+2609_tagged.txt	several_DA2 reasons_NN2 so_RR the_AT writer_NN1 	is_VBZ going_VVGK to_TO describe_VVI 	each_DD1 
+2614_tagged.txt	Jiam_NP1 fang_NN1 	is_VBZ going_VVGK to_TO continue_VVI 	English_JJ 
+2615_tagged.txt	suyoung_VVN 	is_VBZ going_VVGK to_TO continue_VVI 	studying_VVG 
+2617_tagged.txt	Scott_NP1 	is_VBZ going_VVGK to_TO continue_VVI 	studying_VVG 
+2617_tagged.txt	goes_VVZ to_II another_DD1 country_NN1 ._. He_PPHS1 	is_VBZ going_VVGK to_TO get_VVI 	job_NN1 
+2618_tagged.txt	ANON_JJ NAME_NN1 0_MC 	is_VBZ going_VVGK to_TO continue_VVI 	studying_VVG 
+2618_tagged.txt	he_PPHS1 finish_VV0 his_APPGE major_JJ ._. Scott_NP1 	is_VBZ going_VVGK to_TO contiue_VVI 	studying_VVG 
+2642_tagged.txt	1_MC1 ._. He_PPHS1 	is_VBZ going_VVGK to_TO continue_VVI 	studying_VVG 
+2654_tagged.txt	job_NN1 ._. When_CS he_PPHS1 graduate_VV0 he_PPHS1 	is_VBZ going_VVGK to_TO go_VVI 	his_APPGE 
+2656_tagged.txt	Menson_NN1 	is_VBZ going_VVGK to_TO continue_VVI 	studying_VVG 
+2656_tagged.txt	do_VDI his_APPGE home_NN1 work_NN1 ._. Menson_NN1 	is_VBZ going_VVGK to_TO go_VVI 	home_RL 
+2656_tagged.txt	soon_CS32 as_CS33 he_PPHS1 graduates_NN2 he_PPHS1 	is_VBZ going_VVGK to_TO travel_VVI 	to_II 
+2657_tagged.txt	ANON_JJ NAME_NN1 0_MC 	is_VBZ going_VVGK to_TO continue_VVI 	study_NN1 
+2657_tagged.txt	country_NN1 until_CS he_PPHS1 graduate_VV0 ._. He_PPHS1 	is_VBZ going_VVGK to_TO continue_VVI 	the_AT 
+2662_tagged.txt	goes_VVZ to_II the_AT trip_NN1 he_PPHS1 	is_VBZ going_VVGK to_TO make_VVI 	a_AT1 
+2685_tagged.txt	thesis_NN1 sentence_NN1 because_CS this_DD1 sentence_NN1 	is_VBZ going_VVGK to_TO talk_VVI 	about_II 
+2773_tagged.txt	NN1 left_VVD me_PPIO1 out_RP ._. 5_MC ._. He_PPHS1 	is_VBZ going_VVGK to_TO make_VVI 	up_RP 
+2773_tagged.txt	VVD out_RP a_AT1 book_NN1 ._. 9_MC ._. He_PPHS1 	is_VBZ going_VVGK to_TO turn_VVI 	in_II 
+3020_tagged.txt	which_DDQ major_VV0% he_PPHS1 or_CC she_PPHS1 	is_VBZ going_VVGK to_TO study_VVI 	after_II 
+3046_tagged.txt	JJ NAME_NN1 1_MC1 has_VHZ one_PN1 ._. He_PPHS1 	is_VBZ going_VVGK to_TO drive_VVI ._. 	ANON_JJ 
+3050_tagged.txt	t_XX worry_VVI about_II it_PPH1 !_! He_PPHS1 	is_VBZ going_VVGK to_TO drive_VVI 	your_APPGE 
+3100_tagged.txt	said_VVD the_AT population_NN1 of_IO China_NP1 	is_VBZ going_VVGK to_TO surpass_VVI 	more_DAR 
+3319_tagged.txt	that_CST the_AT population_NN1 of_IO China_NP1 	is_VBZ going_VVGK to_TO surpass_VVI 	more_DAR 
+3421_tagged.txt	which_DDQ major_VV0% he_PPHS1 or_CC she_PPHS1 	is_VBZ going_VVGK to_TO study_VVI 	after_II 
+3631_tagged.txt	which_DDQ major_VV0% he_PPHS1 or_CC she_PPHS1 	is_VBZ going_VVGK to_TO study_VVI 	after_II 
+5137_tagged.txt	conclusion_NN1 the_AT women_NN2 's_GE role_NN1 	is_VBZ going_VVGK to_TO increase_VVI 	in_II 
+5558_tagged.txt	your_APPGE day_NNT1 because_CS the_AT schedule_NN1 	is_VBZ going_VVGK to_TO help_VVI 	you_PPY 
+5663_tagged.txt	will_VM finish_VVI school_NN1 ?_? my_APPGE roommates_NN2 	is_VBZ going_VVGK to_TO take_VVI 	a_AT1 
+5664_tagged.txt	i_MC1 finish_NN1 school_NN1 ?_? my_APPGE roommates_NN2 	is_VBZ going_VVGK to_TO take_VVI 	a_AT1 
+5665_tagged.txt	will_VM finish_VVI school_NN1 ?_? my_APPGE roommates_NN2 	is_VBZ going_VVGK to_TO take_VVI 	a_AT1 
+5666_tagged.txt	I_PPIS1 finish_VV0 school_NN1 ?_? my_APPGE roommates_NN2 	is_VBZ going_VVGK to_TO take_VVI 	a_AT1 
+5669_tagged.txt	will_VM finish_VVI school_NN1 ?_? My_APPGE roommate_NN1 	is_VBZ going_VVGK to_TO take_VVI 	a_AT1 
+5670_tagged.txt	I_PPIS1 finish_VV0 school_NN1 ?_? My_APPGE roommate_NN1 	is_VBZ going_VVGK to_TO take_VVI 	a_AT1 
+5672_tagged.txt	will_VM finish_VVI school_NN1 ?_? My_APPGE roommate_NN1 	is_VBZ going_VVGK to_TO take_VVI 	a_AT1 
+5676_tagged.txt	will_VM finish_VVI school_NN1 ?_? My_APPGE roommate_NN1 	is_VBZ going_VVGK to_TO take_VVI 	a_AT1 
+5677_tagged.txt	I_PPIS1 finish_VV0 school_NN1 ?_? My_APPGE roommate_NN1 	is_VBZ going_VVGK to_TO take_VVI 	a_AT1 
+5680_tagged.txt	Benny_NN1 	is_VBZ going_VVGK to_TO continue_VVI 	studying_VVG 
+5680_tagged.txt	he_PPHS1 finishes_VVZ this_DD1 class_NN1 he_PPHS1 	is_VBZ going_VVGK to_TO drink_VVI 	his_APPGE 
+5683_tagged.txt	still_RR studies_NN2 in_II ELI_NP1 he_PPHS1 	is_VBZ going_VVGK to_TO decide_VVI 	which_DDQ 
+5690_tagged.txt	when_CS you_PPY read_VV0 this_DD1 ._. He_PPHS1 	is_VBZ going_VVGK to_TO go_VVI 	to_II 
+5690_tagged.txt	he_PPHS1 arrives_VVZ at_II CCAC_NP1 ._. He_PPHS1 	is_VBZ going_VVGK to_TO study_VVI 	about_II 
+5690_tagged.txt	When_CS he_PPHS1 finishes_VVZ ELI_NN1 he_PPHS1 	is_VBZ going_VVGK to_TO take_VVI 	a_AT1 
+5690_tagged.txt	until_CS he_PPHS1 graduates_NN2 university_NN1 ._. He_PPHS1 	is_VBZ going_VVGK to_TO get_VVI 	a_AT1 
+5693_tagged.txt	will_VM finish_VVI school_NN1 ?_? My_APPGE roommate_NN1 	is_VBZ going_VVGK to_TO take_VVI 	a_AT1 
+5694_tagged.txt	I_PPIS1 finish_VV0 school_NN1 ?_? My_APPGE roommate_NN1 	is_VBZ going_VVGK to_TO take_VVI 	a_AT1 
+5700_tagged.txt	ELI_JJ course_NN1 is_VBZ finish_NN1 ._. She_PPHS1 	is_VBZ going_VVGK to_TO upgrade_VVI 	her_APPGE 
+5700_tagged.txt	people_NN ._. For_IF these_DD2 reason_VV0@ she_PPHS1 	is_VBZ going_VVGK to_TO find_VVI 	a_AT1 
+5700_tagged.txt	is_VBZ a_AT1 US_NP1 company_NN1 ._. She_PPHS1 	is_VBZ going_VVGK to_TO make_VVI 	many_DA2 
+5701_tagged.txt	will_VM finish_VVI school_NN1 ?_? My_APPGE roommate_NN1 	is_VBZ going_VVGK to_TO take_VVI 	a_AT1 
+5702_tagged.txt	I_PPIS1 finish_VV0 school_NN1 ?_? My_APPGE roommate_NN1 	is_VBZ going_VVGK to_TO take_VVI 	a_AT1 
+5703_tagged.txt	your_APPGE day_NNT1 because_CS the_AT schedule_NN1 	is_VBZ going_VVGK to_TO help_VVI 	you_PPY 
+5707_tagged.txt	will_VM finish_VVI school_NN1 ?_? My_APPGE roommate_NN1 	is_VBZ going_VVGK to_TO take_VVI 	a_AT1 
+5708_tagged.txt	I_PPIS1 finish_VV0 school_NN1 ?_? My_APPGE roommate_NN1 	is_VBZ going_VVGK to_TO take_VVI 	a_AT1 
+5725_tagged.txt	will_VM finish_VVI school_NN1 ?_? My_APPGE roommate_NN1 	is_VBZ going_VVGK to_TO take_VVI 	a_AT1 
+5726_tagged.txt	I_PPIS1 finish_VV0 school_NN1 ?_? My_APPGE roommate_NN1 	is_VBZ going_VVGK to_TO take_VVI 	a_AT1 
+5737_tagged.txt	will_VM finish_VVI school_NN1 ?_? My_APPGE roommate_NN1 	is_VBZ going_VVGK to_TO take_VVI 	a_AT1 
+5738_tagged.txt	I_PPIS1 finish_VV0 school_NN1 ?_? My_APPGE roommate_NN1 	is_VBZ going_VVGK to_TO take_VVI 	a_AT1 
+5824_tagged.txt	he_PPHS1 	is_VBZ going_VVGK to_TO take_VVI 	a_AT1 
+5834_tagged.txt	He_PPHS1 	is_VBZ going_VVGK to_TO study_VVI 	for_IF 
+6072_tagged.txt	questions_NN2 about_II his_APPGE future_NN1 ._. He_PPHS1 	is_VBZ going_VVGK to_TO visit_VVI 	his_APPGE 
+6072_tagged.txt	he_PPHS1 leaves_VVZ United_NP1 States_NP1 he_PPHS1 	is_VBZ going_VVGK to_TO overcome_VVI 	some_DD 
+6807_tagged.txt	adverb_NN1 )_) suggesting_VVG that_CST something_PN1 bad_JJ 	is_VBZ going_VVGK to_TO happen_VVI 	in_II 
+7766_tagged.txt	about_II a_AT1 draft_NN1 however_RRQV he_PPHS1 	is_VBZ going_VVGK to_TO get_VVI 	his_APPGE 
+8084_tagged.txt	TV_NN1 a_RR21@ lot_RR22 because_CS that_DD1 	is_VBZ going_VVGK to_TO affect_VVI 	their_APPGE 
+8312_tagged.txt	our_APPGE country_NN1 ._. And_CC now_RT Japan_NP1 	is_VBZ going_VVGK to_TO lose_VVI 	own_DA 
+8362_tagged.txt	popularity_NN1 of_IO fast_JJ food_NN1 restaurants_NN2 	is_VBZ going_VVGK to_TO increase_VVI ._. 	However_RRQV 
+8407_tagged.txt	our_APPGE country_NN1 ._. And_CC now_RT Japan_NP1 	is_VBZ going_VVGK to_TO lose_VVI 	own_DA 
+8540_tagged.txt	CST Myung_NP1 Bak_NP1 ANON_JJ NAME_NN1 0_MC 	is_VBZ going_VVGK to_TO give_VVI 	a_AT1 
+8966_tagged.txt	VD0 n't_XX know_VVI what_DDQ life_NN1 	is_VBZ going_VVGK to_TO give_VVI 	you_PPY 
+9309_tagged.txt	predicted_VVD that_CST The_AT Korean_JJ landfill_NN1 	is_VBZ going_VVGK to_TO disappear_VVI 	after_II 30_
+9309_tagged.txt	First_MD of_IO all_DB the_AT government_NN1 	is_VBZ going_VVGK to_TO make_VVI 	new_JJ 
+9309_tagged.txt	new_JJ landfill_NN1 ._. Second_NNT1 The_AT government_NN1 	is_VBZ going_VVGK to_TO export_VVI 	trash_NN1 
+9479_tagged.txt	VD0 n't_XX know_VVI what_DDQ life_NN1 	is_VBZ going_VVGK to_TO give_VVI 	you_PPY 
+10509_tagged.txt	tenure_NN1 is_VBZ almost_RR expired_VVN he_PPHS1 	is_VBZ going_VVGK to_TO retire_VVI 	only_JJ 
+10570_tagged.txt	be_VBI very_RG empty_JJ because_CS everybody_PN1 	is_VBZ going_VVGK to_TO travel_VVI ._. 	Today_RT 
+10687_tagged.txt	his_APPGE firm_JJ political_JJ creed_NN1 ._. One_PN1 	is_VBZ going_VVGK to_TO retire_VVI 	from_II 
+10687_tagged.txt	in_II two_MC weeks_NNT2 and_CC another_DD1 	is_VBZ going_VVGK to_TO keep_VVI 	his_APPGE 
+12233_tagged.txt	wait_VVI for_IF my_APPGE uncle_NN1 ._. He_PPHS1 	is_VBZ going_VVGK to_TO come_VVI 	to_II 
+12406_tagged.txt	that_CST anybody_PN1 can_VM predict_VVI what_DDQ 	is_VBZ going_VVGK to_TO happen_VVI 	can_VM 
+12525_tagged.txt	studying_VVG in_II Pittsburgh_NP1 but_CCB he_PPHS1 	is_VBZ going_VVGK to_TO go_VVI 	back_RP 
+12566_tagged.txt	or_CC later_RRR the_AT adopted_JJ@ person_NN1 	is_VBZ going_VVGK to_TO ask_VVI 	about_II 
+13110_tagged.txt	began_VVD to_TO go_VVI out_RP ._. She_PPHS1 	is_VBZ going_VVGK to_TO live_VVI 	with_IW 
+13324_tagged.txt	Angles_NP1 Boston_NP1 ._. My_APPGE friend_NN1 Sophie_NP1 	is_VBZ going_VVGK to_TO join_VVI 	me_PPIO1 ._. 
+13830_tagged.txt	and_CC listen_VVI to_II what_DDQ she_PPHS1 	is_VBZ going_VVGK to_TO say_VVI ._. 	It_PPH1 '
+13848_tagged.txt	they_PPHS2 will_VM make_VVI anything_PN1 that_CST 	is_VBZ going_VVGK to_TO annoy_VVI 	me_PPIO1 
+14680_tagged.txt	other_PPX222 for_REX21 example_REX22 if_CS someone_PN1 	is_VBZ going_VVGK to_TO get_VVI 	married_JJ 
+14870_tagged.txt	after_II finishing_VVG his_APPGE study_NN1 ._. He_PPHS1 	is_VBZ going_VVGK to_TO go_VVI 	back_RP 
+14870_tagged.txt	not_XX forget_VVI us_PPIO2 because_CS he_PPHS1 	is_VBZ going_VVGK to_TO visit_VVI 	Pittsburgh_NP1 
+14870_tagged.txt	NN1 is_VBZ boy_NN1 ANON_JJ NAME_NN1 0_MC 	is_VBZ going_VVGK to_TO name_VVI 	him_PPHO1 
+14872_tagged.txt	prepare_VVI himself_PPX1 for_IF TOEFL_NN1 ._. He_PPHS1 	is_VBZ going_VVGK to_TO take_VVI 	a_AT1 
+14872_tagged.txt	APPGE first_MD baby_NN1 ANON_JJ NAME_NN1 0_MC 	is_VBZ going_VVGK to_TO visit_VVI 	me_PPIO1 ._. 
+14888_tagged.txt	Shima_NN1 	is_VBZ going_VVGK to_TO go_VVI 	Carnegie_NP1 
+14888_tagged.txt	Mellon_NP1 University_NN1 next_MD year_NNT1 ._. She_PPHS1 	is_VBZ going_VVGK to_TO continue_VVI 	studying_VVG 
+14898_tagged.txt	she_PPHS1 finishes_VVZ the_AT class_NN1 ._. She_PPHS1 	is_VBZ going_VVGK to_TO continue_VVI 	studying_VVG 
+14898_tagged.txt	in_II university_NN1 of_IO Pittsburgh_NP1 she_PPHS1 	is_VBZ going_VVGK to_TO qualify_VVI 	as_II 
+14898_tagged.txt	she_PPHS1 finishes_VVZ this_DD1 semester_NN1 she_PPHS1 	is_VBZ going_VVGK to_TO continue_VVI 	learning_VVG 
+14899_tagged.txt	she_PPHS1 lives_VVZ the_AT Pittsburgh_NP1 she_PPHS1 	is_VBZ going_VVGK to_TO exercise_VVI ._. 	She_PPHS1 
+14900_tagged.txt	In_II his_APPGE future_JJ plans_NN2 ._. He_PPHS1 	is_VBZ going_VVGK to_TO study_VVI 	in_II 
+15187_tagged.txt	than_CSN first_MD year_NNT1 ._. The_AT time_NNT1 	is_VBZ going_VVGK to_TO decrease_VVI 	to_II 34_
+15319_tagged.txt	to_TO recover_VVI completely_RR ._. And_CC circumstance_NN1 	is_VBZ going_VVGK to_TO go_VVI 	bad_JJ 
+15674_tagged.txt	is_VBZ humid_JJ ._. I_PPIS1 think_VV0 it_PPH1 	is_VBZ going_VVGK to_TO rain_VVI ._. 	The_AT 
+15697_tagged.txt	white_JJ and_CC black_JJ clouds_NN2 ._. It_PPH1 	is_VBZ going_VVGK to_TO rain_VVI ._. 	The_AT 
+15906_tagged.txt	the_AT baby_NN1 because_CS the_AT clerk_NN1 	is_VBZ going_VVGK to_TO help_VVI 	them_PPHO2 
+16221_tagged.txt	for_IF continuing_VVG his_APPGE study_NN1 ._. He_PPHS1 	is_VBZ going_VVGK to_TO get_VVI 	a_AT1 
+17018_tagged.txt	raise_VVI their_APPGE incomes_NN2 ._. Otherwise_RR nothing_PN1 	is_VBZ going_VVGK to_TO change_VVI ._. 	The_AT 
+17042_tagged.txt	means_NN culture_NN1 shock_NN1 ._. Anyone_PN1 who_PNQS 	is_VBZ going_VVGK to_TO live_VVI 	in_II 
+17338_tagged.txt	reasons_NN2 from_II the_AT above_JJ@ list_NN1 	is_VBZ going_VVGK to_TO jump_VVI 	out_II21 
+17338_tagged.txt	is_VBZ happy_JJ because_CS her_APPGE girlfriend_NN1 	is_VBZ going_VVGK to_TO marry_VVI 	her_PPHO1 ._. 
+17511_tagged.txt	Oakland_NP1 	is_VBZ going_VVGK to_TO build_VVI 	two_MC 
+17925_tagged.txt	sit_VVI and_CC pick_VVI someone_PN1 that_CST 	is_VBZ going_VVGK to_TO become_VVI 	your_APPGE 
+17930_tagged.txt	people_NN and_CC all_DB of_IO them_PPHO2 	is_VBZ going_VVGK to_TO bring_VVI 	their_APPGE 
+18364_tagged.txt	ask_VVI such_DA questions_NN2 like_II What_DDQ 	is_VBZ going_VVGK to_TO happen_VVI 	if_CS 
+18572_tagged.txt	I_PPIS1 finish_VV0 school_NN1 ._. My_APPGE roommate_NN1 	is_VBZ going_VVGK to_TO take_VVI 	a_AT1 
+18573_tagged.txt	I_PPIS1 finish_VV0 school_NN1 ?_? My_APPGE roommate_NN1 	is_VBZ going_VVGK to_TO take_VVI 	a_AT1 
+18574_tagged.txt	I_PPIS1 finish_VV0 school_NN1 ?_? My_APPGE roommate_NN1 	is_VBZ going_VVGK to_TO take_VVI 	a_AT1 
+18575_tagged.txt	I_PPIS1 finish_VV0 school_NN1 ?_? My_APPGE roommate_NN1 	is_VBZ going_VVGK to_TO take_VVI 	a_AT1 
+18576_tagged.txt	I_PPIS1 finish_VV0 school_NN1 ?_? My_APPGE roommate_NN1 	is_VBZ going_VVGK to_TO take_VVI 	a_AT1 
+18578_tagged.txt	I_PPIS1 finish_VV0 school_NN1 my_APPGE roommate_NN1 	is_VBZ going_VVGK to_TO take_VVI 	a_AT1 
+18719_tagged.txt	Fiat_NP1 	is_VBZ going_VVGK to_TO help_VVI 	Chrysler_NP1 
+18733_tagged.txt	Fiat_NP1 	is_VBZ going_VVGK to_TO make_VVI 	co company_
+18738_tagged.txt	Fiat_NP1 	is_VBZ going_VVGK to_TO give_VVI 	their_APPGE 
+18759_tagged.txt	Fiat_NP1 	is_VBZ going_VVGK to_TO get_VVI 	into_II 
+18823_tagged.txt	Fiat_NP1 	is_VBZ going_VVGK to_TO help_VVI 	Chrysler_NP1 
+18930_tagged.txt	in_II my_APPGE body_NN1 that_CST something_PN1 	is_VBZ going_VVGK to_TO happen_VVI ._. 	
+19074_tagged.txt	do_VDI negative_JJ actions_NN2 ._. The_AT problem_NN1 	is_VBZ going_VVGK to_TO last_VVI 	and_CC 
+19578_tagged.txt	PPHO2 ._. The_AT player_NN1 with_IW number_NN1 22_MC 	is_VBZ going_VVGK to_TO fight_VVI 	though_CS 
+19679_tagged.txt	Therefore_RR total_JJ number_NN1 of_IO student_NN1 	is_VBZ going_VVGK to_TO increase_VVI ._. 	
+19798_tagged.txt	and_CC how_RGQ@ much_DA1 to_TO eat_VVI 	is_VBZ going_VVGK to_TO help_VVI 	for_IF 
+20572_tagged.txt	that_CST means_VVZ the_AT government_NN1 revenue_NN1 	is_VBZ going_VVGK to_TO increase_VVI ._. 	It_PPH1 
+20617_tagged.txt	information_NN1 ._. In_RR21 addition_RR22 your_APPGE interest_NN1 	is_VBZ going_VVGK to_TO increase_VVI ._. 	Some_DD 
+20886_tagged.txt	information_NN1 ._. In_RR21 addition_RR22 your_APPGE interest_NN1 	is_VBZ going_VVGK to_TO increase_VVI ._. 	Some_DD 
+21564_tagged.txt	about_II health_NN1 care_VV0 their_APPGE staff_NN 	is_VBZ going_VVGK to_TO face_VVI 	health_NN1 
+21589_tagged.txt	information_NN1 ._. In_RR21 addition_RR22 your_APPGE interest_NN1 	is_VBZ going_VVGK to_TO increase_VVI ._. 	Almost_RR 
+21663_tagged.txt	an_AT1 uneasy_JJ feeling_NN1 that_CST something_PN1 	is_VBZ going_VVGK to_TO happen_VVI ._. 	Then_RT 
+22110_tagged.txt	how_RGQ@ long_RR the_AT flu_NN1 season_NNT1 	is_VBZ going_VVGK to_TO last_VVI ._. 	
+22166_tagged.txt	scary_JJ atmosphere_NN1 as_CS21 if_CS22 ghost_NN1 	is_VBZ going_VVGK to_TO show_VVI 	up_RP 
+22306_tagged.txt	education_NN1 ._. For_REX21 example_REX22 everyone_PN1 who_PNQS 	is_VBZ going_VVGK to_TO study_VVI 	at_II 
+22381_tagged.txt	be_VBI sure_JJ that_CST the_AT result_NN1 	is_VBZ going_VVGK to_TO satisfy_VVI 	us_PPIO2 ._. 
+22411_tagged.txt	education_NN1 ._. For_REX21 example_REX22 everyone_PN1 who_PNQS 	is_VBZ going_VVGK to_TO study_VVI 	at_II 
+23055_tagged.txt	is_VBZ impossible_JJ to_TO know_VVI what_DDQ 	is_VBZ going_VVGK to_TO happen_VVI 	on_II 
+23204_tagged.txt	VVN ANON_JJ NAME_NN1 0_MC and_CC he_PPHS1 	is_VBZ going_VVGK to_TO graduate_VVI 	in_II 
+23205_tagged.txt	eighteen_MC years_NNT2 old_JJ young_JJ man_NN1 	is_VBZ going_VVGK to_TO graduate_VVI 	from_II 
+23552_tagged.txt	is_VBZ studying_VVG English_NN1 because_CS she_PPHS1 	is_VBZ going_VVGK to_TO marry_VVI 	in_II 
+23816_tagged.txt	the_AT blizzard_NN1 and_CC when_CS it_PPH1 	is_VBZ going_VVGK to_TO stop_VVI ._. 	It_PPH1 
+24045_tagged.txt	the_AT air_NN1 pollution_NN1 next_MD generation_NN1 	is_VBZ going_VVGK to_TO encounter_VVI 	several_DA2 
+24106_tagged.txt	use_VVI it_PPH1 he_PPHS1 or_CC she_PPHS1 	is_VBZ going_VVGK to_TO lose_VVI 	it_PPH1 
+24238_tagged.txt	friend_NN1 to_TO describe_VVI me_PPIO1 he_PPHS1 	is_VBZ going_VVGK to_TO say_VVI 	something_PN1 
+24422_tagged.txt	help_VV0 them_PPHO2 and_CC this_DD1 feature_NN1 	is_VBZ going_VVGK to_TO filter_VVI 	your_APPGE 
+25557_tagged.txt	Who_PNQS 	is_VBZ going_VVGK to_TO protect_VVI 	our_APPGE 
+25557_tagged.txt	t_XX serve_VVI this_DD1 duty_NN1 who_PNQS 	is_VBZ going_VVGK to_TO protect_VVI 	us_PPIO2 
+25758_tagged.txt	Which_DDQ one_MC1 of_IO these_DD2 aspects_NN2 	is_VBZ going_VVGK to_TO enhance_VVI 	the_AT 
+26030_tagged.txt	t_XX do_VDI well_RR and_CC he_PPHS1 	is_VBZ going_VVGK to_TO fail_VVI ._. 	TOEFL_NP1 
+26214_tagged.txt	t_XX do_VDI well_RR and_CC he_PPHS1 	is_VBZ going_VVGK to_TO fail_VVI ._. 	Many_DA2 
+26450_tagged.txt	I_PPIS1 heard_VVD that_CST my_APPGE mother_NN1 	is_VBZ going_VVGK to_TO abort_VVI 	me_PPIO1 
+26672_tagged.txt	But_CCB it_PPH1 looks_VVZ like_CS he_PPHS1 	is_VBZ going_VVGK to_TO face_VVI 	some_DD 
+27202_tagged.txt	Rava_NP1 's_GE book_NN1 that_CST Elaine_NP1 	is_VBZ going_VVGK to_TO edit_VVI ._. 	For_IF 
+27275_tagged.txt	should_VM know_VVI that_DD1 new_JJ person_NN1 	is_VBZ going_VVGK to_TO change_VVI 	their_APPGE 
+27412_tagged.txt	it_PPH1 is_VBZ ._. Unfortunately_RR the_AT Maldives_NP1 	is_VBZ going_VVGK to_TO sink_VVI 	into_II 
+27892_tagged.txt	the_AT spring_NN1 and_CC if_CS it_PPH1 	is_VBZ going_VVGK to_TO rain_VVI 	it_PPH1 
+27901_tagged.txt	My_APPGE friend_NN1 	is_VBZ going_VVGK to_TO visit_VVI 	Cozumel_NP1 ._. 
+27967_tagged.txt	disscuss_VVI this_DD1 problem_NN1 my_APPGE essay_NN1 	is_VBZ going_VVGK to_TO expound_VVI 	three_MC 
+27972_tagged.txt	and_CC Ross_NP1 know_VV0 that_DD1 Chandeler_NN1 	is_VBZ going_VVGK to_TO propose_VVI 	to_II 
+28056_tagged.txt	individual_NN1 ._. They_PPHS2 say_VV0 that_CST whatever_DDQV 	is_VBZ going_VVGK to_TO benefit_VVI 	their_APPGE 
+28093_tagged.txt	disscuss_VVI this_DD1 problem_NN1 my_APPGE essay_NN1 	is_VBZ going_VVGK to_TO expound_VVI 	three_MC 
+28702_tagged.txt	his_APPGE major_JJ ._. He_PPHS1 said_VVD he_PPHS1 	is_VBZ going_VVGK to_TO go_VVI 	to_II 
+29723_tagged.txt	NN2 '_GE sense_NN1 knowing_VVG when_RRQ someone_PN1 	is_VBZ going_VVGK to_TO die_VVI ._. 	It_PPH1 '
+29723_tagged.txt	t_XX know_VVI who_PNQS but_CCB someone_PN1 	is_VBZ going_VVGK to_TO die_VVI ._. 	For_IF 
+29790_tagged.txt	exercices_NN2 by_II dieting_VVG or_CC running_NN1 	is_VBZ going_VVGK to_TO help_VVI 	you_PPY 
+32097_tagged.txt	To_TO think_VVI about_II something_PN1 that_CST 	is_VBZ going_VVGK to_TO happen_VVI 	especially_RR 
+32106_tagged.txt	feeling_VVG excited_JJ about_RG sth_NNU that_DD1 	is_VBZ going_VVGK to_TO happend_VVI 	
+35030_tagged.txt	a_AT1 child_NN1 that_CST every_AT1 day_NNT1 	is_VBZ going_VVGK to_TO remind_VVI 	you_PPY 
+35030_tagged.txt	result_NN1 of_IO this_DD1 the_AT baby_NN1 	is_VBZ going_VVGK to_TO suffer_VVI 	because_CS 
+35030_tagged.txt	going_VVGK to_TO suffer_VVI because_CS he_PPHS1 	is_VBZ going_VVGK to_TO live_VVI 	with_IW 
+35890_tagged.txt	other_JJ uses_NN2 and_CC the_AT company_NN1 	is_VBZ going_VVGK to_TO start_VVI 	selling_VVG 
+35893_tagged.txt	MC consecutive_JJ major_JJ finals_NN2 ._. Now_RT wimbledon 	is_VBZ going_VVGK to_TO start_VVI ._. 	Before_CS 
+36397_tagged.txt	sanitations_NN2 for_IF safe_JJ drinking_NN1 water_NN1 	is_VBZ going_VVGK to_TO take_VVI 	too_RG 
+36671_tagged.txt	a_AT1 daily_JJ basis_NN1 otherwise_RR it_PPH1 	is_VBZ going_VVGK to_TO affect_VVI 	his_APPGE 
+103_tagged.txt	what_DDQ 's_VBZ up_RP or_CC how_RRQ '	s_VBZ going_VVGK to_TO replace_VVI 	how_RRQ 
+2613_tagged.txt	NN1 named_VVD ANON_JJ NAME_NN1 0_MC ._. He_PPHS1 '	s_VBZ going_VVGK to_TO contunue_VVI 	studying_VVG 
+2640_tagged.txt	He_PPHS1 '	s_VBZ going_VVGK to_TO continue_VVI 	to_TO 
+2654_tagged.txt	look_VVI about_II his_APPGE wife_NN1 ._. He_PPHS1 '	s_VBZ going_VVGK to_TO buy_VVI 	a_AT1 
+2655_tagged.txt	right_NN1 now_RT in_II America_NP1 ._. He_PPHS1 '	s_VBZ going_VVGK to_TO apply_VVI 	for_IF 
+3249_tagged.txt	the_AT water_NN1 cleaned_VVD ._. Otherwise_RR it_PPH1 '	s_VBZ going_VVGK to_TO harm_VVI 	people_NN 
+6419_tagged.txt	After_CS ELI_JJ class_NN1 finishes_VVZ he_PPHS1 '	s_VBZ going_VVGK to_TO go_VVI 	to_II 
+6419_tagged.txt	to_TO enter_VVI MBA_NN1 ._. Then_RT he_PPHS1 '	s_VBZ going_VVGK to_TO study_VVI 	about_II 
+6419_tagged.txt	After_CS he_PPHS1 graduate_VV0 school_NN1 he_PPHS1 '	s_VBZ going_VVGK to_TO come_VVI 	back_RP 
+6419_tagged.txt	a_AT1 job_NN1 in_II Korea_NP1 ._. He_PPHS1 '	s_VBZ going_VVGK to_TO get_VVI 	a_AT1 
+8441_tagged.txt	have_VHI to_TO worry_VVI about_II what_DDQ '	s_VBZ going_VVGK to_TO happen_VVI 	later_RRR 
+8441_tagged.txt	t_XX have_VHI to_TO worry_VVI what_DDQ '	s_VBZ going_VVGK to_TO happen_VVI 	later_RRR ._. 
+8441_tagged.txt	to_TO be_VBI excited_VVN@ about_II what_DDQ '	s_VBZ going_VVGK to_TO happen_VVI 	I_PPIS1 
+13067_tagged.txt	is_VBZ not_XX serious_JJ but_CCB it_PPH1 '	s_VBZ going_VVGK to_TO encroach_VVI 	other_JJ 
+21761_tagged.txt	NN1 is_VBZ ANON_JJ NAME_NN1 0_MC ._. He_PPHS1 '	s_VBZ going_VVGK to_TO study_VVI 	MBA_NN1 
+21761_tagged.txt	VVI ELI_NN1 he_PPHS1 turn_VV0 32_MC ._. He_PPHS1 '	s_VBZ going_VVGK to_TO visit_VVI 	florida_FW 
+21761_tagged.txt	NN1 after_CS he_PPHS1 turns_VVZ 33_MC ._. He_PPHS1 '	s_VBZ going_VVGK to_TO look_VVI 	for_IF 
+29790_tagged.txt	one_PN1 you_PPY like_VV0 better_RRR ._. It_PPH1 '	s_VBZ going_VVGK to_TO allow_VVI 	you_PPY 
+18579_tagged.txt	WILL_VM FINISH_VVI SCHOOL_NN1 ?_? MY_APPGE ROOMMATE_NN1 	IS_VBZ GOING_VVGK TO_TO TAKE_VVI 	A_AT1@ 
+107_tagged.txt	to_II them_PPHO2 next_MD morning_NNT1 they_PPHS2 	are_VBR going_VVGK to_TO say_VVI (_( 	DO_VD0 
+569_tagged.txt	also_RR their_APPGE career_NN1 so_CS@ they_PPHS2 	are_VBR going_VVGK to_TO spend_VVI 	most_DAT 
+569_tagged.txt	the_AT time_NNT1 working_VVG because_CS they_PPHS2 	are_VBR going_VVGK to_TO love_VVI 	it_PPH1 
+569_tagged.txt	be_VBI ?_? And_CC how_RGQ@ much_RR we_PPIS2 	are_VBR going_VVGK to_TO love_VVI 	our_APPGE 
+733_tagged.txt	hate_VVI you_PPY and_CC then_RT they_PPHS2 	are_VBR going_VVGK to_TO get_VVI 	far_RR 
+816_tagged.txt	could_VM get_VVI damage_NN1 mentally_RR ._. They_PPHS2 	are_VBR going_VVGK to_TO deal_VVI 	with_IW 
+892_tagged.txt	By_II the_AT way_NN1 if_CS you_PPY 	are_VBR going_VVGK to_TO buy_VVI 	a_AT1 
+954_tagged.txt	the_AT daily_JJ life_NN1 but_CCB they_PPHS2 	are_VBR going_VVGK to_TO notice_VVI 	this_DD1 
+989_tagged.txt	late_JJ for_IF your_APPGE interview_NN1 ._. We_PPIS2 	are_VBR going_VVGK to_TO interview_VVI 	the_AT 
+1076_tagged.txt	and_CC the_AT day_NNT1 that_CST you_PPY 	are_VBR going_VVGK to_TO stop_VVI ._. 	Then_RT 
+1128_tagged.txt	could_VM be_VBI damaged_VVN mentally_RR ._. They_PPHS2 	are_VBR going_VVGK to_TO deal_VVI 	with_IW 
+1129_tagged.txt	VVD 7._MC inherit_VV0 Sentence_NN1 unless_CS you_PPY 	are_VBR going_VVGK to_TO inherit_VVI 	a_AT1 
+1251_tagged.txt	to_TO make_VVI sure_JJ that_CST we_PPIS2 	are_VBR going_VVGK to_TO rise_VVI 	great_JJ 
+1358_tagged.txt	me_PPIO1 a_AT1 lot_NN1 of_IO things_NN2 	are_VBR going_VVGK to_TO change_VVI ._. 	If_CS 
+1372_tagged.txt	have_VHI many_DA2 choices_NN2 what_DDQ they_PPHS2 	are_VBR going_VVGK to_TO eat_VVI 	for_IF 
+1446_tagged.txt	bankruptcy_NN1 ._. In_II this_DD1 paper_NN1 we_PPIS2 	are_VBR going_VVGK to_TO give_VVI 	them_PPHO2 
+1446_tagged.txt	should_VM think_VVI about_II how_RRQ they_PPHS2 	are_VBR going_VVGK to_TO pay_VVI 	for_IF 
+1480_tagged.txt	bring_VV0 their_APPGE lunch_NN1 boxes_NN2 and_CC 	are_VBR going_VVGK to_TO heat_VVI 	their_APPGE 
+1654_tagged.txt	We_PPIS2 	are_VBR going_VVGK to_TO buy_VVI 	some_DD 
+1654_tagged.txt	equipments_NN2 are_VBR too_RG old_JJ ._. We_PPIS2 	are_VBR going_VVGK to_TO make_VVI 	more_DAR 
+1681_tagged.txt	We_PPIS2 	are_VBR going_VVGK to_TO buy_VVI 	new_JJ 
+1681_tagged.txt	desks_NN2 are_VBR too_RG small_JJ ._. We_PPIS2 	are_VBR going_VVGK to_TO change_VVI 	blackboards_NN2 ._. 
+1758_tagged.txt	at_RR21 least_RR22 twice_RR weekly_JJ they_PPHS2 	are_VBR going_VVGK to_TO see_VVI 	the_AT 
+1796_tagged.txt	We_PPIS2 	are_VBR going_VVGK to_TO buy_VVI 	new_JJ 
+1796_tagged.txt	chairs_NN2 are_VBR too_RG big_JJ ._. We_PPIS2 	are_VBR going_VVGK to_TO buy_VVI 	new_JJ 
+1796_tagged.txt	and_CC doors_NN2 ._. After_CS that_CST we_PPIS2 	are_VBR going_VVGK to_TO paint_VVI 	the_AT 
+1796_tagged.txt	cloers_NN2 are_VBR white_JJ ._. Next_MD We_PPIS2 	are_VBR going_VVGK to_TO build_VVI 	tent_NN1 ._. 
+1801_tagged.txt	bring_VV0 their_APPGE lunch_NN1 boxes_NN2 and_CC 	are_VBR going_VVGK to_TO heat_VVI 	their_APPGE 
+1823_tagged.txt	at_RR21 least_RR22 twice_RR weekly_JJ they_PPHS2 	are_VBR going_VVGK to_TO see_VVI 	the_AT 
+1844_tagged.txt	to_TO make_VVI sure_JJ that_CST we_PPIS2 	are_VBR going_VVGK to_TO raise_VVI 	great_JJ 
+1896_tagged.txt	family_NN1 and_CC also_RR my_APPGE parents_NN2 	are_VBR going_VVGK to_TO fallow_VVI 	us_PPIO2 
+1903_tagged.txt	you_PPY ._. For_REX21 example_REX22 if_CS you_PPY 	are_VBR going_VVGK to_TO study_VVI 	in_II 
+1969_tagged.txt	other_JJ countries_NN2 in_II Europe_NP1 ._. We_PPIS2 	are_VBR going_VVGK to_TO visit_VVI 	London_NP1 
+2021_tagged.txt	success_NN1 to_TO do_VDI something_PN1 you_PPY 	are_VBR going_VVGK to_TO achieve_VVI ._. 	It_PPH1 '
+2119_tagged.txt	English_NN1 ._. For_REX21 example_REX22 if_CS you_PPY 	are_VBR going_VVGK to_TO study_VVI 	in_II 
+2467_tagged.txt	they_PPHS2 will_VM keep_VVI smoking_NN1 they_PPHS2 	are_VBR going_VVGK to_TO kill_VVI 	their_APPGE 
+2467_tagged.txt	people_NN who_PNQS smokes_VVZ this_DD1 cigarette_NN1 	are_VBR going_VVGK to_TO die_VVI 	as_RG 
+2509_tagged.txt	XX take_VVI anything_PN1 whit you_PPY ._. We_PPIS2 	are_VBR going_VVGK to_TO live_VVI 	in_II 
+2509_tagged.txt	a_AT1 hotel_NN1 in_II space_NN1 ._. We_PPIS2 	are_VBR going_VVGK to_TO eat_VVI 	fruit_NN 
+2512_tagged.txt	you_PPY will_VM never_RR forget_VVI ._. You_PPY 	are_VBR going_VVGK to_TO feel_VVI 	very_RG 
+2512_tagged.txt	in_II the_AT hotel_NN1 and_CC you_PPY 	are_VBR going_VVGK to_TO know_VVI 	every_AT1 
+2512_tagged.txt	the_AT space_NN1 craft_NN1 ._. When_CS you_PPY 	are_VBR going_VVGK to_TO arrive_VVI 	to_II 
+2527_tagged.txt	to_TO select_VVI our_APPGE trip_NN1 you_PPY 	are_VBR going_VVGK to_TO go_VVI 	to_II 
+2527_tagged.txt	new_JJ experience_NN1 ._. Believe_VV0 us_PPIO2 you_PPY 	are_VBR going_VVGK to_TO meet_VVI 	new_JJ 
+2576_tagged.txt	consider_VVI how_RGQ@ much_DA1 money_NN1 you_PPY 	are_VBR going_VVGK to_TO make_VVI 	after_CS 
+2600_tagged.txt	have_VH0 when_CS you_PPY think_VV0 you_PPY 	are_VBR going_VVGK to_TO vomit_VVI 10._	MC thrill(
+2641_tagged.txt	is_VBZ another_DD1 important_JJ decision_NN1 you_PPY 	are_VBR going_VVGK to_TO decide_VVI ._. 	I_PPIS1 
+2808_tagged.txt	related_VVN in_II my_APPGE major_JJ ._. You_PPY 	are_VBR going_VVGK to_TO want_VVI 	to_TO 
+2851_tagged.txt	Do_VD0 you_PPY know_VVI that_CST we_PPIS2 	are_VBR going_VVGK to_TO get_VVI 	together_RL 
+3007_tagged.txt	I_PPIS1 can_VM grantee_NN1 that_CST you_PPY 	are_VBR going_VVGK to_TO experience_VVI 	a_AT1 
+3115_tagged.txt	not_XX clean_JJ it_PPH1 makes_VVZ students_NN2 	are_VBR going_VVGK to_TO leave_VVI ._. 	Lastly_RR 
+3116_tagged.txt	some_DD improvements_NN2 or_CC many_DA2 students_NN2 	are_VBR going_VVGK to_TO leave_VVI ._. 	Excuse_VV0 
+3133_tagged.txt	some_DD improvements_NN2 or_CC many_DA2 students_NN2 	are_VBR going_VVGK to_TO leave_VVI ._. 	First_MD 
+3919_tagged.txt	depends_VVZ on_II the_AT time_NNT1 you_PPY 	are_VBR going_VVGK to_TO live_VVI ._. 	However_RRQV 
+4038_tagged.txt	the_AT new_JJ place_NN1 where_RRQ they_PPHS2 	are_VBR going_VVGK to_TO go_VVI 	for_IF 
+5066_tagged.txt	who_PNQS are_VBR in_II our_APPGE class_NN1 	are_VBR going_VVGK to_TO enter_VVI 	Univ_NN1 ._. 
+5077_tagged.txt	a_AT1 big_JJ ceremony_NN1 ._. Then_RT we_PPIS2 	are_VBR going_VVGK to_TO go_VVI 	to_II 
+5077_tagged.txt	go_VVI to_II restaurant_NN1 and_CC we_PPIS2 	are_VBR going_VVGK to_TO eat_VVI 	Lebanese_JJ 
+5099_tagged.txt	on_II the_AT same_DA day_NNT1 we_PPIS2 	are_VBR going_VVGK to_TO go_VVI 	to_II 
+5099_tagged.txt	In_II the_AT next_MD day_NNT1 we_PPIS2 	are_VBR going_VVGK to_TO go_VVI 	the_AT 
+5133_tagged.txt	NP1 Arabia_NP1 ._. 3_MC In_II Dammam_NP1 you_PPY 	are_VBR going_VVGK to_TO see_VVI 	the_AT 
+5555_tagged.txt	who_PNQS are_VBR in_II our_APPGE class_NN1 	are_VBR going_VVGK to_TO enter_VVI 	University_NN1 
+5745_tagged.txt	we_PPIS2 	are_VBR going_VVGK to_TO eat_VVI 	dinner_NN1 
+5753_tagged.txt	They_PPHS2 	are_VBR going_VVGK to_TO talk_VVI 	together_RL 
+5754_tagged.txt	we_PPIS2 	are_VBR going_VVGK to_TO see_VVI 	a_AT1 
+5819_tagged.txt	They_PPHS2 	are_VBR going_VVGK to_TO discuss_VVI 	these_DD2 
+5830_tagged.txt	we_PPIS2 	are_VBR going_VVGK to_TO go_VVI 	fishing_NN1 
+6400_tagged.txt	we_PPIS2 	are_VBR going_VVGK to_TO go_VVI 	Northpark_NP1 
+6818_tagged.txt	some_DD improvements_NN2 or_CC many_DA2 students_NN2 	are_VBR going_VVGK to_TO leave_VVI ._. 	First_MD 
+6825_tagged.txt	some_DD improvements_NN2 or_CC many_DA2 students_NN2 	are_VBR going_VVGK to_TO leave_VVI ._. 	First_MD 
+7707_tagged.txt	to_TO do_VDI ._. First_MD my_APPGE family_NN1 	are_VBR going_VVGK to_TO come_VVI 	to_II 
+7923_tagged.txt	will_VM be_VBI boring_JJ and_CC they_PPHS2 	are_VBR going_VVGK to_TO hate_VVI 	going_VVG 
+8198_tagged.txt	will_VM be_VBI boring_JJ and_CC they_PPHS2 	are_VBR going_VVGK to_TO hate_VVI 	going_VVG 
+8349_tagged.txt	beside_II those_DD2 ._. So_RR if_CS you_PPY 	are_VBR going_VVGK to_TO use_VVI 	the_AT 
+10430_tagged.txt	these_DD2 tends_VVZ ._. Second_NNT1 if_CS you_PPY 	are_VBR going_VVGK to_TO study_VVI 	in_II 
+10529_tagged.txt	study_NN1 in_II this_DD1 October_NPM1 we_PPIS2 	are_VBR going_VVGK to_TO go_VVI 	back_RP 
+10529_tagged.txt	go_VVI back_RP Taiwan_NP1 ._. My_APPGE kids_NN2 	are_VBR going_VVGK to_TO learn_VVI 	more_RGR 
+10588_tagged.txt	We_PPIS2 	are_VBR going_VVGK to_TO go_VVI 	to_II 
+10588_tagged.txt	about_II our_APPGE vocation_NN1 ._. Firstly_RR we_PPIS2 	are_VBR going_VVGK to_TO fly_VVI 	to_II 
+10588_tagged.txt	Los_NP1 Angeles_NP1 and_CC then_RT we_PPIS2 	are_VBR going_VVGK to_TO rent_VVI 	a_AT1 
+10588_tagged.txt	airport_NN1 ._. We_PPIS2 planned_VVD that_CST we_PPIS2 	are_VBR going_VVGK to_TO stay_VVI 	in_II 
+10588_tagged.txt	one_MC1 week_NNT1 and_CC then_RT we_PPIS2 	are_VBR going_VVGK to_TO go_VVI 	to_II 
+10588_tagged.txt	the_AT California_NP1 ._. After_CS that_CST we_PPIS2 	are_VBR going_VVGK to_TO go_VVI 	the_AT 
+10617_tagged.txt	here_RL in_II Sunday_NP1@ then_RT we_PPIS2 	are_VBR going_VVGK to_TO talk_VVI 	about_II 
+10617_tagged.txt	about_II vacation_NN1 plan_NN1 ._. Maybe_RR we_PPIS2 	are_VBR going_VVGK to_TO leave_VVI 	in_II 
+10978_tagged.txt	people_NN ._. The_AT first_MD categorize_VV0 you_PPY 	are_VBR going_VVGK to_TO see_VVI 	different_JJ 
+10978_tagged.txt	to_TO see_VVI different_JJ countries_NN2 ._. You_PPY 	are_VBR going_VVGK to_TO learn_VVI 	their_APPGE 
+11476_tagged.txt	live_VV0 in_II Manhattan_NP1 and_CC we_PPIS2 	are_VBR going_VVGK to_TO stay_VVI 	with_IW 
+11610_tagged.txt	ideas_NN2 explicitly_RR ._. Otherwise_RR people_NN who_PNQS 	are_VBR going_VVGK to_TO read_VVI 	my_APPGE 
+11844_tagged.txt	VVZ at_II 8_MC P._NNU@ M._NN1 We_PPIS2 	are_VBR going_VVGK to_TO finish_VVI 	it_PPH1 
+12229_tagged.txt	My_APPGE friend_NN1 and_CC I_ZZ1% we_PPIS2 	are_VBR going_VVGK to_TO take_VVI 	short_JJ 
+12229_tagged.txt	in_II this_DD1 spring_NN1 break_NN1 ._. We_PPIS2 	are_VBR going_VVGK to_TO visit_VVI 	some_DD 
+12229_tagged.txt	some_DD other_JJ places_NN2 ._. Then_RT we_PPIS2 	are_VBR going_VVGK to_TO try_VVI 	a_AT1 
+12229_tagged.txt	of_IO these_DD2 sities_NN2 that_CST we_PPIS2 	are_VBR going_VVGK to_TO visit_VVI ._. 	Also_RR 
+12229_tagged.txt	going_VVGK to_TO visit_VVI ._. Also_RR we_PPIS2 	are_VBR going_VVGK to_TO eat_VVI 	some_DD 
+12230_tagged.txt	because_CS my_APPGE teachers_NN2 and_CC classmates_NN2 	are_VBR going_VVGK to_TO plan_VVI 	a_AT1 
+12230_tagged.txt	during_II our_APPGE Spring_NN1 Break_NN1 ._. We_PPIS2 	are_VBR going_VVGK to_TO visit_VVI 	there_RL 3_
+12230_tagged.txt	schedule_NN1 ._. The_AT first_MD day_NNT1 we_PPIS2 	are_VBR going_VVGK to_TO visit_VVI 	the_AT 
+12230_tagged.txt	building_NN1 of_IO world_NN1 ._. Then_RT we_PPIS2 	are_VBR going_VVGK to_TO go_VVI 	to_II 
+12230_tagged.txt	Navy_NN1 Pier_NN1 ._. Second_MD day_NNT1 we_PPIS2 	are_VBR going_VVGK to_TO go_VVI 	shopping_VVG 
+12230_tagged.txt	finish_NN1 breakfast_NN1 ._. And_CC then_RT we_PPIS2 	are_VBR going_VVGK to_TO visit_VVI 	Garfield_NP1 
+12230_tagged.txt	feel_VVI very_RG exciting_JJ ._. After_CS we_PPIS2 	are_VBR going_VVGK to_TO eat_VVI 	dinner_NN1 
+12233_tagged.txt	on_II Friday_NPD1 after_CS that_CST we_PPIS2 	are_VBR going_VVGK to_TO travel_VVI 	to_II 
+12233_tagged.txt	York_NP1 together_RL by_II car_NN1 ._. We_PPIS2 	are_VBR going_VVGK to_TO visit_VVI 	some_DD 
+12406_tagged.txt	change_VVI or_CC predict_VVI how_RRQ they_PPHS2 	are_VBR going_VVGK to_TO change_VVI ._. 	A_AT1 
+12488_tagged.txt	with_IW bright_JJ eyes_NN2 Tomorrow_RT we_PPIS2 	are_VBR going_VVGK to_TO go_VVI 	to_II 
+13044_tagged.txt	day_NNT1 and_CC how_RGQ@ long_RR you_PPY 	are_VBR going_VVGK to_TO spend_VVI ._. 	Second_MD 
+13494_tagged.txt	to_TO change_VVI our_APPGE lifestyle_NN1 we_PPIS2 	are_VBR going_VVGK to_TO need_VVI 	all_DB 
+13526_tagged.txt	Our_APPGE children_NN2 	are_VBR going_VVGK to_TO meet_VVI 	in_II 
+13905_tagged.txt	which_DDQ kinds_NN2 of_IO thing_NN1 they_PPHS2 	are_VBR going_VVGK to_TO buy_VVI 	or_CC 
+14114_tagged.txt	support_NN1 ._. In_RR21 addition_RR22 this_DD1 people_NN 	are_VBR going_VVGK to_TO give_VVI 	other_JJ 
+14118_tagged.txt	taken_VVN into_II account_NN1 when_RRQ people_NN 	are_VBR going_VVGK to_TO rebuild_VVI 	their_APPGE 
+14124_tagged.txt	VM n't_XX tack_VVI so_CS@ they_PPHS2 	are_VBR going_VVGK to_TO live_VVI 	in_II 
+14551_tagged.txt	When_CS I_PPIS1 heard_VVD that_CST we_PPIS2 	are_VBR going_VVGK to_TO eat_VVI 	buffet_NN1 
+14657_tagged.txt	will_VM be_VBI too_RG expensive_JJ they_PPHS2 	are_VBR going_VVGK to_TO cost_VVI 	some_DD 
+14657_tagged.txt	will_VM ask_VVI themselves_PPX2 if_CS they_PPHS2 	are_VBR going_VVGK to_TO see_VVI 	our_APPGE 
+14658_tagged.txt	to_II ET_NP1 's_GE home_NN1@ ._. Humans_NN2 	are_VBR going_VVGK to_TO feel_VVI 	fantastic_JJ 
+14660_tagged.txt	most_DAT of_IO people_NN when_CS they_PPHS2 	are_VBR going_VVGK to_TO study_VVI 	they_PPHS2 
+14666_tagged.txt	s_VBZ it_PPH1 to_II you_PPY ._. You_PPY 	are_VBR going_VVGK to_TO spend_VVI 	in_II 
+14668_tagged.txt	you_PPY 'll_VM enjoy_VVI it_PPH1 ._. You_PPY 	are_VBR going_VVGK to_TO discover_VVI 	the_AT 
+14696_tagged.txt	but_CCB some_DD of_IO the_AT people_NN 	are_VBR going_VVGK to_TO jell_VVI 	because_CS 
+14815_tagged.txt	but_CCB some_DD of_IO the_AT people_NN 	are_VBR going_VVGK to_TO jell_VVI 	because_CS 
+15044_tagged.txt	a_AT1 look_NN1 at_II Pittsburgh_NP1 you_PPY 	are_VBR going_VVGK to_TO see_VVI 	many_DA2 
+15113_tagged.txt	One_MC1 of_IO these_DD2 days_NNT2 we_PPIS2 	are_VBR going_VVGK to_TO spend_VVI 	in_II 
+15113_tagged.txt	need_VVI a_AT1 tent_NN1 because_CS we_PPIS2 	are_VBR going_VVGK to_TO reserve_VVI 	a_AT1 
+15291_tagged.txt	a_AT1 look_NN1 at_II Pittsburgh_NP1 you_PPY 	are_VBR going_VVGK to_TO see_VVI 	many_DA2 
+15438_tagged.txt	living_VVG on_II second_MD flour_NN1 ._. We_PPIS2 	are_VBR going_VVGK to_TO go_VVI 	to_II 
+16171_tagged.txt	to_TO meet_VVI my_APPGE friends_NN2 ._. We_PPIS2 	are_VBR going_VVGK to_TO go_VVI 	to_II 
+16600_tagged.txt	to_II you_PPY anymore_RR and_CC you_PPY 	are_VBR going_VVGK to_TO enjoy_VVI 	your_APPGE 
+16610_tagged.txt	my_APPGE new_JJ boss_NN1 ._. If_CS you_PPY 	are_VBR going_VVGK to_TO start_VVI 	a_AT1 
+16774_tagged.txt	my_APPGE new_JJ supervisor_NN1 ._. If_CS you_PPY 	are_VBR going_VVGK to_TO start_VVI 	a_AT1 
+16928_tagged.txt	he_PPHS1 said_VVD (_( you_PPY realize_VV0 you_PPY 	are_VBR going_VVGK to_TO miss_VVI 	them_PPHO2 
+17387_tagged.txt	yourself_PPX1 ._. because_II21 of_II22 this_DD1 you_PPY 	are_VBR going_VVGK to_TO feel_VVI 	less_RGR 
+17916_tagged.txt	an_AT1 unique_JJ tour_NN1 ._. First_MD they_PPHS2 	are_VBR going_VVGK to_TO take_VVI 	the_AT 
+17930_tagged.txt	meat_NN1 and_CC beverages_NN2 becouse_VV0 we_PPIS2 	are_VBR going_VVGK to_TO cook_VVI 	and_CC 
+18504_tagged.txt	the_AT document_NN1 that_CST proves_VVZ you_PPY 	are_VBR going_VVGK to_TO come_VVI 	as_RG@ 
+18504_tagged.txt	documents_NN2 to_TO prove_VVI where_RRQ you_PPY 	are_VBR going_VVGK to_TO live_VVI 	and_CC 
+18657_tagged.txt	a_AT1 problem_NN1 ._. Helen_NP1 and_CC I_PPIS1 	are_VBR going_VVGK to_TO visit_VVI 	Pittsburgh_NP1 
+18701_tagged.txt	you_PPY are_VBR here_RL ?_? Tom_NP1 We_PPIS2 	are_VBR going_VVGK to_TO see_VVI 	the_AT 
+19332_tagged.txt	have_VH0 to_TO follow_VVI if_CSW@ you_PPY 	are_VBR going_VVGK to_TO live_VVI 	together_RL ._. 
+19654_tagged.txt	can_VM not_XX be_VBI happy_JJ ?_? We_PPIS2 	are_VBR going_VVGK to_TO think_VVI 	about_II 
+19979_tagged.txt	you_PPY never_RR know_VV0 when_RRQ you_PPY 	are_VBR going_VVGK to_TO need_VVI 	it_PPH1 
+20259_tagged.txt	you_PPY never_RR know_VV0 when_RRQ you_PPY 	are_VBR going_VVGK to_TO need_VVI 	it_PPH1 
+20305_tagged.txt	have_VHI a_AT1 big_JJ move_NN1 ._. We_PPIS2 	are_VBR going_VVGK to_TO travel_VVI 	from_II 
+20305_tagged.txt	to_TO meet_VVI Mickey_NP1 Mouse_NP1 ._. We_PPIS2 	are_VBR going_VVGK to_TO stay_VVI 	there_RL 
+20306_tagged.txt	computer_NN1 ._. In_II England_NP1 if_CS you_PPY 	are_VBR going_VVGK to_TO greet_VVI 	a_AT1 
+20306_tagged.txt	countries_NN2 ._. In_II England_NP1 if_CS you_PPY 	are_VBR going_VVGK to_TO telephone_VVI 	a_AT1 
+20499_tagged.txt	are_VBR not_XX white_JJ shark_NN1 )_) ._. Dreams_NN2 	are_VBR going_VVGK to_TO come_VVI 	true_JJ 
+20541_tagged.txt	They_PPHS2 	are_VBR going_VVGK to_TO modify_VVI 	the_AT 
+20550_tagged.txt	VVD that_DD1 netbook_NN1 sales_NN in_II 2009_MC 	are_VBR going_VVGK to_TO exceed_VVI 2008._	MC 6_MC ._. 
+20615_tagged.txt	focus_NN1 on_II the_AT job_NN1 you_PPY 	are_VBR going_VVGK to_TO send_VVI 	your_APPGE 
+20618_tagged.txt	will_VM know_VVI how_RGQ@ much_DA1 you_PPY 	are_VBR going_VVGK to_TO spend_VVI 	on_II 
+20630_tagged.txt	will_VM know_VVI how_RGQ@ much_DA1 you_PPY 	are_VBR going_VVGK to_TO spend_VVI 	on_II 
+20879_tagged.txt	focused_VVN on_II the_AT job_NN1 you_PPY 	are_VBR going_VVGK to_TO send_VVI 	your_APPGE 
+21041_tagged.txt	about_II health_NN1 care_VV0 their_APPGE staffs_NN2 	are_VBR going_VVGK to_TO face_VVI 	a_AT1 
+21515_tagged.txt	sensitive_JJ ._. Very_RG often_RR pairs_NN2 who_PNQS 	are_VBR going_VVGK to_TO get_VVI 	divorced_JJ 
+21548_tagged.txt	focused_VVN on_II the_AT job_NN1 you_PPY 	are_VBR going_VVGK to_TO send_VVI 	your_APPGE 
+21720_tagged.txt	think_VVI about_II everything_PN1 before_CS you_PPY 	are_VBR going_VVGK to_TO marry_VVI 	others_NN2 ._. 
+21800_tagged.txt	think_VVI about_II everything_PN1 before_CS you_PPY 	are_VBR going_VVGK to_TO marry_VVI 	others_NN2 ._. 
+21985_tagged.txt	of_IO Korea_NP1 presented_VVD that_CST they_PPHS2 	are_VBR going_VVGK to_TO make_VVI 	four_MC 
+22864_tagged.txt	to_TO buy_VVI ._. Eventually_RR their_APPGE businesses_NN2 	are_VBR going_VVGK to_TO succeed_VVI ._. 	In_II 
+23054_tagged.txt	happy_JJ to_TO hear_VVI that_CST you_PPY 	are_VBR going_VVGK to_TO take_VVI 	the_AT 
+23899_tagged.txt	of_IO the_AT things_NN2 that_CST you_PPY 	are_VBR going_VVGK to_TO want_VVI 	to_TO 
+23983_tagged.txt	memorized_JJ@ phrase_NN1 for_IF what_DDQ you_PPY 	are_VBR going_VVGK to_TO order_VVI 	simply_RR 
+24567_tagged.txt	him_PPHO1 concerned_JJ about_II others_NN2 judge_VV0 	are_VBR going_VVGK to_TO lose_VVI 	the_AT 
+24876_tagged.txt	consequence_NN1 of_IO that_DD1% the_AT students_NN2 	are_VBR going_VVGK to_TO lose_VVI 	their_APPGE 
+25221_tagged.txt	it_PPH1 and_CC know_VV0 what_DDQ you_PPY 	are_VBR going_VVGK to_TO say_VVI 	in_II31 
+26149_tagged.txt	you_PPY know_VVI when_RRQ next_MD semester_NN1 	are_VBR going_VVGK to_TO start_VVI ?_? 	
+26461_tagged.txt	and_CC as_II a_AT1 result_NN1 we_PPIS2 	are_VBR going_VVGK to_TO lose_VVI 	our_APPGE 
+26461_tagged.txt	and_CC as_II a_AT1 result_NN1 they_PPHS2 	are_VBR going_VVGK to_TO lose_VVI 	their_APPGE 
+26676_tagged.txt	and_CC as_II a_AT1 result_NN1 we_PPIS2 	are_VBR going_VVGK to_TO lose_VVI 	our_APPGE 
+26676_tagged.txt	and_CC as_II a_AT1 result_NN1 they_PPHS2 	are_VBR going_VVGK to_TO lose_VVI 	their_APPGE 
+26717_tagged.txt	which_DDQ are_VBR prohibiting_VVG GM_NP1 crops_NN2 	are_VBR going_VVGK to_TO continue_VVI 	to_TO 
+27412_tagged.txt	such_DA a_AT1 winderful_JJ place_NN1 ._. You_PPY 	are_VBR going_VVGK to_TO love_VVI 	this_DD1 
+27413_tagged.txt	Being_VBG a_AT1 optimistic_JJ person_NN1 you_PPY 	are_VBR going_VVGK to_TO feel_VVI 	how_RRQ 
+27908_tagged.txt	some_DD improvements_NN2 or_CC many_DA2 students_NN2 	are_VBR going_VVGK to_TO leave_VVI ._. 	First_MD 
+27938_tagged.txt	some_DD improvements_NN2 or_CC mant_JJ students_NN2 	are_VBR going_VVGK to_TO leave_VVI ._. 	First_MD 
+27940_tagged.txt	some_DD improvements_NN2 or_CC many_DA2 students_NN2 	are_VBR going_VVGK to_TO leave_VVI ._. 	First_MD 
+27942_tagged.txt	some_DD improvements_NN2 or_CC many_DA2 students_NN2 	are_VBR going_VVGK to_TO leave_VVI ._. 	First_MD 
+27948_tagged.txt	some_DD improvements_NN2 or_CC many_DA2 students_NN2 	are_VBR going_VVGK to_TO leave_VVI ._. 	First_MD 
+27950_tagged.txt	some_DD improvements_NN2 or_CC many_DA2 students_NN2 	are_VBR going_VVGK to_TO leave_VVI ._. 	First_MD 
+27960_tagged.txt	some_DD improvements_NN2 or_CC many_DA2 students_NN2 	are_VBR going_VVGK to_TO leave_VVI ._. 	First_MD 
+27961_tagged.txt	some_DD improvements_NN2 or_CC many_DA2 students_NN2 	are_VBR going_VVGK to_TO leave_VVI ._. 	First_MD 
+27968_tagged.txt	some_DD improvement_NN1 or_CC many_DA2 students_NN2 	are_VBR going_VVGK to_TO leave_VVI ._. 	First_MD 
+28824_tagged.txt	what_DDQ they_PPHS2 learn_VV0 and_CC they_PPHS2 	are_VBR going_VVGK to_TO tell_VVI 	everybody_PN1 
+29708_tagged.txt	come_VV0 on_II its_APPGE time_NNT1 you_PPY 	are_VBR going_VVGK to_TO miss_VVI 	it_PPH1 
+31508_tagged.txt	some_DD people_NN 	are_VBR going_VVGK to_TO make_VVI 	problem_NN1 ._. 
+32557_tagged.txt	of_IO us_PPIO2 early_RR or_CC late_JJ 	are_VBR going_VVGK to_TO live_VVI 	without_IW 
+32563_tagged.txt	necessarily_RR tell_VV0 us_PPIO2 where_RRQ people_NN 	are_VBR going_VVGK to_TO go_VVI ._. 	Some_DD 
+32831_tagged.txt	save_VVI the_AT money_NN1 that_CST you_PPY 	are_VBR going_VVGK to_TO pay_VVI 	for_IF 
+32871_tagged.txt	just_RR think_VVI parochially_RR anymore_RR ._. You_PPY 	are_VBR going_VVGK to_TO think_VVI 	open_JJ 
+33393_tagged.txt	vacation_NN1 I_PPIS1 think_VV0 these_DD2 benefits_NN2 	are_VBR going_VVGK to_TO happen_VVI 	they_PPHS2 
+35016_tagged.txt	choices_NN2 for_IF which_DDQ school_NN1 they_PPHS2 	are_VBR going_VVGK to_TO send_VVI 	their_APPGE 
+35030_tagged.txt	a_AT1 child_NN1 ._. Furthermore_RR if_CS you_PPY 	are_VBR going_VVGK to_TO make_VVI 	an_AT1 
+35031_tagged.txt	be_VBI on_II the_AT rise_NN1 ._. People_NN 	are_VBR going_VVGK to_TO borrow_VVI 	money_NN1 
+35031_tagged.txt	more_RGR diverse_JJ businesses_NN2 ._. Furthermore_RR foreigners_NN2 	are_VBR going_VVGK to_TO increase_VVI 	because_II21 
+36578_tagged.txt	You_PPY 	are_VBR going_VVGK to_TO learn_VVI 	how_RRQ 
+36604_tagged.txt	on_II the_AT area_NN1 that_CST you_PPY 	are_VBR going_VVGK to_TO live_VVI 	in_RP@ ._. 
+36605_tagged.txt	really_RR friendly_JJ so_CS@ you_PPY always_RR 	are_VBR going_VVGK to_TO feel_VVI 	like_II 
+36605_tagged.txt	if_CS you_PPY come_VV0 here_RL you_PPY 	are_VBR going_VVGK to_TO love_VVI 	this_DD1 
+1475_tagged.txt	it_PPH1 depend_VV0 which_DDQ plan_VV0 you_PPY '	re_VBR going_VVGK to_TO choose_VVI 	with_IW 
+1893_tagged.txt	to_II you_PPY ._. Even_CS21 though_CS22 they_PPHS2 '	re_VBR going_VVGK to_TO get_VVI 	closer_RRR 
+2120_tagged.txt	morals_NN2 ._. By_II the_AT time_NNT1 they_PPHS2 '	re_VBR going_VVGK to_TO get_VVI 	closer_RRR 
+5066_tagged.txt	who_PNQS meet_VV0 here_RL said_VVD they_PPHS2 '	re_VBR going_VVGK to_TO get_VVI 	a_AT1 
+5555_tagged.txt	who_PNQS meet_VV0 here_RL said_VVD they_PPHS2 '	re_VBR going_VVGK to_TO get_VVI 	a_AT1 
+7958_tagged.txt	the_AT herb_NN1 tea_NN1 which_DDQ we_PPIS2 '	re_VBR going_VVGK to_TO drink_VVI 	after_II 
+7963_tagged.txt	the_AT Monopoly_NN1 game_NN1 which_DDQ we_PPIS2 '	re_VBR going_VVGK to_TO play_VVI ._. 	
+15078_tagged.txt	I_PPIS1 decided_VVD we_PPIS2 '	re_VBR going_VVGK to_TO picnic_VVI 	on_II 
+15247_tagged.txt	We_PPIS2 '	re_VBR going_VVGK to_TO commit_VVI 	to_II 
+15747_tagged.txt	speak_VVI English_NN1 ._. Even_CS21 if_CS22 you_PPY '	re_VBR going_VVGK to_TO study_VVI 	English_JJ 
+16914_tagged.txt	the_AT penalty_NN1 You_PPY realize_VV0 you_PPY '	re_VBR going_VVGK to_TO miss_VVI 	them_PPHO2 
+17944_tagged.txt	my_APPGE favored_JJ@ friend_NN1 and_CC we_PPIS2 '	re_VBR going_VVGK to_TO eat_VVI 	dinner_NN1 
+23978_tagged.txt	memorized_JJ@ phrase_NN1 for_IF what_DDQ you_PPY '	re_VBR going_VVGK to_TO order_VVI 	simply_RR 
+24223_tagged.txt	the_AT same_DA place_NN1 where_RRQ you_PPY '	re_VBR going_VVGK to_TO live_VVI ._. 	In_II 
+28036_tagged.txt	and_CC whether_CSW31 or_CSW32 not_CSW33 they_PPHS2 '	re_VBR going_VVGK to_TO write_VVI 	something_PN1 
+28114_tagged.txt	and_CC whether_CSW31 or_CSW32 not_CSW33 they_PPHS2 '	re_VBR going_VVGK to_TO write_VVI 	something_PN1 
+33984_tagged.txt	show_NN1 lost_VVN on_II ocean_NN1 ._. We_PPIS2 '	re_VBR going_VVGK to_TO go_VVI 	to_II 
+116_tagged.txt	the_AT next_MD things_NN2 that_CST he_PPHS1 	was_VBDZ going_VVGK to_TO tell_VVI 	me_PPIO1 ._. 
+569_tagged.txt	high_JJ school_NN1 grad_NN1 so_CS@ he_PPHS1 	was_VBDZ going_VVGK to_TO go_VVI 	the_AT 
+732_tagged.txt	term_NN1 ._. I_PPIS1 felt_VVD that_CST I_PPIS1 	was_VBDZ going_VVGK to_TO get_VVI 	very_RG 
+2106_tagged.txt	I_PPIS1 thought_VVD that_CST if_CS I_PPIS1 	was_VBDZ going_VVGK to_TO stay_VVI 	in_II 
+2106_tagged.txt	test_NN1 since_CS I_PPIS1 thought_VVD I_PPIS1 	was_VBDZ going_VVGK to_TO hang_VVI 	out_RP 
+2796_tagged.txt	completely_RR afraid_JJ about_II what_DDQ I_PPIS1 	was_VBDZ going_VVGK to_TO see_VVI 	there_RL 
+3065_tagged.txt	to_TO rain_VVI ._. For_REX21 instance_REX22 I_ZZ1% 	was_VBDZ going_VVGK to_TO go_VVI 	buck_NN 
+3191_tagged.txt	had_VHD to_TO memorize_VVI what_DDQ I_PPIS1 	was_VBDZ going_VVGK to_TO teach_VVI ._. 	While_CS 
+3322_tagged.txt	started_VVD to_TO rain_VVI ._. Moreover_RR I_PPIS1 	was_VBDZ going_VVGK to_TO go_VVI 	back_RP 
+5022_tagged.txt	him_PPHO1 next_MD weekend_NNT1 ._. Yesterday_RT I_PPIS1 	was_VBDZ going_VVGK to_TO call_VVI 	him_PPHO1 
+5604_tagged.txt	Also_RR I_PPIS1 thank_VV0 that_CST I_PPIS1 	was_VBDZ going_VVGK to_TO get_VVI 	a_AT1 
+5717_tagged.txt	Also_RR I_PPIS1 thank_VV0 that_CST I_PPIS1 	was_VBDZ going_VVGK to_TO get_VVI 	a_AT1 
+8304_tagged.txt	had_VHD known_VVN that_CST my_APPGE marriage_NN1 	was_VBDZ going_VVGK to_TO end_VVI 	I_PPIS1 
+8712_tagged.txt	office_NN1 on_II time_NNT1 because_CS I_PPIS1 	was_VBDZ going_VVGK to_TO send_VVI 	my_APPGE 
+8718_tagged.txt	PPIS1 could_VM n't_XX imagine_VVI what_DDQ 	was_VBDZ going_VVGK to_TO happen_VVI 	to_II@ 
+8884_tagged.txt	a_AT1 few_DA2 seconds_NNT2 my_APPGE car_NN1 	was_VBDZ going_VVGK to_TO stop_VVI 	slowly_RR ._. 
+8942_tagged.txt	for_IF dessert_NN1 ._. In_RR21 addition_RR22 she_PPHS1 	was_VBDZ going_VVGK to_TO teach_VVI 	me_PPIO1 
+9415_tagged.txt	I_PPIS1 never_RR thought_VVN that_CST I_PPIS1 	was_VBDZ going_VVGK to_TO fall_VVI 	in_II 
+9415_tagged.txt	know_VVI that_CST my_APPGE worse_JJR nightmare_NN1 	was_VBDZ going_VVGK to_TO come_VVI 	true_JJ ._. 
+9752_tagged.txt	and_CC they_PPHS2 knew_VVD that_CST I_PPIS1 	was_VBDZ going_VVGK to_TO study_VVI 	abroad_RL ._. 
+9758_tagged.txt	and_CC they_PPHS2 knew_VVD that_CST I_PPIS1 	was_VBDZ going_VVGK to_TO study_VVI 	abroad_RL ._. 
+10265_tagged.txt	stopped_VVN him_PPHO1 if_CS knew_VVD he_PPHS1 	was_VBDZ going_VVGK to_TO dance_VVI 	like_II 
+11170_tagged.txt	trip_NN1 ._. After_CS one_MC1 week_NNT1 I_PPIS1 	was_VBDZ going_VVGK to_TO go_VVI 	to_II 
+11254_tagged.txt	really_RR thought_VVD over_RP that_CST I_PPIS1 	was_VBDZ going_VVGK to_TO keep_VVI 	it_PPH1 
+11536_tagged.txt	at_II 8_MC 30_MC am_RA@ ._. Because_CS I_PPIS1 	was_VBDZ going_VVGK to_TO go_VVI 	to_II 
+11536_tagged.txt	at_II 9_MC 00_MC am_RA@ and_CC I_PPIS1 	was_VBDZ going_VVGK to_TO go_VVI 	to_II 
+12984_tagged.txt	with_IW my_APPGE friends_NN2 ._. When_CS I_PPIS1 	was_VBDZ going_VVGK to_TO pay_VVI 	a_AT1 
+13003_tagged.txt	I_PPIS1 was_VBDZ lying_VVG and_CC I_PPIS1 	was_VBDZ going_VVGK to_TO use_VVI 	the_AT 
+13317_tagged.txt	him_PPHO1 to_TO find_VVI out_RP what_DDQ 	was_VBDZ going_VVGK to_TO happen_VVI ._. 10_	MC minutes_
+16790_tagged.txt	of_IO the_AT school_NN1 when_CS I_PPIS1 	was_VBDZ going_VVGK to_TO learn_VVI 	English_NN1 ._. 
+16928_tagged.txt	he_PPHS1 was_VBDZ very_RG distraught_JJ and_CC 	was_VBDZ going_VVGK to_TO cancel_VVI 	the_AT 
+18996_tagged.txt	that_CST he_PPHS1 was_VBDZ whom_PNQO I_PPIS1 	was_VBDZ going_VVGK to_TO marry_VVI ._. 	The_AT 
+19569_tagged.txt	PPX222 for_IF 20_MC years_NNT2 and_CC he_PPHS1 	was_VBDZ going_VVGK to_TO leave_VVI 	America_NP1 ._. 10_
+20795_tagged.txt	found_VVD my_APPGE purse_NN1 and_CC he_PPHS1 	was_VBDZ going_VVGK to_TO stop_VVI 	by_II 
+20828_tagged.txt	at_II Cambridge_NP1 University_NN1 and_CC he_PPHS1 	was_VBDZ going_VVGK to_TO continue_VVI 	his_APPGE 
+21499_tagged.txt	the_AT brother_NN1 left_VVD home_RL he_PPHS1 	was_VBDZ going_VVGK to_TO make_VVI 	his_APPGE 
+21888_tagged.txt	Egypt_NP1 with_IW my_APPGE family_NN1 ._. I_PPIS1 	was_VBDZ going_VVGK to_TO theire_VVI 	to_TO 
+22028_tagged.txt	how_RGQ@ long_RR the_AT flu_NN1 season_NNT1 	was_VBDZ going_VVGK to_TO last_VVI ._. 7_	MC He_
+22038_tagged.txt	how_RGQ@ long_RR he_PPHS1 flu_NN1 season_NNT1 	was_VBDZ going_VVGK to_TO last_VVI ._. 7_	MC He_
+22047_tagged.txt	how_RGQ@ long_RR the_AT flu_NN1 season_NNT1 	was_VBDZ going_VVGK to_TO last_VVI ._. 	
+22352_tagged.txt	how_RGQ@ long_RR the_AT flu_NN1 season_NNT1 	was_VBDZ going_VVGK to_TO last_VVI ._. 	
+22358_tagged.txt	minute_NNT1 and_CC said_VVD that_CST he_PPHS1 	was_VBDZ going_VVGK to_TO hang_VVI 	up_RP 
+24470_tagged.txt	magazine_NN1 the_AT structures_NN2 were_VBDR I_PPIS1 	was_VBDZ going_VVGK to_TO put_VVI 	them_PPHO2 ._. 
+25010_tagged.txt	to_TO understand_VVI what_DDQ the_AT writer_NN1 	was_VBDZ going_VVGK to_TO exhibit_VVI 	This_DD1 
+25119_tagged.txt	horrible_JJ desk_NN1 that_CST my_APPGE mother_NN1 	was_VBDZ going_VVGK to_TO toss_VVI 	out_RP 
+25313_tagged.txt	supervisor_NN1 ._. I_PPIS1 felt_VVD my_APPGE heart_NN1 	was_VBDZ going_VVGK to_TO pop_VVI 	out_RP 
+25384_tagged.txt	that_CST the_AT store_NN1 where_CS I_PPIS1 	was_VBDZ going_VVGK to_TO buy_VVI 	the_AT 
+27418_tagged.txt	small_JJ place_NN1 ._. This_DD1 week_NNT1 I_PPIS1 	was_VBDZ going_VVGK to_TO straighten_VVI 	up_RP 
+28749_tagged.txt	Bill_NP1 Parrish_VV0@ a_AT1 successful_JJ businessman_NN1 	was_VBDZ going_VVGK to_TO take_VVI 	his_APPGE 65
+29734_tagged.txt	So_RR I_PPIS1 hung_VVD up_RP and_CC 	was_VBDZ going_VVGK to_TO get_VVI 	ready_JJ 
+33443_tagged.txt	t_XX tell_VVI us_PPIO2 whether_CSW he_PPHS1 	was_VBDZ going_VVGK to_TO come_VVI 	back_RP 
+2616_tagged.txt	IO this_DD1 semester_NN1 ._. She_PPHS1 is_VBZ n'	t_XX going_VVGK to_TO continue_VVI 	studying_VVG 
+3116_tagged.txt	VV0 this_RG% many_DA2 students_NN2 are_VBR n'	t_XX going_VVGK to_TO leave_VVI 	and_CC 
+7925_tagged.txt	NN1 and_CC that_DD1 research_NN1 is_VBZ n'	t_XX going_VVGK to_TO come_VVI 	for_IF 
+17353_tagged.txt	RG funny_JJ and_CC he_PPHS1 was_VBDZ n'	t_XX going_VVGK to_TO give_VVI 	us_PPIO2 
+26107_tagged.txt	RR a_AT1 television_NN1 commercial_NN1@ is_VBZ n'	t_XX going_VVGK to_TO cause_VVI 	you_PPY 
+1252_tagged.txt	this_DD1 problem_NN1 so_CS@ they_PPHS2 are_VBR 	not_XX going_VVGK to_TO vote_VVI 	for_IF 
+2969_tagged.txt	ice_NN1 cream_NN1 so_CS@ I_PPIS1 'm_VBM 	not_XX going_VVGK to_TO drop_VVI 	out_RP ._. 5_
+3574_tagged.txt	at_II home_NN1 and_CC they_PPHS2 are_VBR 	not_XX going_VVGK to_TO go_VVI 	to_II 
+4067_tagged.txt	the_AT party_NN1 tonight_RT you_PPY are_VBR 	not_XX going_VVGK to_TO pass_VVI 	your_APPGE 
+7743_tagged.txt	three_MC years_NNT2 ._. But_CCB I_PPIS1 am_VBM 	not_XX going_VVGK to_TO lend_VVI 	any_DD 
+7773_tagged.txt	tired_JJ of_IO working_VVG ._. You_PPY are_VBR 	not_XX going_VVGK to_TO tell_VVI 	your_APPGE 
+8288_tagged.txt	immunity_NN1 ._. For_REX21 example_REX22 animals_NN2 are_VBR 	not_XX going_VVGK to_TO die_VVI 	if_CSW@ 
+9444_tagged.txt	because_CS I_PPIS1 thought_VVD I_PPIS1 was_VBDZ 	not_XX going_VVGK to_TO find_VVI 	a_AT1 
+10503_tagged.txt	we_PPIS2 lied_VVD them_PPHO2 they_PPHS2 are_VBR 	not_XX going_VVGK to_TO trust_VVI ._. 	Finally_RR 
+13332_tagged.txt	Because_CS they_PPHS2 know_VV0 I_PPIS1 am_VBM 	not_XX going_VVGK to_TO judge_VVI 	them_PPHO2 
+14470_tagged.txt	that_CST the_AT world_NN1 clearly_RR is_VBZ 	not_XX going_VVGK to_TO stop_VVI 	taking_VVG 
+14475_tagged.txt	He_PPHS1 said_VVD The_AT world_NN1 is_VBZ 	not_XX going_VVGK to_TO stop_VVI 	talking_VVG 
+14514_tagged.txt	that_CST the_AT world_NN1 clearly_RR is_VBZ 	not_XX going_VVGK to_TO stop_VVI 	taking_VVG 
+14520_tagged.txt	author_NN1 said_VVD the_AT world_NN1 is_VBZ 	not_XX going_VVGK to_TO stop_VVI 	taking_VVG 
+14549_tagged.txt	that_CST The_AT world_NN1 clearly_RR is_VBZ 	not_XX going_VVGK to_TO stop_VVI 	taking_VVG 
+14810_tagged.txt	from_II it_PPH1 ._. First_MD I_PPIS1 was_VBDZ 	not_XX going_VVGK to_TO pick_VVI 	up_RP 
+16873_tagged.txt	So_RR they_PPHS2 said_VVD they_PPHS2 are_VBR 	not_XX going_VVGK to_TO take_VVI 	it_PPH1 ._. 
+17608_tagged.txt	love_VV0 traveling_VVG so_RR I_PPIS1 am_VBM 	not_XX going_VVGK to_TO get_VVI 	bored_JJ 
+19332_tagged.txt	VD0 n't_XX worry_VVI I_PPIS1 'm_VBM 	not_XX going_VVGK to_TO tell_VVI 	him_PPHO1 
+19731_tagged.txt	willing_JJ to_TO compromise_VVI you_PPY are_VBR 	not_XX going_VVGK to_TO cry_VVI 	this_DD1 
+20299_tagged.txt	for_IF a_AT1 while_NNT1@ studying_VVG is_VBZ 	not_XX going_VVGK to_TO end_VVI ._. 	
+20635_tagged.txt	be_VBI sure_JJ that_CST they_PPHS2 are_VBR 	not_XX going_VVGK to_TO change_VVI 	their_APPGE 
+20828_tagged.txt	his_APPGE mind_NN1 and_CC he_PPHS1 was_VBDZ 	not_XX going_VVGK to_TO go_VVI 	in_II 
+21701_tagged.txt	be_VBI sure_JJ that_CST they_PPHS2 are_VBR 	not_XX going_VVGK to_TO change_VVI 	their_APPGE 
+27773_tagged.txt	authority_NN1 they_PPHS2 have_VH0 they_PPHS2 will_VM 	not_XX going_VVGK to_TO hire_VVI 	me_PPIO1 
+31824_tagged.txt	are_VBR things_NN2 that_CST you_PPY are_VBR 	not_XX going_VVGK to_TO learn_VVI 	if_CSW@ 
+33475_tagged.txt	years_NNT2 ._. That_DD1 means_VVZ it_PPH1 is_VBZ 	not_XX going_VVGK to_TO run_VVI 	out_RP ._. 
+33838_tagged.txt	years_NNT2 ._. That_DD1 means_VVZ it_PPH1 is_VBZ 	not_XX going_VVGK to_TO run_VVI 	out_RP ._. 
+33993_tagged.txt	many_DA2 reasons_NN2 which_DDQ I_PPIS1 'm_VBM 	not_XX going_VVGK to_TO discuss_VVI 	here_RL 
+35934_tagged.txt	moreover_RR I_PPIS1 think_VV0 I_PPIS1 will_VM 	not_XX going_VVGK to_TO live_VVI 	in_II 
+35947_tagged.txt	I_PPIS1 am_VBM 	not_XX going_VVGK to_TO live_VVI 	in_II 
+2137_tagged.txt	still_RR my_APPGE pleasure_NN1 ._. i_MC1 'M_VBM 	NOT_XX GOING_VVGK to_TO stop_VVI 	studying_VVG ._. 
+14486_tagged.txt	A_AT1@ GLOBAL_JJ LANGUAGE_NN1 BUT_CCB ITS_APPGE 	NOT_XX GOING_VVGK TO_TO CONTINUE_VVI 	TO_TO 
+1969_tagged.txt	me_PPIO1 in_II April_NPM1 ._. She_PPHS1 is_VBZ 	also_RR going_VVGK to_TO come_VVI 	to_II 
+16150_tagged.txt	CCB Im_VV0 korean so_CS@ my_APPGE movies_NN2 	also_RR going_VVGK to_TO come_VVI 	from_II 
+20304_tagged.txt	a_AT1 job_NN1 and_CC I_PPIS1 am_VBM 	also_RR going_VVGK to_TO apply_VVI 	to_TO 
+8999_tagged.txt	the_AT city_NN1 ._. Actually_RR I_PPIS1 was_VBDZ 	just_RR going_VVGK to_TO search_VVI 	for_IF 
+9074_tagged.txt	the_AT city_NN1 ._. Actually_RR I_PPIS1 was_VBDZ 	just_RR going_VVGK to_TO search_VVI 	for_IF 
+9513_tagged.txt	the_AT city_NN1 ._. Actually_RR I_PPIS1 was_VBDZ 	just_RR going_VVGK to_TO search_VVI 	for_IF 
+14967_tagged.txt	finished_JJ@ meal_NN1 ._. so_RR I_PPIS1 am_VBM 	just_RR going_VVGK to_TO try_VVI 	to_TO 
+23749_tagged.txt	the_AT area_NN1 and_CC I_PPIS1 am_VBM 	only_RR going_VVGK to_TO take_VVI 	three_MC 
+20816_tagged.txt	sincere_JJ heart_NN1 so_CS@ I_PPIS1 am_VBM 	never_RR going_VVGK to_TO forget_VVI 	his_APPGE 
+22314_tagged.txt	a_AT1 feeling_NN1 like_II it_PPH1 is_VBZ 	never_RR going_VVGK to_TO end_VVI ._. 	However_RRQV 
+22381_tagged.txt	us_PPIO2 feel_VVI like_II it_PPH1 is_VBZ 	never_RR going_VVGK to_TO end_VVI ._. 	However_RRQV 
+10430_tagged.txt	to_TO pay_VVI silver_NN1 ._. You_PPY are_VBR 	always_RR going_VVGK to_TO look_VVI 	alternatives_NN2 
+16144_tagged.txt	the_AT weekend_NNT1 ._. So_RR I_PPIS1 am_VBM 	always_RR going_VVGK to_TO watch_VVI 	movies_NN2 
+18397_tagged.txt	the_AT weekend_NNT1 ._. So_RR I_PPIS1 am_VBM 	always_RR going_VVGK to_TO watch_VVI 	movies_NN2 
+5085_tagged.txt	language_NN1 but_CCB learning_VVG English_NN1 is_VBZ 	still_RR going_VVGK to_TO give_VVI 	a_AT1 
+5506_tagged.txt	language_NN1 but_CCB learning_VVG English_NN1 is_VBZ 	still_RR going_VVGK to_TO give_VVI 	a_AT1 
+17930_tagged.txt	togerhet_NN1 ._. After_CS dinner_NN1 are_VBR we_PPIS2 	probably_RR going_VVGK to_TO play_VVI 	some_DD 
+34639_tagged.txt	NN1 every_AT1 5_MC minute_NNT1 and_CC they_PPHS2 	absolutely_RR going_VVGK to_TO take_VVI 	picture_NN1 
+16893_tagged.txt	in_II Grove_NN1 City_NN1 ._. We_PPIS2 are_VBR 	definitely_RR going_VVGK to_TO go_VVI 	to_II 
+22943_tagged.txt	schools_NN2 this_DD1 goings_VVZ on_II are_VBR 	definitely_RR going_VVGK to_TO go_VVI 	on_RP@ ._. 
+23002_tagged.txt	education_NN1 in_II schools_NN2 this_DD1 is_VBZ 	definitely_RR going_VVGK to_TO continue_VVI ._. 	Ambition_NN1 
+34808_tagged.txt	on_II them_PPHO2 ._. Now_RT I_PPIS1 am_VBM 	definitely_RR going_VVGK to_TO sign_VVI 	up_RP 
+1896_tagged.txt	the_AT US_NP1 ._. This_DD1 dream_NN1 is_VBZ 	nearly_RR going_VVGK to_TO come_VVI 	true_JJ ._. 
+2734_tagged.txt	By_II following_VVG these_DD2 instructions_NN2 you_PPY 	difinatly_RR going_VVGK to_TO take_VVI 10_	MC in_
+693_tagged.txt	B_ZZ1 No_AT problem_NN1 !_! When_RRQ are_VBR 	you_PPY going_VVGK to_TO go_VVI 	to_II 
+693_tagged.txt	to_II the_AT Honda_NP1 dealer_NN1 ?_? Are_VBR 	you_PPY going_VVGK to_TO go_VVI 	on_RP 
+1818_tagged.txt	causes_VVZ many_DA2 diseases_NN2 ._. So_RR are_VBR 	you_PPY going_VVGK to_TO eat_VVI 	fast_JJ 
+2734_tagged.txt	thing_NN1 about_II your_APPGE day_NNT1 where_RRQ 	you_PPY going_VVGK to_TO spend_VVI 	your_APPGE 
+6721_tagged.txt	you_PPY have_VH0 to_TO do_VDI when_CS 	you_PPY going_VVGK to_TO write_VVI 	a_AT1 
+8429_tagged.txt	them_PPHO2 ._. She_PPHS1 asked_VVD me_PPIO1 are_VBR 	you_PPY going_VVGK to_TO open_VVI 	them_PPHO2 
+8456_tagged.txt	them_PPHO2 ._. She_PPHS1 asked_VVD me_PPIO1 Are_VBR 	you_PPY going_VVGK to_TO open_VVI 	them_PPHO2 
+8838_tagged.txt	them_PPHO2 ._. She_PPHS1 asked_VVD me_PPIO1 Are_VBR 	you_PPY going_VVGK to_TO open_VVI 	them_PPHO2 
+12019_tagged.txt	girlfriend_NN1 before_II her_PPHO1 what_DDQ are_VBR 	you_PPY going_VVGK to_TO say_VVI ?_? 	She_PPHS1 
+20636_tagged.txt	are_VBR a_AT1 supervisor_NN1 how_RRQ are_VBR 	you_PPY going_VVGK to_TO monitor_VVI 	the_AT 
+20636_tagged.txt	of_IO employees_NN2 ?_? What_DDQ strategy_NN1 are_VBR 	you_PPY going_VVGK to_TO use_VVI ?_? 	You_PPY 
+21041_tagged.txt	are_VBR a_AT1 supervisor_NN1 how_RRQ are_VBR 	you_PPY going_VVGK to_TO monitor_VVI 	the_AT 
+21041_tagged.txt	of_IO employees_NN2 ?_? What_DDQ strategy_NN1 are_VBR 	you_PPY going_VVGK to_TO use_VVI 	You_PPY 
+21049_tagged.txt	You_PPY already_RR decided_VVD where_RRQ are_VBR 	you_PPY going_VVGK to_TO go_VVI 	for_IF 
+21564_tagged.txt	are_VBR a_AT1 supervisor_NN1 how_RRQ are_VBR 	you_PPY going_VVGK to_TO monitor_VVI 	the_AT 
+21564_tagged.txt	of_IO employees_NN2 ?_? What_DDQ strategies_NN2 are_VBR 	you_PPY going_VVGK to_TO use_VVI ?_? 	You_PPY 
+36393_tagged.txt	you_PPY and_CC how_RGQ@ long_RR are_VBR 	you_PPY going_VVGK to_TO stay_VVI ._. 	
+2388_tagged.txt	ago_RA my_APPGE father_NN1 and_CC I_PPIS1 	were_VBDR going_VVGK to_TO buy_VVI 	some_DD 
+5261_tagged.txt	t_XX understand_VVI ._. After_CS class_NN1 we_PPIS2 	were_VBDR going_VVGK to_TO see_VVI 	the_AT 
+8884_tagged.txt	I_PPIS1 hurted_VVD my_APPGE knees_NN2 which_DDQ 	were_VBDR going_VVGK to_TO bleed_VVI ._. 	I_PPIS1 
+9514_tagged.txt	ordered_VVD some_DD food_NN1 that_CST we_PPIS2 	were_VBDR going_VVGK to_TO eat_VVI 	in_II 
+9633_tagged.txt	I_PPIS1 had_VHD known_VVN how_RRQ things_NN2 	were_VBDR going_VVGK to_TO turn_VVI 	out_RP 
+9752_tagged.txt	day_NNT1 because_CS I_PPIS1 knew_VVD they_PPHS2 	were_VBDR going_VVGK to_TO perform_VVI 	in_II 
+9758_tagged.txt	day_NNT1 because_CS I_PPIS1 knew_VVD they_PPHS2 	were_VBDR going_VVGK to_TO perform_VVI 	in_II 
+12542_tagged.txt	us_PPIO2 a_AT1 little_JJ punishment_NN1 ._. We_PPIS2 	were_VBDR going_VVGK to_TO stay_VVI 	our_APPGE 
+12695_tagged.txt	If_CS I_PPIS1 	were_VBDR going_VVGK to_TO start_VVI 	a_AT1 
+12700_tagged.txt	of_IO Roddick_NP1 's_GE if_CS I_PPIS1 	were_VBDR going_VVGK to_TO run_VVI 	a_AT1 
+12704_tagged.txt	If_CS I_PPIS1 	were_VBDR going_VVGK to_TO start_VVI 	a_AT1 
+13019_tagged.txt	company_NN1 ._. He_PPHS1 thought_VVD that_CST people_NN 	were_VBDR going_VVGK to_TO shop_VVI 	online_RR 
+16265_tagged.txt	We_PPIS2 were_VBDR planning_VVG that_CST we_PPIS2 	were_VBDR going_VVGK to_TO travel_VVI 	to_II 
+20887_tagged.txt	discussion_NN1 for_IF which_DDQ one_PN1 we_PPIS2 	were_VBDR going_VVGK to_TO watch_VVI 	we_PPIS2 
+27306_tagged.txt	I_PPIS1 met_VVD with_IW her_PPHO1 we_PPIS2 	were_VBDR going_VVGK to_TO eat_VVI 	Icecream_NN1 
+31772_tagged.txt	police_NN2 officers_NN2 that_CST if_CS they_PPHS2 	were_VBDR going_VVGK to_TO put_VVI 	the_AT 
+35691_tagged.txt	t_XX previewed_VVN the_AT unit_NN1 we_PPIS2 	were_VBDR going_VVGK to_TO learn_VVI 	next_MD 
+1631_tagged.txt		I_PPIS1 going_VVGK to_TO buy_VVI 	car_NN1 ._. 
+1631_tagged.txt	I_PPIS1 going_VVGK to_TO buy_VVI car_NN1 ._. 	I_PPIS1 going_VVGK to_TO get_VVI 	married_JJ ._. 
+2467_tagged.txt	up_RP because_CS I_PPIS1 felt_VVD that_CST 	I_PPIS1 going_VVGK to_TO kill_VVI 	my_APPGE 
+10571_tagged.txt	the_AT hotel_NN1 preferably_RR with_IW pool_NN1 ._. 	I_PPIS1 going_VVGK to_TO spend_VVI 	about_II 
+10611_tagged.txt	will_VM come_VVI back_RP here_RL and_CC 	I_PPIS1 going_VVGK to_TO complete_VVI 	the_AT 
+12197_tagged.txt	VH0 n't_XX any_DD idea_NN1 ._. Maybe_RR 	I_PPIS1 going_VVGK to_TO go_VVI 	Chicago_NP1 ._. 
+12197_tagged.txt	we_PPIS2 will_VM come_VVI back_RP ._. Next_MD 	I_PPIS1 going_VVGK to_TO study_VVI 	more_DAR 
+14608_tagged.txt	with_IW my_APPGE friends_NN2 but_CCB now_RT 	I_PPIS1 going_VVGK to_TO dance_VVI 	with_IW 
+16175_tagged.txt	wife_NN1 ._. Next_MD my_APPGE family_NN1 and_CC 	I_PPIS1 going_VVGK to_TO go_VVI 	shopping_VVG ._. 
+18579_tagged.txt	I_PPIS1 THINK_VV0 THAT_CST AFTER_CS GRADUATE_VV0 	I_PPIS1 GOING_VVGK TO_TO TAKE_VVI 	A_AT1@ 
+19513_tagged.txt	I_PPIS1 go_VV0 back_RP to_II KSA_NN1 	I_PPIS1 going_VVGK to_TO find_VVI 	a_AT1 
+22856_tagged.txt		I_PPIS1 going_VVGK to_TO finish_VVI 	the_AT 
+28480_tagged.txt	target_NN1 life_NN1 for_IF me_PPIO1 ._. MOreovere_NN1 	I_PPIS1 going_VVGK to_TO study_VVI 	Labirotory_JJ 
+18579_tagged.txt	I_PPIS1 LEARN_VV0 WORD_NN1 PROCESSING_NN1 I_ZZ1% `_" 	M_ZZ1 GOING_VVGK TO_TO LOOK_VVI 	FOR_IF 
+1723_tagged.txt	If_CS I_PPIS1 can_VM decide_VVI I_ZZ1% `_" 	m_ZZ1 going_VVGK to_TO reduce_VVI 	tuition_NN1 
+15857_tagged.txt	my_APPGE English_NN1 ._. Next_MD month_NNT1 I'_NP1 	m_ZZ1 going_VVGK to_TO visit_VVI 	my_APPGE 
+15857_tagged.txt	back_RP to_II our_APPGE country_NN1 I'_NP1 	m_ZZ1 going_VVGK to_TO visit_VVI 	my_APPGE 
+15857_tagged.txt	major_JJ computer_NN1 engineering_NN1 also_RR I'_VV0@ 	m_ZZ1 going_VVGK to_TO read_VVI 	some_DD 
+15857_tagged.txt	children_NN2 up_RP correctly_RR ._. Then_RT I'_VV0@ 	m_ZZ1 going_VVGK to_TO learn_VVI 	how_RRQ 
+17249_tagged.txt	my_APPGE future_JJ plans_NN2 because_CS I_ZZ1% 	m_ZZ1 going_VVGK to_TO continue_VVI 	my_APPGE 
+18603_tagged.txt	1_MC1 )_) I_ZZ1% 	m_ZZ1 going_VVGK to_TO continue_VVI 	studying_VVG 
+19991_tagged.txt	job_NN1 in_II another_DD1 city_NN1 ._. I_ZZ1@ 	m_ZZ1 going_VVGK to_TO stay_VVI 	in_II 
+35962_tagged.txt	walls_NN2 insulting_VVG@ the_AT geological_JJ nuclear_JJ 	box_NN1 going_VVGK to_TO collapse_VVI 	by_II 
+22893_tagged.txt	whether_CSW there_EX is_VBZ any_DD unpredictable_JJ 	situation_NN1 going_VVGK to_TO occur_VVI ._. 	So_RR 
+1895_tagged.txt	NN1 to_TO go_VVI there_RL ._. Hwovere_JJ I'	am_NN1 going_VVGK to_TO go_VVI 	to_II 
+18796_tagged.txt	movie_NN1 Will_NP1 Smith_NP1 and_CC his_APPGE 	son_NN1 going_VVGK to_TO see_VVI 	rich_JJ 
+22912_tagged.txt	term_NN1 plan_NN1 also_RR short_JJ term_NN1 	plan_NN1 going_VVGK to_TO graduate_VVI 	school_NN1 
+20634_tagged.txt	a_AT1 breakfast_NN1 at_II an_AT1 open_JJ 	buffet_NN1 going_VVGK to_TO beach_VVI 	and_CC 
+2626_tagged.txt	undrestand_VVI what_DDQ the_AT idea_NN1 the_AT 	writer_NN1 going_VVGK to_TO talk_VVI 	about_II 
+9822_tagged.txt	Learning_NN1 and_CC speaking_VVG 	Eglish_NN1 going_VVGK to_TO graduate_VVI 	school_NN1 
+2532_tagged.txt	days_NNT2 will_VM be_VBI nice_JJ days_NNT2 ._. 	We_PPIS2 going_VVGK to_TO take_VVI 	pictures_NN2 
+2532_tagged.txt	feel_VVI happy_JJ in_II the_AT space_NN1 ._. 	We_PPIS2 going_VVGK to_TO live_VVI 	in_II 
+2532_tagged.txt	You_PPY will_VM see_VVI it_PPH1 different_JJ ._. 	We_PPIS2 going_VVGK to_TO play_VVI 	soccer_NN1 
+4754_tagged.txt	before_CS we_PPIS2 do_VD0 any_DD thing_NN1 	we_PPIS2 going_VVGK to_TO take_VVI 	a_AT1 
+4754_tagged.txt	next_MD day_NNT1 in_II the_AT morning_NNT1 	we_PPIS2 going_VVGK to_TO go_VVI 	white_JJ 
+4754_tagged.txt	Then_RT in_II the_AT same_DA day_NNT1 	we_PPIS2 going_VVGK to_TO go_VVI 	Washington_NP1 '
+4754_tagged.txt	group_NN1 ._. In_II the_AT next_MD day_NNT1 	we_PPIS2 going_VVGK to_TO go_VVI 	the_AT 
+16883_tagged.txt	from_II the_AT city_NN1 to_II Chicago_NP1 	we_PPIS2 going_VVGK to_TO stay_VVI 	in_II 
+2611_tagged.txt	general_JJ statement_NN1 ._. The_AT writer_NN1 will_VM 	be_VBI going_VVGK to_TO exlpain_VVI 	what_DDQ 
+9424_tagged.txt	aging_JJ society_NN1 is_VBZ expected_VVN to_TO 	be_VBI going_VVGK to_TO influence_VVI 	that_CST 
+14464_tagged.txt	my_APPGE whole_JJ life_NN1 I_PPIS1 should_VM 	be_VBI going_VVGK to_TO learn_VVI 	English_NN1 ._. 
+14981_tagged.txt	of_IO the_AT 18th_MD I_PPIS1 'll_VM 	be_VBI going_VVGK to_TO visit_VVI 	Shin_NN1 
+20305_tagged.txt	save_VVI our_APPGE money_NN1 ._. We_PPIS2 might_VM 	be_VBI going_VVGK to_TO share_VVI 	a_AT1 
+9788_tagged.txt	because_CS the_AT woman_NN1 was_VBDZ sick_JJ 	and_CC going_VVGK to_TO die_VVI ._. 	That_DD1 
+14688_tagged.txt	of_IO citizens_NN2 ._. Many_DA2 retired_JJ citizens_NN2 	and_CC going_VVGK to_TO retire_VVI 	citizens_NN2 
+28061_tagged.txt	snow_NN1 storm_NN1 learning_VVG about_II robots_NN2 	and_CC going_VVGK to_TO watch_VVI 	the_AT 
+9514_tagged.txt	to_II dinner_NN1 watching_VVG a_AT1 movie_NN1 	or_CC going_VVGK to_TO drink_VVI 	coffee_NN1 ._. 
+9331_tagged.txt	do_VDI in_II their_APPGE study_NN1 ._. Are_VBR 	they_PPHS2 going_VVGK to_TO succeed_VVI 	or_CC 
+9421_tagged.txt	concerned_JJ about_II their_APPGE studies_NN2 ._. Are_VBR 	they_PPHS2 going_VVGK to_TO succeed_VVI ?_? 	Or_CC 
+22348_tagged.txt	my_APPGE friends_NN2 and_CC family_NN1 when_CS 	they_PPHS2 going_VVGK to_TO visit_VVI 	me_PPIO1 
+36451_tagged.txt	revive_VVI their_APPGE economics_NN1 or_CC are_VBR 	they_PPHS2 going_VVGK to_TO wait_VVI 	untill_NN1 
+4649_tagged.txt	study_VVI in_II the_AT college_NN1 so_CS@ 	Iam_NP1 going_VVGK to_TO take_VVI 	the_AT 
+35889_tagged.txt	Today_RT 	Iam_NP1 going_VVGK to_TO talk_VVI 	about_II 
+36352_tagged.txt	of_IO causes_NN2 for_IF sadness_NN1 and_CC 	Iam_NP1 going_VVGK to_TO talk_VVI 	about_II 
+27779_tagged.txt	my_APPGE life_NN1 for_RR21 ever_RR22 which_DDQ 	nothing_PN1 going_VVGK to_TO stop_VVI 	us_PPIO2 ._. ._. 
+29549_tagged.txt	safer_RRR and_CC I_PPIS1 know_VV0 that_CST 	nothing_PN1 going_VVGK to_TO happen_VVI 	to_II@ 
+29171_tagged.txt	are_VBR not_XX expensive_JJ and_CC that_CST 	nobody_PN1 going_VVGK to_TO reclaim_VVI 	the_AT 
+21609_tagged.txt	When_CS Kalet_NP1 finishes_VVZ Eli_JJ program_NN1 	he_PPHS1 going_VVGK to_TO study_VVI 	systems_NN2 
+21609_tagged.txt	he_PPHS1 starts_VVZ his_APPGE university_NN1 studies_NN2 	he_PPHS1 going_VVGK to_TO return_VVI 	home_RL 
+27858_tagged.txt	place_VV0 and_CC the_AT equipment_NN1 that_CST 	he_PPHS1 going_VVGK to_TO use_VVI ._. 	i_ZZ1 
+8441_tagged.txt	going_VVG to_TO be_VBI excited_VVN@ about_II 	what_DDQ going_VVGK to_TO happen_VVI 	in_II 
+3686_tagged.txt	I_PPIS1 mean_VV0 not_XX that_RG much_RR 	which_DDQ going_VVGK to_TO destroy_VVI 	the_AT 
+35871_tagged.txt	NN1 of_IO causes_NN2 for_IF sadness_NN1 and_	CC iam going_VVGK to_TO talk_VVI 	about_II 
+35977_tagged.txt	NN1 of_IO causes_NN2 for_IF sadness_NN1 and_	CC iam going_VVGK to_TO talk_VVI 	about_II 
+15071_tagged.txt	current_JJ crisis_NN1 that_CST we_PPIS2 're_VBR 	all_RR@ going_VVGK to_TO look_VVI 	at_II 
+15208_tagged.txt	current_JJ crisis_NN1 that_CST we_PPIS2 're_VBR 	all_RR@ going_VVGK to_TO look_VVI 	at_II 
+2769_tagged.txt	grades_NN2 are_VBR not_XX correct_JJ you_PPY 	will_VV0% going_VVGK to_TO kill_VVI 	yourself_PPX1 ._. 
+28118_tagged.txt	unprepared_JJ station_NN1 so_CS21 that_CS22 absolutely_RR 	will_VV0% going_VVGK to_TO affect_VVI 	you_PPY 
+14890_tagged.txt	t_XX gays_NN2 but_CCB they_PPHS2 can_VM 	avoid_VVI going_VVGK to_TO jail_VVI 	because_CS 
+19979_tagged.txt	will_VM think_VVI about_II costs_NN2 and_CC 	postpone_VVI going_VVGK to_TO see_VVI 	a_AT1 
+10617_tagged.txt	VVI about_II wine_NN1 in_II Medford_NP1 ._. I_	PPIS1 amd going_VVGK to_TO go_VVI 	to_II 
+9517_tagged.txt	of_IO student_NN1 to_TO be_VBI because_CS 	its_APPGE going_VVGK to_TO decide_VVI 	how_RRQ 
+9765_tagged.txt	to_TO study_VVI more_DAR and_CC think_VVI 	that_CST going_VVGK to_TO graduate_VVI 	school_NN1 
+668_tagged.txt	to_II their_APPGE daily_JJ duty_NN1 ._. Such_II21 	as_II22 going_VVGK to_TO work_VVI 	or_CC 
+26660_tagged.txt	thought_VVD everybody_PN1 should_VM have_VHI option_NN1 	of_IO going_VVGK to_TO see_VVI 	a_AT1 
+16173_tagged.txt	name_NN1 is_VBZ ANON_JJ NAME_NN1 0_MC ._. Then_	RT lam going_VVGK to_TO watch_VVI 	a_AT1 
+5962_tagged.txt	i_MC1 	will_NN1@ going_VVGK to_TO anther_VVI 	class_NN1 
+32001_tagged.txt	PPIS1 do_VD0 n't_XX like_VVI every_AT1 	stores_NN2 going_VVGK to_TO close_VVI 	early_RR ._. 
+27702_tagged.txt	spend_VV0 with_IW your_APPGE family_NN1 and_CC 	friends_NN2 ._. Going_VVGK to_TO visit_VVI 	new_JJ 
+105_tagged.txt	a_AT1 deep_JJ relationship_NN1 with_IW person_NN1 	who_PNQS going_VVGK to_TO share_VVI 	the_AT 
+11475_tagged.txt	felt_VVD during_II the_AT reading_NN1 fit_VV0 	together_RL ._. Going_VVGK to_TO watch_VVI 	a_AT1 
+20634_tagged.txt	siesta_NN1 on_II lunch_NN1 time_NNT1 than_CSN 	again_RT going_VVGK to_TO beach_VVI 	and_CC 
+4754_tagged.txt	friends_NN2 ._. In_II fact_NN1 I_PPIS1 want_VV0 	to_TO going_VVGK to_TO go_VVI 	Washington_NP1 
+31768_tagged.txt	really_RR quickly_RR when_CS she_PPHS1 had_VHD 	been_VBN going_VVGK to_TO walk_VVI 	across_II 
+18931_tagged.txt	because_CS enough_DD money_NN1 you_PPY can_VM 	have_VHI going_VVGK to_TO leave_VVI 	on_II 
+36343_tagged.txt	the_AT young_JJ boys_NN2 ._. In_RR21 addition_RR22 	keep_VV0 going_VVGK to_TO face_VVI 	the_AT 

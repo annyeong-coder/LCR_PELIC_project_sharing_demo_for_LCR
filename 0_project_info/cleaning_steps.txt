@@ -16,12 +16,16 @@ Using 'find and replace, removed all commas, as this is an "CSV - comma separate
 Using 'find and replace, removed all equal signs, minus signs, plus signs, colons, semi-colons double spaces. (replaced all with a single space)
 
 CORRECTING Q.TYPE.ID - Went through mislabled q.type.id values (ones that weren't categorized between 1-10 as described in the guide). This included the incorrectly labeled q.type.id values of 3178, 3212, 3173, 3178, and 4273.  
+  Removed (16) rows labeled 3178, 3212, 3173, 3178, and 4273 (each contained between 3-13 characters) and were duplicates
   Removed rows where the text was either empty or spurious (e.g. task instructions written by teachers.)
-  Revised the q.type.id values according to response (e.g. labeled paragraphs responses as "1" to designate it as a paragraph). 
+  
+  REVERSED THIS AND LABELED THESE AS "NA" Revised the q.type.id values according to response (e.g. labeled paragraphs responses as "1" to designate it as a paragraph). 
 
-CORRECTING RES.TYPE - Focused on "0" values, which should have indicated selected response (such as multiple choice) as only constructed responses were to be analyzed.  However, found 362 texts.  Some seemed to be mislabeled.  Treated them in the following way.
+CORRECTING RES.TYPE (381 texts) - Focused on "0" values, which should have indicated selected response (such as multiple choice) as only constructed responses were to be analyzed.  Some seemed to be mislabeled.  Treated them in the following way.
   First, deleted all of the ones that seemed correctly labeled as selected responses.  (e.g. closely matching answers from different unique anon.id values on different dates, as would occur if they were selected phrase or sentences answers from a reading comprehension task)
-  Second, found duplicated entries that seemed constructed yet were multiple versions of the same task and deleted duplicates with earlier response date values, leaving only the most recent version of the duplicated responses.
+  Second, deleted all of the fill-in-the-blank (q.type.id = 5) responses. None of these seemed constructed, no did they contain future constructions.
+  Third, deleted all responses that were simply lists of words (i.e. vocabulary task that simply involved listing words).
+  Fourth, found duplicated entries that seemed constructed yet were multiple versions of the same task and deleted duplicates with earlier response date values, leaving only the most recent version of the duplicated responses.
 
 1.0 WORKING ON DUPLICATES (currently 41,247 responses)
 Saved csv file as xlsx file for following processes. Concatenated all "anon.id" and "ques.id" to create a new column. After concatenation, converted concatenated formula answers into value answers. Then, Using conditional formatting, colored all unique responses as green backgrounds and all duplicated values as red backgrounds.  Copied this version's tab into two unique tabs in Excel: "temp_PELIC_ones", "temp_PELIC_threes", "temp_PELIC_twos"
@@ -35,17 +39,28 @@ Saved csv file as xlsx file for following processes. Concatenated all "anon.id" 
   1.3 ISOLATING TWO RESPONSES (2954 responses)
   On the "temp_PELIC_twos" tab, In order to isolate response that have both "two" and "three" versions (in other words, in order to prepare two find all of the two values that ONLY occured with threes, but not by themselves), I filtered for all duplicated 'anon.id & ques.id' responses and deleted them.  This left me with all of the unique twos (i.e. 2nd versions that )
   (This penultimate step, 1.3, was the most tricky one. Finding all of the responses with only one version ended up being easy, as I just deleted any duplicate anon.id/ques.id responses.  Once this was done, the 3-version items was even easier - on a new tab, delete anything that wasn't the third response.  The ones with two versions was most difficult because I needed to remove all of their first versions, then verify that I only kept twos that didn't have a third version.)
+  
   1.4 RECOMBINING THE NARROWED RESPONSES (37,048 responses)
   As the title implies, all the (now unique) data from the ones, twos, and threes was combined on a single table.  A backup was first saved as 'PELIC_221112 1617 (all unique responses).xlsx', then all extra sheets were deleted and the 'PELIC_221112 1617 (all unique responses).csv' (non-backup version) was converted and saved as a csv file.
   
+  1.5 FINDING ADDITIONAL DUPLICATES 
+  With only unique versions left, can now find additional duplicate answers.  Concatenated anon.id and text. For both columns: formatted duplicates as red, unique as green.  Filtered for duplicated (red) text and and unique (green) anon.id&text. Duplicate text but unique anon.id&text = selected response, not constructed.  Deleted all of them. Cleared filters.  Filtered by duplicate anon.id&text. Sorted text column alphabetically. These duplicate anon.id&text answers indicate exact same answers by the same people, yet they weren't different versions (removed earlier). Most often, these 'duplicates' had the same creation date. So, most likely, this was duplicate entries of one legitimate response - an error in data entry. Therefore, one of their answers were kept, and the remaining duplicates were deleted.
 
 MORE CLEANING - Non-English responses.
 Sorted the 'text' column of 'PELIC_221112 1617 (all unique responses).csv' into alphabetical order, and deleted any remaining entries that contained only non-English or non-UTF-8 encoded characters. Removed 258 rows with non-encoded characters and 38 rows with #NAME from formula characters that didn't convert properly between xlsx and csv files (likely a source of error on my part).
 
 
-CREATED TWO FINAL VERSIONS (of four)
-  "PELIC.minimal.untagged.all.metadata.221112.1752.csv""
-  "PELIC.minimal.untagged.justlanguage.221112.1752.csv""
+CREATED FINAL VERSIONS (pre-tagging)
+  "PELIC.cleaned.final.meta untagged 221117 1849.xlsx"
+  "PELIC.cleaned.final.nometa untagged 221117 1849.xlsx" (removed all columns except "text" column - prepping for CLAWS4 tagging)
+  Exported "PELIC.cleaned.final.nometa untagged 221117 1849.xlsx" to tab-delimited "PELIC.cleaned.final.nometa untagged 221117 1849.txt"
+
+CREATED FINAL VERSIONS (with CLAWS4-tagging)
+  Imported tagged version of "PELIC.cleaned.final.nometa untagged 221117 1849.txt"
+  "PELIC.cleaned.final.meta tagged 221117 1849.xlsx"
+  "PELIC.cleaned.final.nometa tagged 221117 1849.xlsx" (removed all columns except "text" column - prepping for CLAWS4 tagging) 
+ 
+  
   Exported "PELIC.minimal.untagged.justlanguage.221112.1752.csv" to tab-delimited "PELIC.minimal.untagged.justlanguage.221112.1752.txt"
 
 

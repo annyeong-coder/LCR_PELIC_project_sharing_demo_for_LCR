@@ -1,0 +1,7 @@
+Went back to orginal "full_uncleaned_PELIC_backup_221107_1826.csv" version, made a copy: "full_uncleaned_PELIC_backup_221117_1522.csv"
+	Made one more copy to work on: "PELIC.untagged.all.metadata.221117.1524.csv" 
+		This contains all the orginal issues: non- processable characters, line break issues, etc. Cleaning Starts.
+
+Used text cleaning to remove all non-printing characters, excessive spaces, symbols, etc.
+
+SUBSTITUTE(AF2, CHAR(9)," ")
