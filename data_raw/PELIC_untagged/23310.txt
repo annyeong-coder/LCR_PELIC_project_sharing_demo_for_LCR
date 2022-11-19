@@ -1,0 +1,1 @@
+Comets consists of a small solar system body.

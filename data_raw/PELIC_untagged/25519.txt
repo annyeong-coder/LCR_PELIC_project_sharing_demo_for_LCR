@@ -1,0 +1,1 @@
+Frequency the number of radio waves for every second of a radio signal n. Each call gets a unique assignment in the frequency spectrum.

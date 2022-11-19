@@ -1,0 +1,1 @@
+This class consist of ten students.

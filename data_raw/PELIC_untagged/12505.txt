@@ -1,0 +1,1 @@
+The fluctuation theorem FT is a theorem from statistical mechanics dealing with the relative probability that the entropy of a system which is currently away from thermodynamic equilibrium maximum entropy will increase or decrease over a given amount of time.

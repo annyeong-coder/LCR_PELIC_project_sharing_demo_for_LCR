@@ -1,0 +1,1 @@
+True. It says that food placed in the top steamer will take longer time to be cooked than food placed in the bottom steamer.

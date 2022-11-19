@@ -1,0 +1,1 @@
+This technique detecting planets work by using a special telescope that can measure small decreases in star's brightness.

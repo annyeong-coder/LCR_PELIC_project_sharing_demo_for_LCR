@@ -1,0 +1,1 @@
+We should distinguish the word from the text if it's a verb a noun or an adjective.
