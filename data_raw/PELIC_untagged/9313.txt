@@ -1,1 +1,0 @@
-POINT perspective DESTABILIZE unbalanced

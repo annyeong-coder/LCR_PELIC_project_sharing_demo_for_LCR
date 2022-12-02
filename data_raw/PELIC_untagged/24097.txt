@@ -1,1 +1,0 @@
-It doesn't recognize why an action is right or wrong so we can't modify it.

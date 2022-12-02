@@ -1,1 +1,0 @@
-This technique detecting planets work by observing stars.

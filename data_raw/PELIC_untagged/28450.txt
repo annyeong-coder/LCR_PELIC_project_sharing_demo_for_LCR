@@ -1,1 +1,0 @@
-1 Continent Asia Europe Africa. 2 Asia country Japan Vietnam Thailand. 3 Europe country France Switzerland Italy.

@@ -1,1 +1,0 @@
-Component Water is made of two components Oxygen and hydrogen.

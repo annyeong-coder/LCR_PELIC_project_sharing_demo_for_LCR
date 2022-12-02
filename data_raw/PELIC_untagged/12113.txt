@@ -1,1 +1,0 @@
-E. G. Rails surprisingly does not include a validation method to make a model attribute immutable. Attribute a quality or feature regarded as a characteristic or inherent part of someone or something

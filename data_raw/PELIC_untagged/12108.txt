@@ -1,1 +1,0 @@
-The QAW was developed to complement the Architecture Tradeoff Analysis Method ATAM and provides a way to identify important quality attributes and clarify system requirements before the software architecture has been created. N a good or useful quality

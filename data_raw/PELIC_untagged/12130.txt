@@ -1,1 +1,0 @@
-Tracking Attribute Changes Rails 2. 1 Keeps track of the changes you make to a model's attributes. It also allows you to see what the previous value was. But watch out for the gotcha! See this episode for details. Meaning A quality or characteristic inherent in or ascribed to someone or something.

@@ -1,1 +1,0 @@
-The probability that Pittsburgh Penguin will be a champion of Stanley Cup is 50 if they win a game on Thursday.

@@ -1,1 +1,0 @@
-There are two part of test about traffic. One is writting. Another is diver with a diver. You must pass them.

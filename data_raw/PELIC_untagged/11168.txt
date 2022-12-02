@@ -1,1 +1,0 @@
-Grammar class is the integral one. The other classes depend on it.

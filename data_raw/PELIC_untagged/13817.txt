@@ -1,1 +1,0 @@
-A startup founded by ex Google and Yahoo employees will provide commercial support for the Hadoop large scale computing framework.

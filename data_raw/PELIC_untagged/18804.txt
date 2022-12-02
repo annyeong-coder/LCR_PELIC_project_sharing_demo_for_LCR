@@ -1,1 +1,0 @@
-Engineer Mastered Intel microprocessors and how to control them. Developed micro mouse that finds exit in a labyrinth.

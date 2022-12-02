@@ -1,1 +1,0 @@
-We should use our Pitt account and password to log in first through the Secure VPN Service that allows us to connect to restricted resources when we are not on campus.

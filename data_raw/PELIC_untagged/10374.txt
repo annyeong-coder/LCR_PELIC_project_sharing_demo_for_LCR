@@ -1,1 +1,0 @@
-The protocol that is used for nucleic acids extraction is very useful.

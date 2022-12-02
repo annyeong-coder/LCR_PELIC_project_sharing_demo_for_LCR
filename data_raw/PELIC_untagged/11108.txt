@@ -1,1 +1,0 @@
-All exsiting values will be evaluated by history.

@@ -1,1 +1,0 @@
-The telescope detects small decrease of birghtness.

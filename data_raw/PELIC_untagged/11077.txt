@@ -1,1 +1,0 @@
-Test is a method to evaluate student's performance.

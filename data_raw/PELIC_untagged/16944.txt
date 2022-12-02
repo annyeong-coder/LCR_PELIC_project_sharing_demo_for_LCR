@@ -1,1 +1,0 @@
-It means to put the appropriate activity in the right environment not to change the environment to accept the activity.
